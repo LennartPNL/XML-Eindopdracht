@@ -130,11 +130,7 @@
                                   <xs:element name="model" type="xs:string"/>
                                   <xs:element name="bouwjaar" type="bouwjaar"/>
                                   <xs:element name="brandstof" type="brandstof"/>
-                                  <xs:element name="prijs" type="prijs">
-                                    <xs:complexType>
-                                          <xs:attribute name="valuta" type="xs:string"/>
-                                    </xs:complexType>
-                                  </xs:element>
+                                  <xs:element name="prijs" type="prijs"/>
                                   <xs:element name="datumEindAPK" type="datum" minOccurs="0" maxOccurs="1"/>
                                   <xs:element name="fotos">
                                     <xs:complexType>
@@ -235,14 +231,14 @@
 
   <xs:complexType name="foto">
     <xs:sequence>
-      <xs:element name="foto">
-        <xs:complexType>
+      <!--<xs:element name="foto">-->
+        <!--<xs:complexType>-->
           <xs:sequence>
             <xs:element name="bestandsLocatie" type="bestandsLocatie"/>
             <xs:element name="alt" type="xs:string"/>
           </xs:sequence>
-        </xs:complexType>
-      </xs:element>
+        <!--</xs:complexType>-->
+      <!--</xs:element>-->
     </xs:sequence>
   </xs:complexType>
 
