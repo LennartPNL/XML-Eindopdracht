@@ -2,16 +2,16 @@
 
 <!ENTITY % car "(kenteken, type, merk, model, bouwjaar, brandstof, prijs, datumEindAPK, fotos)">
 <!ENTITY % newcar "(kenteken?, type, merk, model, bouwjaar, brandstof, prijs, datumEindAPK?, fotos)">
-<!ENTITY % openingsTijden "open CDATA #REQUIRED 
-  												sluiting CDATA #REQUIRED">
+<!ENTITY % openingsTijden "open CDATA #REQUIRED
+                                        sluiting CDATA #REQUIRED">
 <!-- ROOT -->
 <!ELEMENT garages (garage+)>
 
 <!-- GARAGE -->
 <!ATTLIST garage naam CDATA #REQUIRED>
-<!ELEMENT garage (adres, contactGegevens, faciliteiten, fotos, werkplaats, showroom, keurmerken, medewerkers)>
+<!ELEMENT garage (adres, contactGegevens, faciliteiten, fotos, werkplaats, showroom, keurmerken?, medewerkers)>
 
-<!ELEMENT openingstijden (maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag)>
+<!ELEMENT openingstijden (maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag)?>
 <!ELEMENT maandag EMPTY>
 <!ELEMENT dinsdag EMPTY>
 <!ELEMENT woensdag EMPTY>
@@ -44,7 +44,7 @@
 <!ELEMENT routebeschrijving (#PCDATA)>
 
 <!-- FACILITEITEN -->
-<!ELEMENT faciliteiten (pompen, wassen, winkel)>
+<!ELEMENT faciliteiten (pompen, wassen, winkel)?>
 <!ELEMENT pompen (pomp*)>
 <!ELEMENT pomp (#PCDATA)>
 <!ATTLIST pomp brandstofType (Benzine | Gas | Diesel) "Benzine">
@@ -56,11 +56,11 @@
 
 <!-- FACILITEITEN: WINKEL -->
 <!ELEMENT winkel (openingstijden, assortiment)>
-<!ELEMENT assortiment (levensmiddelen?, rookwaar?, tijdschriften?, autoAccesoires?)>
-<!ELEMENT levensmiddelen (#PCDATA)>
-<!ELEMENT rookwaar (#PCDATA)>
-<!ELEMENT tijdschriften (#PCDATA)>
-<!ELEMENT autoAccesoires (#PCDATA)>
+<!ELEMENT assortiment (levensmiddelen, rookwaar, tijdschriften, autoAccesoires)?>
+<!ELEMENT levensmiddelen EMPTY>
+<!ELEMENT rookwaar EMPTY>
+<!ELEMENT tijdschriften EMPTY>
+<!ELEMENT autoAccesoires EMPTY>
 
 <!-- FOTOS -->
 <!ELEMENT fotos (foto)+>
@@ -93,12 +93,13 @@
 <!ELEMENT brandstof (#PCDATA)>
 <!ATTLIST brandstof type (Benzine | Gas | Diesel | Geen) "Geen">
 <!ELEMENT prijs (#PCDATA)>
+<!ATTLIST prijs valuta (euro) "euro">
 <!ELEMENT datumEindAPK (#PCDATA)>
 
 <!-- KEURMERKEN -->
 <!ELEMENT keurmerken (keurmerk*)>
 <!ELEMENT keurmerk (#PCDATA)>
-<!ATTLIST keurmerk type (RDW | BOVAG | Geen) "Geen">
+<!ATTLIST keurmerk type (RDW | BOVAG)>
 
 <!-- MEDEWERKERS -->
 <!ELEMENT medewerkers (medewerker)+>

@@ -5,7 +5,7 @@
   <xs:element name="garages">
       <xs:complexType>
         <xs:sequence>
-          <xs:element name="garage" minOccurs="1">
+          <xs:element name="garage" minOccurs="1" maxOccurs="unbounded">
             <xs:complexType>
               <xs:sequence>
                 <xs:element name="adres">
@@ -38,7 +38,7 @@
                       <xs:element name="pompen" minOccurs="0" maxOccurs="1">
                         <xs:complexType>
                           <xs:sequence>
-                            <xs:element name="pomp" minOccurs="0">
+                            <xs:element name="pomp" minOccurs="0" maxOccurs="unbounded">
                               <xs:complexType>
                                 <xs:attribute name="brandstofType" type="brandstof"/>
                               </xs:complexType>
@@ -50,13 +50,13 @@
                       <xs:element name="wassen" minOccurs="0" maxOccurs="1">
                         <xs:complexType>
                           <xs:sequence>
-                            <xs:element name="wasstraat" minOccurs="0">
+                            <xs:element name="wasstraat" minOccurs="0" maxOccurs="unbounded">
                               <xs:complexType>
                                 <xs:attribute name="aantal" type="xs:integer"/>
                               </xs:complexType>
                               </xs:element>
 
-                              <xs:element name="wasbox" minOccurs="0">
+                              <xs:element name="wasbox" minOccurs="0" maxOccurs="unbounded">
                               <xs:complexType>
                                 <xs:attribute name="aantal" type="xs:integer"/>
                               </xs:complexType>
@@ -121,7 +121,7 @@
                       <xs:element name="autos">
                         <xs:complexType>
                           <xs:sequence>
-                            <xs:element name="nieuw" minOccurs="0">
+                            <xs:element name="nieuw" minOccurs="0" maxOccurs="unbounded">
                               <xs:complexType>
                                 <xs:sequence>
                                   <xs:element name="kenteken" type="kenteken" minOccurs="0" maxOccurs="1"/>
@@ -143,7 +143,7 @@
                               </xs:complexType>
                             </xs:element>
 
-                            <xs:element name="occasions" minOccurs="0">
+                            <xs:element name="occasions" minOccurs="0" maxOccurs="unbounded">
                               <xs:complexType>
                                 <xs:sequence>
                                   <xs:element name="kenteken" type="kenteken"/>
@@ -165,7 +165,7 @@
                               </xs:complexType>
                             </xs:element>
 
-                            <xs:element name="huur" minOccurs="1">
+                            <xs:element name="huur" minOccurs="1" maxOccurs="unbounded">
                               <xs:complexType>
                                 <xs:sequence>
                                   <xs:element name="kenteken" type="kenteken"/>
@@ -179,7 +179,7 @@
                                   <xs:element name="fotos">
                                     <xs:complexType>
                                       <xs:sequence>
-                                        <xs:element name="foto" type="foto" minOccurs="1"/>
+                                        <xs:element name="foto" type="foto" minOccurs="1" maxOccurs="unbounded"/>
                                       </xs:sequence>
                                     </xs:complexType>
                                   </xs:element>
@@ -197,7 +197,7 @@
                 <xs:element name="keurmerken" minOccurs="0" maxOccurs="1">
                   <xs:complexType>
                     <xs:sequence>
-                      <xs:element name="keurmerk" minOccurs="0">
+                      <xs:element name="keurmerk" minOccurs="0" maxOccurs="unbounded">
                         <xs:complexType>
                           <xs:attribute name="type" type="keurmerk"/>
                         </xs:complexType>
@@ -209,7 +209,7 @@
                 <xs:element name="medewerkers">
                   <xs:complexType>
                     <xs:sequence>
-                      <xs:element name="medewerker" minOccurs="1">
+                      <xs:element name="medewerker" minOccurs="1" maxOccurs="unbounded">
                         <xs:complexType>
                           <xs:sequence>
                             <xs:element name="naam" type="xs:string"/>
