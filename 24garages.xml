@@ -2532,4 +2532,903 @@
             </medewerker>
         </medewerkers>
     </garage> <!-- garage 14 -->
+    <garage naam="Autogas"> <!-- garage 15 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>paardweg</straat>
+            <nummer>66</nummer>
+            <postcode>7346TR</postcode>
+            <plaats>Coevorden</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>068456378154</telefoonnummer>
+            <email>info@Autogas.nl</email>
+            <website>http://www.Autogas.nl</website>
+            <omschrijving> Autogas is snel en goedkoop dus kom snel langs.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Autogas/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="0"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <rookwaar/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.Autogas.nl/foto.jpg</bestandsLocatie>
+                <alt>Autogas</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <APKkeuring/>
+                <schadeherstel/>
+                <ruitenreparatie/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>BR-RRX-14</kenteken>
+                    <type>Sedan</type>
+                    <merk>Honda</merk>
+                    <model>Accord</model>
+                    <bouwjaar>2000</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1500</prijs>
+                    <datumEindAPK>12-11-2022</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Autogas.nl/hondaaccord.jpg</bestandsLocatie>
+                            <alt>Honda Accord</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-UA3-31</kenteken>
+                    <type>SUV</type>
+                    <merk>Volvo</merk>
+                    <model>S70</model>
+                    <bouwjaar>1998</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1500</prijs>
+                    <datumEindAPK>07-05-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Autogas.nl/volvoS70.jpg</bestandsLocatie>
+                            <alt>Volvo S70</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Morris Dierens</naam>
+                <foto>
+                    <bestandsLocatie>http://www.Autogas.nl/morrisdierens.jpg</bestandsLocatie>
+                    <alt>Morris Dierens</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 15 -->
+    <garage naam="carexpert"> <!-- garage 16 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>carrelaan</straat>
+            <nummer>99A</nummer>
+            <postcode>0346TR</postcode>
+            <plaats>Dalen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>068456078154</telefoonnummer>
+            <email>info@carexpert.nl</email>
+            <website>http://www.carexpert.nl</website>
+            <omschrijving> carexpert is snel en goedkoop dus kom snel langs.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+carexpert/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="3"/>
+                <wasbox aantal="5"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <rookwaar/>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.carexpert.nl/foto.jpg</bestandsLocatie>
+                <alt>carexpert</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <APKkeuring/>
+                <ruitenreparatie/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>PP-UAM-31</kenteken>
+                    <type>SUV</type>
+                    <merk>Peugeot</merk>
+                    <model>406</model>
+                    <bouwjaar>2000</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1600</prijs>
+                    <datumEindAPK>03-03-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.carexpert.nl/Peugeot406.jpg</bestandsLocatie>
+                            <alt>Peugeot 406</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Esther Varenberg</naam>
+                <foto>
+                    <bestandsLocatie>http://www.carexpert.nl/esthervarenberg.jpg</bestandsLocatie>
+                    <alt>Esther Varenberg</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Menno Meulen</naam>
+                <foto>
+                    <bestandsLocatie>http://www.carexpert.nl/mennomeulen.jpg</bestandsLocatie>
+                    <alt>Menno Meulen</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 16 -->
+    <garage naam="minicar"> <!-- garage 17 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>achterweg</straat>
+            <nummer>15C</nummer>
+            <postcode>0341TR</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>060456078154</telefoonnummer>
+            <email>info@minicar.nl</email>
+            <website>http://www.minicar.nl</website>
+            <omschrijving> minicar is snel en goedkoop dus kom snel langs.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+minicar/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Gas"/>
+                <pomp brandstofType="Diesel"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="3"/>
+                <wasbox aantal="2"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <rookwaar/>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.minicar.nl/foto.jpg</bestandsLocatie>
+                <alt>minicar</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <ruitenreparatie/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-UEH-31</kenteken>
+                    <type>Sedan</type>
+                    <merk>Opel</merk>
+                    <model>Meriva</model>
+                    <bouwjaar>2004</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1649.00</prijs>
+                    <datumEindAPK>03-05-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.minicar.nl/opelmeriva.jpg</bestandsLocatie>
+                            <alt>Opel Meriva</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Stan Smet</naam>
+                <foto>
+                    <bestandsLocatie>http://www.minicar.nl/stansmet.jpg</bestandsLocatie>
+                    <alt>Stan Smet</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>John Kasteel</naam>
+                <foto>
+                    <bestandsLocatie>http://www.minicar.nl/johnkasteel.jpg</bestandsLocatie>
+                    <alt>John Kasteel</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 17 -->
+    <garage naam="autodroom"> <!-- garage 18 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Muslaan</straat>
+            <nummer>64E</nummer>
+            <postcode>1443RE</postcode>
+            <plaats>Coevorden</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0685640086</telefoonnummer>
+            <email>info@autodroom.nl</email>
+            <website>http://www.autodroom.nl</website>
+            <omschrijving> autodroom is snel en goedkoop dus kom snel lang!</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autodroom/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="1"/>
+                <wasbox aantal="1"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <rookwaar/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autodroom.nl/foto.jpg</bestandsLocatie>
+                <alt>autodroom foto van het bedrijf</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <APKkeuring/>
+                <schadeherstel/>
+                <ruitenreparatie/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>TE-UUU-06</kenteken>
+                    <type>SUV</type>
+                    <merk>Volvo</merk>
+                    <model>204</model>
+                    <bouwjaar>1992</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1750</prijs>
+                    <datumEindAPK>09-04-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autodroom.nl/volvo204.jpg</bestandsLocatie>
+                            <alt>Volvo 204</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+                <nieuw>
+                    <kenteken>TR-UIU-01</kenteken>
+                    <type>Sedan</type>
+                    <merk>Volkswagen</merk>
+                    <model>Sharan</model>
+                    <bouwjaar>2001</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1750.00</prijs>
+                    <datumEindAPK>01-08-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autodroom.nl/VWSharan.jpg</bestandsLocatie>
+                            <alt>Volkswagen Sharan</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-URR-22</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Renault</merk>
+                    <model>Twingo</model>
+                    <bouwjaar>2002</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1750</prijs>
+                    <datumEindAPK>07-01-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autodroom.nl/.jpg</bestandsLocatie>
+                            <alt>Renault Twingo</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Martine Gast</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autodroom.nl/martinagast.jpg</bestandsLocatie>
+                    <alt>Martina Gast</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Hugo Poppe</naam>
+                <foto>
+                    <bestandsLocatie>http://www.Autoconcurrent.nl/hugopoppe.jpg</bestandsLocatie>
+                    <alt>hugopoppe</alt>
+                </foto>
+                <functie>Balie medewerker</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 18 -->
+    <garage naam="scania"> <!-- garage 19 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>kogellaan</straat>
+            <nummer>10A</nummer>
+            <postcode>0246TR</postcode>
+            <plaats>Coevorden</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>068456000154</telefoonnummer>
+            <email>info@scania.nl</email>
+            <website>http://www.scania.nl</website>
+            <omschrijving> scania is snel en goedkoop dus kom snel langs.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+scania/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Gas"/>
+                <pomp brandstofType="Diesel"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="5"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.scania.nl/foto.jpg</bestandsLocatie>
+                <alt>scania</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <APKkeuring/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>YU-UAM-31</kenteken>
+                    <type>Sedan</type>
+                    <merk>Nissan</merk>
+                    <model>Almera</model>
+                    <bouwjaar>2003</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1895</prijs>
+                    <datumEindAPK>03-01-2022</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.scania.nl/nissanalmera.jpg</bestandsLocatie>
+                            <alt>Nissan Almera</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Emiel Dijkstra</naam>
+                <foto>
+                    <bestandsLocatie>http://www.scania.nl/emieldijkstra.jpg</bestandsLocatie>
+                    <alt>Email dijkstra</alt>
+                </foto>
+                <functie>winkel beheerder</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Paolo Pupre</naam>
+                <foto>
+                    <bestandsLocatie>http://www.scania.nl/poalopupre.jpg</bestandsLocatie>
+                    <alt>Paolo Pupre</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 19 -->
+    <garage naam="autoplex"> <!-- garage 20 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Onderweg</straat>
+            <nummer>33N</nummer>
+            <postcode>1456AJ</postcode>
+            <plaats>Dalen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0686888859</telefoonnummer>
+            <email>info@autoplex.nl</email>
+            <website>http://www.autoplex.nl</website>
+            <omschrijving> autoplex is een groot internationaal bedrijf.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autoplex/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="0"/>
+                <wasbox aantal="1"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autoplex.nl/foto.jpg</bestandsLocatie>
+                <alt>autoplex</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="8:00" sluiting="21:00"/>
+                <dinsdag open="8:00" sluiting="21:00"/>
+                <woensdag open="9:00" sluiting="17:00"/>
+                <donderdag open="10:00" sluiting="13:00"/>
+                <vrijdag open="8:00" sluiting="21:00"/>
+                <zaterdag open="13:00" sluiting="21:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>AA-UA-11</kenteken>
+                    <type>Sedan</type>
+                    <merk>BMW</merk>
+                    <model>Z3</model>
+                    <bouwjaar>2018</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">300000</prijs>
+                    <datumEindAPK>12-11-2022</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autoplex.nl/BMWZ3.jpg</bestandsLocatie>
+                            <alt>BMW Z3</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>PP-AW-82</kenteken>
+                    <type>Sedan</type>
+                    <merk>Lancia</merk>
+                    <model>Ypsilon</model>
+                    <bouwjaar>2004</bouwjaar>
+                    <brandstof>benzine</brandstof>
+                    <prijs valuta="euro">180</prijs>
+                    <datumEindAPK>07-12-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autoplex.nl/opelminerva.jpg</bestandsLocatie>
+                            <alt>Lancia Ypsilon</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Hanna Debecker</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autoplex.nl/hannadebecker.jpg</bestandsLocatie>
+                    <alt>Hanna Debecker</alt>
+                </foto>
+                <functie>balie medewerker</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Oswin Coppens</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autoplex.nl/oswincoppens.jpg</bestandsLocatie>
+                    <alt>Oswin coppens</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 20 -->
 </garages>
