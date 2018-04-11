@@ -74,15 +74,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <div class="afbeelding">
               <h2>Afbeeldingen</h2>
               <xsl:for-each select="garages/garage" >
-                <img class="garageFoto" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
-                <img class="keurmerkFoto" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                <img class="garageFoto" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                <img class="keurmerkFoto" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
               </xsl:for-each>
 
               <div class="medewerkers">
                 <xsl:for-each select="garages/medewerker" >
-                  <img class="medewerker1" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
-                  <img class="medewerker2" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
-                  <img class="medewerker3" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                  <img class="medewerker1" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                  <img class="medewerker2" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                  <img class="medewerker3" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
                 </xsl:for-each>
               </div>
 
@@ -92,7 +92,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <h2>Faciliteiten</h2>
 
               <div class="pomp">
-                <img class="pomp" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                <img class="pomp" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
                 <ul class="brandstof">
                   <xsl:for-each select="garages/pomp" >
                     <li>
@@ -343,15 +343,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <h2>Showroom</h2>
 
               <div class="nieuw">
-                <img class="nieuw" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>"/>
+                <img class="nieuw" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>"/>
               </div>
 
               <div class="occasiom">
-                <img class="occasion" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                <img class="occasion" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
               </div>
 
               <div class="huur">
-                <img class="huur" src=""<xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                <img class="huur" src=""></img><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
               </div>
 
             </div>
