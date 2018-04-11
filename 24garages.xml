@@ -1633,7 +1633,7 @@
                     <datumEindAPK>07-01-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Autoconcurrent.nl/.jpg</bestandsLocatie>
+                            <bestandsLocatie>http://www.Autoconcurrent.nl.jpg</bestandsLocatie>
                             <alt>Lancia Ypsilon</alt>
                         </foto>
                     </fotos>
@@ -2367,7 +2367,7 @@
 
         <!--ContactGegevens-->
         <contactGegevens>
-            <telefoonnummer>068456378654</telefoonnummer>
+            <telefoonnummer>0686378654</telefoonnummer>
             <email>info@kwikfit.nl</email>
             <website>http://www.kwikfit.nl</website>
             <omschrijving> kwikfit is snel en goedkoop dus kom snel langs.</omschrijving>
@@ -2383,7 +2383,7 @@
 
             <wassen>
                 <wasstraat aantal="2"/>
-                <wasbox aantal=""/>
+                <wasbox aantal="0"/>
             </wassen>
             <!--Winkel-->
             <winkel>
@@ -2544,7 +2544,7 @@
 
         <!--ContactGegevens-->
         <contactGegevens>
-            <telefoonnummer>068456378154</telefoonnummer>
+            <telefoonnummer>0684563754</telefoonnummer>
             <email>info@Autogas.nl</email>
             <website>http://www.Autogas.nl</website>
             <omschrijving> Autogas is snel en goedkoop dus kom snel langs.</omschrijving>
@@ -2695,7 +2695,7 @@
 
         <!--ContactGegevens-->
         <contactGegevens>
-            <telefoonnummer>068456078154</telefoonnummer>
+            <telefoonnummer>0684568154</telefoonnummer>
             <email>info@carexpert.nl</email>
             <website>http://www.carexpert.nl</website>
             <omschrijving> carexpert is snel en goedkoop dus kom snel langs.</omschrijving>
@@ -2837,7 +2837,7 @@
 
         <!--ContactGegevens-->
         <contactGegevens>
-            <telefoonnummer>060456078154</telefoonnummer>
+            <telefoonnummer>0604568154</telefoonnummer>
             <email>info@minicar.nl</email>
             <website>http://www.minicar.nl</website>
             <omschrijving> minicar is snel en goedkoop dus kom snel langs.</omschrijving>
@@ -3104,7 +3104,7 @@
                     <datumEindAPK>07-01-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autodroom.nl/.jpg</bestandsLocatie>
+                            <bestandsLocatie>http://www.autodroom.nl.jpg</bestandsLocatie>
                             <alt>Renault Twingo</alt>
                         </foto>
                     </fotos>
@@ -3151,7 +3151,7 @@
 
         <!--ContactGegevens-->
         <contactGegevens>
-            <telefoonnummer>068456000154</telefoonnummer>
+            <telefoonnummer>0684560154</telefoonnummer>
             <email>info@scania.nl</email>
             <website>http://www.scania.nl</website>
             <omschrijving> scania is snel en goedkoop dus kom snel langs.</omschrijving>
@@ -3476,7 +3476,6 @@
 
                 <assortiment>
                     <autoAccesoires/>
-                    <rookwaar/>
                 </assortiment>
 
             </winkel>
@@ -3506,7 +3505,6 @@
             <werkzaamheden>
                 <APKkeuring/>
                 <bandenservice/>
-                <ruitenreparatie/>
             </werkzaamheden>
         </werkplaats>
 
@@ -3633,8 +3631,6 @@
 
                 <assortiment>
                     <autoAccesoires/>
-                    <rookwaar/>
-                    <tijdschriften/>
                 </assortiment>
 
             </winkel>
@@ -3664,8 +3660,6 @@
             <werkzaamheden>
                 <APKkeuring/>
                 <bandenservice/>
-                <ruitenreparatie/>
-                <aircoservice/>
             </werkzaamheden>
         </werkplaats>
 
@@ -3792,8 +3786,6 @@
 
                 <assortiment>
                     <autoAccesoires/>
-                    <rookwaar/>
-                    <tijdschriften/>
                 </assortiment>
 
             </winkel>
@@ -3949,8 +3941,6 @@
 
             <assortiment>
                 <autoAccesoires/>
-                <rookwaar/>
-                <levensmiddelen/>
             </assortiment>
 
         </winkel>
@@ -4002,7 +3992,7 @@
                 <type>Terreinwagen</type>
                 <merk>Kia</merk>
                 <model>Spottage</model>
-                <bouwjaar>207</bouwjaar>
+                <bouwjaar>2007</bouwjaar>
                 <brandstof>Gas</brandstof>
                 <prijs>33000</prijs>
                 <datumEindAPK>12-04-2021</datumEindAPK>
