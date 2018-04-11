@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace"/>
+  <xs:element name="garages">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="garage" minOccurs="1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="adres">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="straat" type="xs:string"/>
+                      <xs:element name="nummer" type="nummer"/>
+                      <xs:element name="postcode" type="postcode"/>
+                      <xs:element name="plaats" type="xs:string"/>
+                      <xs:element name="provincie" type="xs:string"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <xs:element name="contactGegevens">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="telefoonnummer" type="telefoonnummer"/>
+                      <xs:element name="email" type="email"/>
+                      <xs:element name="website" type="url" minOccurs="0" maxOccurs="1"/>
+                      <xs:element name="omschrijving" type="xs:string"/>
+                      <xs:element name="routebeschrijving" type="url"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <xs:element name="faciliteiten">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="pompen" minOccurs="0" maxOccurs="1">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="pomp" minOccurs="0">
+                              <xs:complexType>
+                                <xs:attribute name="brandstofType" type="brandstof"/>
+                              </xs:complexType>
+                              </xs:element>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+
+                      <xs:element name="wassen" minOccurs="0" maxOccurs="1">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="wasstraat" minOccurs="0">
+                              <xs:complexType>
+                                <xs:attribute name="aantal" type="xs:integer"/>
+                              </xs:complexType>
+                              </xs:element>
+
+                              <xs:element name="wasbox" minOccurs="0">
+                              <xs:complexType>
+                                <xs:attribute name="aantal" type="xs:integer"/>
+                              </xs:complexType>
+                              </xs:element>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+
+                      <xs:element name="winkel" minOccurs="0" maxOccurs="1">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="openingstijden" type="openingstijden"/>
+                            <xs:element name="assortiment">
+                              <xs:complexType>
+                                <xs:sequence>
+                                  <xs:element name="levensmiddelen" minOccurs="0" maxOccurs="1"/>
+                                  <xs:element name="rookwaar" minOccurs="0" maxOccurs="1"/>
+                                  <xs:element name="tijdschriften" minOccurs="0" maxOccurs="1"/>
+                                  <xs:element name="autoAccesoires" minOccurs="0" maxOccurs="1"/>
+                                </xs:sequence>
+                              </xs:complexType>
+                            </xs:element>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <xs:element name="fotos">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="foto" type="foto" minOccurs="1"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <xs:element name="werkplaats">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="openingstijden" type="openingstijden"/>
+                      <xs:element name="werkzaamheden">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="onderhoud" minOccurs="0" maxOccurs="1"/>
+                            <xs:element name="APKkeuring" minOccurs="0" maxOccurs="1"/>
+                            <xs:element name="schadeherstel" minOccurs="0" maxOccurs="1"/>
+                            <xs:element name="ruitenreparatie" minOccurs="0" maxOccurs="1"/>
+                            <xs:element name="aircoservice" minOccurs="0" maxOccurs="1"/>
+                            <xs:element name="bandenservice" minOccurs="0" maxOccurs="1"/>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <xs:element name="showroom">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="openingstijden" type="openingstijden"/>
+                      <xs:element name="autos">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="nieuw" minOccurs="0">
+                              <xs:complexType>
+                                <xs:sequence>
+                                  <xs:element name="kenteken" type="kenteken" minOccurs="0" maxOccurs="1"/>
+                                  <xs:element name="type" type="type"/>
+                                  <xs:element name="merk" type="xs:string"/>
+                                  <xs:element name="model" type="xs:string"/>
+                                  <xs:element name="bouwjaar" type="bouwjaar"/>
+                                  <xs:element name="brandstof" type="brandstof"/>
+                                  <xs:element name="prijs" type="prijs"/>
+                                  <xs:element name="datumEindAPK" type="datum" minOccurs="0" maxOccurs="1"/>
+                                  <xs:element name="fotos">
+                                    <xs:complexType>
+                                      <xs:sequence>
+                                        <xs:element name="foto" type="foto" minOccurs="1"/>
+                                      </xs:sequence>
+                                    </xs:complexType>
+                                  </xs:element>
+                                </xs:sequence>
+                              </xs:complexType>
+                            </xs:element>
+
+                            <xs:element name="occasions" minOccurs="0">
+                              <xs:complexType>
+                                <xs:sequence>
+                                  <xs:element name="kenteken" type="kenteken"/>
+                                  <xs:element name="type" type="type"/>
+                                  <xs:element name="merk" type="xs:string"/>
+                                  <xs:element name="model" type="xs:string"/>
+                                  <xs:element name="bouwjaar" type="bouwjaar"/>
+                                  <xs:element name="brandstof" type="brandstof"/>
+                                  <xs:element name="prijs" type="prijs"/>
+                                  <xs:element name="datumEindAPK" type="datum"/>
+                                  <xs:element name="fotos">
+                                    <xs:complexType>
+                                      <xs:sequence>
+                                        <xs:element name="foto" type="foto" minOccurs="1"/>
+                                      </xs:sequence>
+                                    </xs:complexType>
+                                  </xs:element>
+                                </xs:sequence>
+                              </xs:complexType>
+                            </xs:element>
+
+                            <xs:element name="huur" minOccurs="1">
+                              <xs:complexType>
+                                <xs:sequence>
+                                  <xs:element name="kenteken" type="kenteken"/>
+                                  <xs:element name="type" type="type"/>
+                                  <xs:element name="merk" type="xs:string"/>
+                                  <xs:element name="model" type="xs:string"/>
+                                  <xs:element name="bouwjaar" type="bouwjaar"/>
+                                  <xs:element name="brandstof" type="brandstof"/>
+                                  <xs:element name="prijs" type="prijs"/>
+                                  <xs:element name="datumEindAPK" type="datum"/>
+                                  <xs:element name="fotos">
+                                    <xs:complexType>
+                                      <xs:sequence>
+                                        <xs:element name="foto" type="foto" minOccurs="1"/>
+                                      </xs:sequence>
+                                    </xs:complexType>
+                                  </xs:element>
+                                </xs:sequence>
+                                <xs:attribute name="uitleenbaar" type="xs:boolean"/>
+                              </xs:complexType>
+                            </xs:element>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <xs:element name="keurmerken" minOccurs="0" maxOccurs="1">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="keurmerk" minOccurs="0">
+                        <xs:complexType>
+                          <xs:attribute name="type" type="keurmerk"/>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <xs:element name="medewerkers">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="medewerker" minOccurs="1">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="naam" type="xs:string"/>
+                            <xs:element name="foto" type="foto"/>
+                            <xs:element name="functie" type="xs:string"/>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+              <xs:attribute name="naam" type="xs:string"/>
+            </xs:complexType>
+          </xs:element>
+        </xs:sequence>
+      </xs:complexType>
+	</xs:element>
+
+  <xs:complexType name="foto">
+    <xs:sequence>
+      <xs:element name="foto">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="bestandsLocatie" type="bestandsLocatie"/>
+            <xs:element name="alt" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="openingstijden">
+    <xs:sequence>
+    	<xs:element name="maandag" minOccurs="0" maxOccurs="1">
+      	<xs:complexType>
+        	<xs:attribute name="open" type="tijdstip"/>
+          <xs:attribute name="sluiting" type="tijdstip"/>
+        </xs:complexType>
+			</xs:element>
+
+      <xs:element name="dinsdag" minOccurs="0" maxOccurs="1">
+        <xs:complexType>
+          <xs:attribute name="open" type="tijdstip"/>
+          <xs:attribute name="sluiting" type="tijdstip"/>
+        </xs:complexType>
+      </xs:element>
+
+      <xs:element name="woensdag" minOccurs="0" maxOccurs="1">
+        <xs:complexType>
+          <xs:attribute name="open" type="tijdstip"/>
+          <xs:attribute name="sluiting" type="tijdstip"/>
+        </xs:complexType>
+      </xs:element>
+
+      <xs:element name="donderdag" minOccurs="0" maxOccurs="1">
+        <xs:complexType>
+          <xs:attribute name="open" type="tijdstip"/>
+          <xs:attribute name="sluiting" type="tijdstip"/>
+        </xs:complexType>
+      </xs:element>
+
+      <xs:element name="vrijdag" minOccurs="0" maxOccurs="1">
+        <xs:complexType>
+          <xs:attribute name="open" type="tijdstip"/>
+          <xs:attribute name="sluiting" type="tijdstip"/>
+        </xs:complexType>
+      </xs:element>
+
+      <xs:element name="zaterdag" minOccurs="0" maxOccurs="1">
+        <xs:complexType>
+          <xs:attribute name="open" type="tijdstip"/>
+          <xs:attribute name="sluiting" type="tijdstip"/>
+        </xs:complexType>
+      </xs:element>
+
+      <xs:element name="zondag" minOccurs="0" maxOccurs="1">
+        <xs:complexType>
+          <xs:attribute name="open" type="tijdstip"/>
+          <xs:attribute name="sluiting" type="tijdstip"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:simpleType name="nummer">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9]{5}[A-Z]{0,2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="postcode">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9]{4}[A-Z]{2}"/>
+      <xs:length value="6"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="telefoonnummer">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9]{10}"/>
+      <xs:length value="10"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="email">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[^@]+@[^\.]+\..+"/>
+    </xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="url">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="http://.+"/>
+    </xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="brandstof">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="Benzine|Gas|Diesel"/>
+    </xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="kenteken">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[A-Z0-9]{2}[-][A-Z0-9]{2,3}[-][A-Z0-9]{2}"/>
+    </xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="type">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="Sedan|Hatchback|MPV|SUV|Coupé|Terreinwagen"/>
+    </xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="bouwjaar">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9]{4}"/>
+    </xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="prijs">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="([0-9])+([.][0-9]{2})?"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="datum">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9]{2}[-][0-9]{2}[-][0-9]{4}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="keurmerk">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="BOVAG|RDW"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="bestandsLocatie">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[a-zA-Z0-9]+(.jpeg|.jpg|.png)"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+  <xs:simpleType name="tijdstip">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-23][:][0-59]{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>
