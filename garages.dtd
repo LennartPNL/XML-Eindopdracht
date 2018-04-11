@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ENTITY % car "(kenteken, type, merk, model, bouwjaar, brandstof, prijs, datumEindAPK, fotos)">
+<!ENTITY % newcar "(kenteken?, type, merk, model, bouwjaar, brandstof, prijs, datumEindAPK?, fotos)">
+<!ENTITY % openingsTijden "open CDATA #REQUIRED 
+  												sluiting CDATA #REQUIRED">
+<!-- ROOT -->
+<!ELEMENT garages (garage+)>
+
+<!-- GARAGE -->
+<!ATTLIST garage naam CDATA #REQUIRED>
+<!ELEMENT garage (adres, contactGegevens, faciliteiten, fotos, werkplaats, showroom, keurmerken, medewerkers)>
+
+<!ELEMENT openingstijden (maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag)>
+<!ELEMENT maandag EMPTY>
+<!ELEMENT dinsdag EMPTY>
+<!ELEMENT woensdag EMPTY>
+<!ELEMENT donderdag EMPTY>
+<!ELEMENT vrijdag EMPTY>
+<!ELEMENT zaterdag EMPTY>
+<!ELEMENT zondag EMPTY>
+<!ATTLIST maandag %openingsTijden;>
+<!ATTLIST dinsdag %openingsTijden;>
+<!ATTLIST woensdag %openingsTijden;>
+<!ATTLIST donderdag %openingsTijden;>
+<!ATTLIST vrijdag %openingsTijden;>
+<!ATTLIST zaterdag %openingsTijden;>
+<!ATTLIST zondag %openingsTijden;>
+
+<!-- ADRES -->
+<!ELEMENT adres (straat, nummer, postcode, plaats, provincie)>
+<!ELEMENT straat (#PCDATA)>
+<!ELEMENT nummer (#PCDATA)>
+<!ELEMENT postcode (#PCDATA)>
+<!ELEMENT plaats (#PCDATA)>
+<!ELEMENT provincie (#PCDATA)>
+
+<!-- CONTACTGEGEVENS -->
+<!ELEMENT contactGegevens (telefoonnummer, email, website?, omschrijving, routebeschrijving)>
+<!ELEMENT telefoonnummer (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+<!ELEMENT omschrijving (#PCDATA)>
+<!ELEMENT routebeschrijving (#PCDATA)>
+
+<!-- FACILITEITEN -->
+<!ELEMENT faciliteiten (pompen, wassen, winkel)>
+<!ELEMENT pompen (pomp*)>
+<!ELEMENT pomp (#PCDATA)>
+<!ATTLIST pomp brandstofType (Benzine | Gas | Diesel) "Benzine">
+<!ELEMENT wassen (wasstraat, wasbox)*>
+<!ELEMENT wasstraat (#PCDATA)>
+<!ELEMENT wasbox (#PCDATA)>
+<!ATTLIST wasstraat aantal CDATA #REQUIRED>
+<!ATTLIST wasbox aantal CDATA #REQUIRED>
+
+<!-- FACILITEITEN: WINKEL -->
+<!ELEMENT winkel (openingstijden, assortiment)>
+<!ELEMENT assortiment (levensmiddelen?, rookwaar?, tijdschriften?, autoAccesoires?)>
+<!ELEMENT levensmiddelen (#PCDATA)>
+<!ELEMENT rookwaar (#PCDATA)>
+<!ELEMENT tijdschriften (#PCDATA)>
+<!ELEMENT autoAccesoires (#PCDATA)>
+
+<!-- FOTOS -->
+<!ELEMENT fotos (foto)+>
+<!ELEMENT foto (bestandsLocatie, alt)>
+<!ELEMENT alt (#PCDATA)>
+<!ELEMENT bestandsLocatie (#PCDATA)>
+
+<!-- WERKPLAATS -->
+<!ELEMENT werkplaats (openingstijden, werkzaamheden)>
+<!ELEMENT werkzaamheden (onderhoud, APKkeuring, schadeherstel, ruitenreparatie, aircoservice, bandenservice)?>
+<!ELEMENT onderhoud EMPTY>
+<!ELEMENT APKkeuring EMPTY>
+<!ELEMENT schadeherstel EMPTY>
+<!ELEMENT ruitenreparatie EMPTY>
+<!ELEMENT aircoservice EMPTY>
+<!ELEMENT bandenservice EMPTY>
+
+<!-- SHOWROOM -->
+<!ELEMENT showroom (openingstijden, autos)>
+<!ELEMENT autos (nieuw*, occasions*, huur+)>
+<!ELEMENT nieuw (%newcar;)>
+<!ELEMENT occasions (%car;)>
+<!ELEMENT huur (%car;)>
+<!ATTLIST huur uitleenbaar (true | false) "false">
+<!ELEMENT kenteken (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT merk (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT bouwjaar (#PCDATA)>
+<!ELEMENT brandstof (#PCDATA)>
+<!ATTLIST brandstof type (Benzine | Gas | Diesel | Geen) "Geen">
+<!ELEMENT prijs (#PCDATA)>
+<!ATTLIST prijs valuta (euro) "euro">
+<!ELEMENT datumEindAPK (#PCDATA)>
+
+<!-- KEURMERKEN -->
+<!ELEMENT keurmerken (keurmerk*)>
+<!ELEMENT keurmerk (#PCDATA)>
+<!ATTLIST keurmerk type (RDW | BOVAG | Geen) "Geen">
+
+<!-- MEDEWERKERS -->
+<!ELEMENT medewerkers (medewerker)+>
+<!ELEMENT medewerker (naam, foto, functie)>
+<!ELEMENT naam (#PCDATA)>
+<!ELEMENT functie (#PCDATA)>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
