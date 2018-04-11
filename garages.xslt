@@ -169,7 +169,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
           <div class="garageName">
             <h2>
-              <xsl:value-of select="naam"/>
+              <xsl:value-of select="garages/garage/@naam"/>
             </h2>
           </div>
 
@@ -180,19 +180,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <ul>
                 <xsl:for-each select="garages/garage" >
                   <li class="straat">
-                    <xsl:value-of select="straat"/>
+                    <xsl:value-of select="garages/garage/adres/straat"/>
                   </li>
                   <li class="nummer">
-                    <xsl:value-of select="nummer"/>
+                    <xsl:value-of select="garages/garage/adres/nummer"/>
                   </li>
                   <li class="postcode">
-                    <xsl:value-of select="postcode"/>
+                    <xsl:value-of select="garages/garage/adres/postcode"/>
                   </li>
                   <li class="plaats">
-                    <xsl:value-of select="plaats"/>
+                    <xsl:value-of select="garages/garage/adres/plaats"/>
                   </li>
                   <li class="provincie">
-                    <xsl:value-of select="provincie"/>
+                    <xsl:value-of select="garages/garage/adres/provincie"/>
                   </li>
                 </xsl:for-each>
               </ul>
@@ -203,19 +203,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <ul>
                 <xsl:for-each select="garages/garage" >
                   <li class="tel">
-                    <xsl:value-of select="telefoonnummer"/>
+                    <xsl:value-of select="garages/garage/contactGegevens/telefoonnummer"/>
                   </li>
                   <li class="email">
-                    <xsl:value-of select="email"/>
+                    <xsl:value-of select="garages/garage/contactGegevens/email"/>
                   </li>
                   <li class="site">
-                    <xsl:value-of select="website"/>
+                    <xsl:value-of select="garages/garage/contactGegevens/website"/>
                   </li>
                   <li class="omschrijving">
-                    <xsl:value-of select="omschrijving"/>
+                    <xsl:value-of select="garages/garage/contactGegevens/omschrijving"/>
                   </li>
                   <li class="route">
-                    <xsl:value-of select="routebeschrijving"/>
+                    <xsl:value-of select="garages/garage/contactGegevens/routebeschrijving"/>
                   </li>
                 </xsl:for-each>
               </ul>
