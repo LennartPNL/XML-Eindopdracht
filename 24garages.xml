@@ -1,0 +1,2536 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE garages SYSTEM "garages.dtd">
+
+
+<garages>
+
+    <garage naam="Het Schuurtje"> <!-- garage 1 -->
+      
+      <!--Adres-->
+      <adres>
+        <straat>Berendslaan</straat>
+        <nummer>89</nummer>
+        <postcode>7826UP</postcode>
+        <plaats>Emmen</plaats>
+        <provincie>Drenthe</provincie>
+      </adres>
+      
+      <!--ContactGegevens-->
+      <contactGegevens>
+        <telefoonnummer>0591277359</telefoonnummer>
+        <email>info@garageschuurman.nl</email>
+        <website>http://www.garageschuurman.nl</website>
+        <omschrijving> Edwin Schuurman beheert sinds 1974 garage Het Schuurtje.</omschrijving>
+        <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Het+Schuurtje/</routebeschrijving>
+      </contactGegevens>
+      
+      <!--Faciliteiten-->
+      	<faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="1"/>
+                <wasbox aantal="2"/>
+            </wassen>
+          <!--Winkel-->
+          	<winkel>
+              
+              <openingstijden>
+                <maandag open="10:00" sluiting="21:00"/>
+                <dinsdag open="10:00" sluiting="21:00"/>
+                <woensdag open="10:00" sluiting="21:00"/>
+                <donderdag open="10:00" sluiting="21:00"/>
+                <vrijdag open="10:00" sluiting="21:00"/>
+                <zaterdag open="10:00" sluiting="21:00"/>
+                <zondag open="12:00" sluiting="18:00"/>
+              </openingstijden>
+              
+              <assortiment>
+                <levensmiddelen/>
+                <rookwaar/>
+                <tijdschriften/>
+                <autoAccesoires/>
+              </assortiment>
+              
+        		</winkel>
+        </faciliteiten>
+      
+				<!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.garageschuurman.nl/foto.jpg</bestandsLocatie>
+              <alt>Onze Garage</alt>
+            </foto>
+        </fotos>
+      
+				<!--Werkplaats-->
+        <werkplaats>
+          
+          <openingstijden>
+            <maandag open="13:00" sluiting="13:01"/>
+            <dinsdag open="13:00" sluiting="13:01"/>
+          	<woensdag open="13:00" sluiting="13:01"/>
+          	<donderdag open="13:00" sluiting="13:01"/>
+          	<vrijdag open="13:00" sluiting="13:01"/>
+          	<zaterdag open="13:00" sluiting="13:01"/>
+          	<zondag open="-" sluiting="-"/>
+          </openingstijden>
+          
+          <werkzaamheden>
+              <onderhoud/>
+              <APKkeuring/>
+              <schadeherstel/>
+              <ruitenreparatie/>
+              <aircoservice/>
+              <bandenservice/>
+          </werkzaamheden>
+        </werkplaats>
+				
+				<!--Showroom-->
+        <showroom>
+          
+          <openingstijden>
+            <maandag open="13:00" sluiting="13:01"/>
+            <dinsdag open="13:00" sluiting="13:01"/>
+          	<woensdag open="13:00" sluiting="13:01"/>
+          	<donderdag open="13:00" sluiting="13:01"/>
+          	<vrijdag open="13:00" sluiting="13:01"/>
+          	<zaterdag open="13:00" sluiting="13:01"/>
+          	<zondag open="-" sluiting="-"/>
+          </openingstijden>
+          
+          <autos>
+              <nieuw>
+                  <kenteken>BR-UX-14</kenteken>
+                  <type>Hatchback</type>
+                  <merk>Opel</merk>
+                  <model>Astra</model>
+                  <bouwjaar>1990</bouwjaar>
+                  <brandstof>Benzine</brandstof>
+                  <prijs valuta="euro">1499</prijs> 
+                  <datumEindAPK>12-11-1994</datumEindAPK>
+                  <fotos>
+                      <foto>
+                          <bestandsLocatie>http://www.garageschuurman.nl/opelastra.jpg</bestandsLocatie>
+                          <alt>Onze Auto</alt>
+                      </foto>
+                  </fotos>
+              </nieuw>
+
+              <!--Occasions-->
+              <occasions>
+                  <kenteken>UP-12-JA</kenteken>
+                  <type>Hatchback</type>
+                  <merk>Opel</merk>
+                  <model>Minerva</model>
+                  <bouwjaar>1999</bouwjaar>
+                  <brandstof>Benzine</brandstof>
+                  <prijs valuta="euro">2199</prijs>
+                  <datumEindAPK>19-11-2018</datumEindAPK>
+                  <fotos>
+                      <foto>
+                          <bestandsLocatie>http://www.garageschuurman.nl/fiatpanda.jpg</bestandsLocatie>
+                          <alt>Onze Auto</alt>
+                      </foto>
+                  </fotos>
+              </occasions>
+
+              <!--Huur-->
+              <huur uitleenbaar="false">
+                  <kenteken>PP-UY-81</kenteken>
+                  <type>Sedan</type>
+                  <merk>Volkswagen</merk>
+                  <model>Scirocco</model>
+                  <bouwjaar>2004</bouwjaar>
+                  <brandstof>Diesel</brandstof>
+                  <prijs valuta="euro">100</prijs>
+                  <datumEindAPK>07-09-2018</datumEindAPK>
+                  <fotos>
+                      <foto>
+                          <bestandsLocatie>http://www.garageschuurman.nl/opelminerva.jpg</bestandsLocatie>
+                          <alt>Onze Auto</alt>
+                      </foto>
+                  </fotos>
+              </huur>
+          </autos>
+          
+        </showroom>
+      
+				<!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+      
+				<!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Hessel Houtman</naam>
+                <foto>
+                    <bestandsLocatie>http://www.garageschuurman.nl/happyhessel.jpg</bestandsLocatie>
+                    <alt>Onze Hessel</alt>
+                </foto>
+                <functie>Koffie faciliteur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 1 -->
+    <garage naam="Garage De Vries"> <!-- garage 2 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Veldweg</straat>
+            <nummer>3</nummer>
+            <postcode>7832AG</postcode>
+            <plaats>Groningen</plaats>
+            <provincie>Groningen</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0673927883</telefoonnummer>
+            <email>info@garagedevries.nl</email>
+            <website>http://www.devries-garage.nl</website>
+            <omschrijving> Bert Visser beheert sinds 1985 garage De Vries.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+De+Vries/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="2"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="8:00" sluiting="23:00"/>
+                    <dinsdag open="8:00" sluiting="23:00"/>
+                    <woensdag open="12:00" sluiting="23:00"/>
+                    <donderdag open="9:00" sluiting="23:00"/>
+                    <vrijdag open="9:00" sluiting="23:00"/>
+                    <zaterdag open="9:00" sluiting="20:00"/>
+                    <zondag open="-" sluiting="-"/>
+                </openingstijden>
+
+                <assortiment>
+                    <rookwaar/>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.devries-garage.nl/foto.jpg</bestandsLocatie>
+                <alt>Foto van garage De Vries</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="8:00" sluiting="18:00"/>
+                <dinsdag open="8:00" sluiting="18:00"/>
+                <woensdag open="8:00" sluiting="18:00"/>
+                <donderdag open="8:00" sluiting="18:00"/>
+                <vrijdag open="8:00" sluiting="15:00"/>
+                <zaterdag open="8:00" sluiting="14:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <APKkeuring/>
+                <schadeherstel/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="9:00" sluiting="17:00"/>
+                <dinsdag open="9:00" sluiting="17:00"/>
+                <woensdag open="9:00" sluiting="17:00"/>
+                <donderdag open="9:00" sluiting="17:00"/>
+                <vrijdag open="9:00" sluiting="17:00"/>
+                <zaterdag open="9:00" sluiting="13:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <!--Nieuw-->
+                <nieuw>
+                    <kenteken>AG-ER-33</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Volkswagen</merk>
+                    <model>Lupo</model>
+                    <bouwjaar>1998</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">6000</prijs>
+                    <datumEindAPK>13-03-2015</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.devries-garage.nl/65321.jpg</bestandsLocatie>
+                            <alt>VW Lupo</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+                <nieuw>
+                    <kenteken>BA-EE-32</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Volkswagen</merk>
+                    <model>Lupo</model>
+                    <bouwjaar>1999</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">5500</prijs>
+                    <datumEindAPK>13-04-2018</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.devries-garage.nl/653241.jpg</bestandsLocatie>
+                            <alt>VW Lupo</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>BA-11-NE</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Fiat</merk>
+                    <model>Panda</model>
+                    <bouwjaar>2005</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1111</prijs>
+                    <datumEindAPK>19-11-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.devries-garage.nl/65432.jpg</bestandsLocatie>
+                            <alt>Fiat Panda</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+                <occasions>
+                    <kenteken>EE-EE-13</kenteken>
+                    <type>Coupé</type>
+                    <merk>Honda</merk>
+                    <model>civic</model>
+                    <bouwjaar>2019</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1122</prijs>
+                    <datumEindAPK>12-11-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.devries-garage.nl/654332.jpg</bestandsLocatie>
+                            <alt>Hando Civic</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>PP-UY-81</kenteken>
+                    <type>Sedan</type>
+                    <merk>Volkswagen</merk>
+                    <model>polo</model>
+                    <bouwjaar>2006</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">50.00</prijs>
+                    <datumEindAPK>07-05-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.devries-garage.nl/456789.jpg</bestandsLocatie>
+                            <alt>VW Polo</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+
+            <medewerker>
+                <naam>Piet Jansen</naam>
+                <foto>
+                    <bestandsLocatie>http://www.devries-garage.nl/PietJansen.jpg</bestandsLocatie>
+                    <alt>Piet Jansen</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Bert Jansen</naam>
+                <foto>
+                    <bestandsLocatie>http://www.devries-garage.nl/BertJansen.jpg</bestandsLocatie>
+                    <alt>Bert Jansen</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Karin Jansen</naam>
+                <foto>
+                    <bestandsLocatie>http://www.devries-garage.nl/KarinJansen.jpg</bestandsLocatie>
+                    <alt>Karin Jansen</alt>
+                </foto>
+                <functie>Balie medewerker</functie>
+            </medewerker>
+
+        </medewerkers>
+
+    </garage> <!-- garage 2 -->
+    <garage naam="Tango"> <!-- garage 3 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Weerdingerstraat</straat>
+            <nummer>33</nummer>
+            <postcode>7814AH</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0591124534</telefoonnummer>
+            <email>info@tango.nl</email>
+            <website>http://www.tango.nl</website>
+            <omschrijving> Tango is een groot internationaal bedrijf.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Tango/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="0"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <rookwaar/>
+                    <tijdschriften/>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.tango.nl/foto.jpg</bestandsLocatie>
+                <alt>Tango</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="8:00" sluiting="21:00"/>
+                <dinsdag open="8:00" sluiting="21:00"/>
+                <woensdag open="9:00" sluiting="17:00"/>
+                <donderdag open="10:00" sluiting="13:00"/>
+                <vrijdag open="8:00" sluiting="21:00"/>
+                <zaterdag open="13:00" sluiting="21:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>AA-AA-11</kenteken>
+                    <type>Coupé</type>
+                    <merk>Tesla</merk>
+                    <model>3</model>
+                    <bouwjaar>2018</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">30000</prijs>
+                    <datumEindAPK>12-11-1994</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.tango.nl/opelastra.jpg</bestandsLocatie>
+                            <alt>Onze Auto</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-AW-82</kenteken>
+                    <type>Coupé</type>
+                    <merk>Ford</merk>
+                    <model>Focus</model>
+                    <bouwjaar>2014</bouwjaar>
+                    <brandstof>benzine</brandstof>
+                    <prijs valuta="euro">150</prijs>
+                    <datumEindAPK>07-12-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.tango.nl/opelminerva.jpg</bestandsLocatie>
+                            <alt>Ford focus</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Susan Geertsma</naam>
+                <foto>
+                    <bestandsLocatie>http://www.tango.nl/susangeertsma.jpg</bestandsLocatie>
+                    <alt>Susan Geertsma</alt>
+                </foto>
+                <functie>balie medewerker</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Bert Bakker</naam>
+                <foto>
+                    <bestandsLocatie>http://www.tango.nl/bertbakker.jpg</bestandsLocatie>
+                    <alt>Bert Bakker</alt>
+                </foto>
+                <functie>balie medewerker</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 3 -->
+    <garage naam="Autobedrijf Hoge"> <!-- garage 4 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Mozartlaan</straat>
+            <nummer>5</nummer>
+            <postcode>4321UP</postcode>
+            <plaats>Zwolle</plaats>
+            <provincie>Overijsel</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0632738464</telefoonnummer>
+            <email>info@hoge-autobedrijf.nl</email>
+            <website>http://www.hoge-autobedrijf.nl</website>
+            <omschrijving> Jan Hoge beheert autobedrijf hoge.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autobedrijf+hoge/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+                <pomp brandstofType="Benzine"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="4"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="8:30" sluiting="21:00"/>
+                    <dinsdag open="8:30" sluiting="21:00"/>
+                    <woensdag open="8:30" sluiting="21:00"/>
+                    <donderdag open="8:30" sluiting="21:00"/>
+                    <vrijdag open="8:30" sluiting="21:00"/>
+                    <zaterdag open="8:30" sluiting="21:00"/>
+                    <zondag open="-" sluiting="-"/>
+                </openingstijden>
+
+                <assortiment>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.hoge-autobedrijf.nl/foto.jpg</bestandsLocatie>
+                <alt>Hoge autobedrijf</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="17:00"/>
+                <dinsdag open="13:00" sluiting="17:00"/>
+                <woensdag open="13:00" sluiting="17:00"/>
+                <donderdag open="13:00" sluiting="17:00"/>
+                <vrijdag open="13:00" sluiting="17:00"/>
+                <zaterdag open="13:00" sluiting="17:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <ruitenreparatie/>
+                <aircoservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="21:01"/>
+                <dinsdag open="13:00" sluiting="21:01"/>
+                <woensdag open="13:00" sluiting="21:01"/>
+                <donderdag open="13:00" sluiting="21:01"/>
+                <vrijdag open="13:00" sluiting="21:01"/>
+                <zaterdag open="13:00" sluiting="21:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>UP-12-JA</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Ford</merk>
+                    <model>Mondeo</model>
+                    <bouwjaar>2018</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">6000</prijs>
+                    <datumEindAPK>13-08-2017</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.hoge-autobedrijf.nl/fordmondeo.jpg</bestandsLocatie>
+                            <alt>Ford</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>FG-UA-83</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Suzuki</merk>
+                    <model>swift</model>
+                    <bouwjaar>2009</bouwjaar>
+                    <brandstof>Gas</brandstof>
+                    <prijs valuta="euro">65</prijs>
+                    <datumEindAPK>07-11-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.hoge-autobedrijf.nl/suzukiswift.jpg</bestandsLocatie>
+                            <alt>Suzuki Swift</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+                <huur uitleenbaar="true">
+                    <kenteken>AK-ER-24</kenteken>
+                    <type>coupe</type>
+                    <merk>audi</merk>
+                    <model>A8</model>
+                    <bouwjaar>2008</bouwjaar>
+                    <brandstof>benzine</brandstof>
+                    <prijs valuta="euro">300</prijs>
+                    <datumEindAPK>07-09-2018</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.garageschuurman.nl/audiA8.jpg</bestandsLocatie>
+                            <alt>Audi A8</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Maartje Kwast</naam>
+                <foto>
+                    <bestandsLocatie>http://www.hoge-autobedrijf.nl/maartjekwast.jpg</bestandsLocatie>
+                    <alt>Maartje kwast</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 4 -->
+    <garage naam="Autobedrijf Haan"> <!-- garage 5 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>blijweg</straat>
+            <nummer>3</nummer>
+            <postcode>5432ER</postcode>
+            <plaats>Overijsel</plaats>
+            <provincie>Zwolle</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0635647864</telefoonnummer>
+            <email>info@autobedrijfhaan.nl</email>
+            <website>http://www.autobedrijfhaan.nl</website>
+            <omschrijving> Gevestigd in Zwolle is Autobedrijf Haan het grootste autobedrijf.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autobedrijf+haan/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="0"/>
+                <wasbox aantal="5"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <rookwaar/>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autobedrijfhaan.nl/foto.jpg</bestandsLocatie>
+                <alt>autobedrijf haan</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <schadeherstel/>
+                <aircoservice/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>YR-ER-45</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Opel</merk>
+                    <model>Astra</model>
+                    <bouwjaar>1990</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1499</prijs>
+                    <datumEindAPK>12-11-1994</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfhaan.nl/opelastra.jpg</bestandsLocatie>
+                            <alt>Opel Astra</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>ER-12-JA</kenteken>
+                    <type>Coupé</type>
+                    <merk>mazda</merk>
+                    <model>323</model>
+                    <bouwjaar>1995</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">5000</prijs>
+                    <datumEindAPK>19-11-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfhaan.nl/fiatpanda.jpg</bestandsLocatie>
+                            <alt>mazda 323</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PA-UY-81</kenteken>
+                    <type>Coupé</type>
+                    <merk>mazda</merk>
+                    <model>mx5</model>
+                    <bouwjaar>2004</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">100</prijs>
+                    <datumEindAPK>07-09-2018</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfhaan.nl/opelminerva.jpg</bestandsLocatie>
+                            <alt>mazda mx5</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Antje Geertsma</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfhaan.nl/antjegeertsma.jpg</bestandsLocatie>
+                    <alt>Antje Geertsma</alt>
+                </foto>
+                <functie>monteur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Piet Geertsma</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfhaan.nl/pietgeertsma.jpg</bestandsLocatie>
+                    <alt>Piet Geertsma</alt>
+                </foto>
+                <functie>Winkel beheerder</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 5 -->
+    <garage naam="Autobedrijf Boven"> <!-- garage 6 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>merellaan</straat>
+            <nummer>23A</nummer>
+            <postcode>5422ER</postcode>
+            <plaats>Groningen</plaats>
+            <provincie>Delfzijl</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0635642364</telefoonnummer>
+            <email>info@autobedrijfboven.nl</email>
+            <website>http://www.autobedrijfboven.nl</website>
+            <omschrijving> Gevestigd in Zwolle is autobedrijf Boven het beste autobedrijf in Groningen.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autobedrijf+boven/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="0"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <rookwaar/>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autobedrijfboven.nl/foto.jpg</bestandsLocatie>
+                <alt>Autobedrijf Boven</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <schadeherstel/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>YR-ER-45</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Suzuki</merk>
+                    <model>Baleno</model>
+                    <bouwjaar>1993</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1699</prijs>
+                    <datumEindAPK>12-11-1994</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfboven.nl/suzukibaleno.jpg</bestandsLocatie>
+                            <alt>Suzuki Baleno</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>EZ-14-ZZ</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Nissan</merk>
+                    <model>2.2</model>
+                    <bouwjaar>2002</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">2200</prijs>
+                    <datumEindAPK>19-01-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfboven.nl/fiatpanda.jpg</bestandsLocatie>
+                            <alt>Nissan 2.2</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>22-UY-ZZ</kenteken>
+                    <type>Terreinwagen</type>
+                    <merk>SsangYong</merk>
+                    <model>MUSSO</model>
+                    <bouwjaar>2002</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">130</prijs>
+                    <datumEindAPK>07-09-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfboven.nl/ssangyongmusso.jpg</bestandsLocatie>
+                            <alt>SsangYong MUSSO</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Tamara Schilder</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfboven.nl/tamaraschilder.jpg</bestandsLocatie>
+                    <alt>Antje Geertsma</alt>
+                </foto>
+                <functie>monteur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Bart Pietersen</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfboven.nl/bartpietersen.jpg</bestandsLocatie>
+                    <alt>Bart Pietersen</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 6 -->
+    <garage naam="Garage Jagt"> <!-- garage 7 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Dorpsstraat</straat>
+            <nummer>12A</nummer>
+            <postcode>7826UP</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0591347359</telefoonnummer>
+            <email>info@garagejagt.nl</email>
+            <website>http://www.garagejagt.nl</website>
+            <omschrijving> Bart Schuurman beheert sinds 1985 garage Jagt.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Jagt/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="0"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <tijdschriften/>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.garagejagt.nl/foto.jpg</bestandsLocatie>
+                <alt>Garage Jagt</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <APKkeuring/>
+                <ruitenreparatie/>
+                <aircoservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>BR-WX-16</kenteken>
+                    <type>Sedan</type>
+                    <merk>BMW</merk>
+                    <model>318</model>
+                    <bouwjaar>1998</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">888</prijs>
+                    <datumEindAPK>05-06-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.garagejagt.nl/bmw318.jpg</bestandsLocatie>
+                            <alt>BMW 318</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>UP-0E5-AJ</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Volkswagen</merk>
+                    <model>Golf</model>
+                    <bouwjaar>1998</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">890</prijs>
+                    <datumEindAPK>19-06-2018</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.garagejagt.nl/volkswagengolf.jpg</bestandsLocatie>
+                            <alt>Volkswagen Golf</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>71-UEY-21</kenteken>
+                    <type>Sedan</type>
+                    <merk>Nissan</merk>
+                    <model>Primera</model>
+                    <bouwjaar>1998</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">58.00</prijs>
+                    <datumEindAPK>07-09-2018</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.garagejagt.nl/nissanprimera.jpg</bestandsLocatie>
+                            <alt>Nissan Primera</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+                <huur uitleenbaar="false">
+                    <kenteken>71-UEY-21</kenteken>
+                    <type>Sedan</type>
+                    <merk>Nissan</merk>
+                    <model>Skyline</model>
+                    <bouwjaar>2015</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">350.00</prijs>
+                    <datumEindAPK>07-09-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.garagejagt.nl/nissanskyline.jpg</bestandsLocatie>
+                            <alt>Nissan Skyline</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Bert Straatman</naam>
+                <foto>
+                    <bestandsLocatie>http://www.garagejagt.nl/bertstraatman.jpg</bestandsLocatie>
+                    <alt>Bert Straatman</alt>
+                </foto>
+                <functie>Coureur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Ali Straatman</naam>
+                <foto>
+                    <bestandsLocatie>http://www.garagejagt.nl/alistraatman.jpg</bestandsLocatie>
+                    <alt>Ali Straatman</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Hans Dekens</naam>
+                <foto>
+                    <bestandsLocatie>http://www.garagejagt.nl/hansdekens.jpg</bestandsLocatie>
+                    <alt>Hans Dekens</alt>
+                </foto>
+                <functie>Balie medewerker</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 7 -->
+    <garage naam="autobedrijf misker"> <!-- garage 8 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Kapitein Nemostraat</straat>
+            <nummer>50</nummer>
+            <postcode>7123AP</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0673659484</telefoonnummer>
+            <email>info@autobedrijfmisker.nl</email>
+            <website>http://www.autobedrijfmisker.nl</website>
+            <omschrijving> Autobedrijf Misker is een interger autobedrijf.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/autobedrijf+misker/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="3"/>
+                <wasbox aantal="3"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autobedrijfmisker.nl/foto.jpg</bestandsLocatie>
+                <alt>Autobedrijf Misker</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <ruitenreparatie/>
+                <aircoservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>BR-AA-16</kenteken>
+                    <type>Sedan</type>
+                    <merk>Audi</merk>
+                    <model>80</model>
+                    <bouwjaar>1992</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">950</prijs>
+                    <datumEindAPK>05-03-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfmisker.nl/bmw318.jpg</bestandsLocatie>
+                            <alt>Audi 80</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>ER-AA5-AJ</kenteken>
+                    <type>SUV</type>
+                    <merk>Renault</merk>
+                    <model>Laguna</model>
+                    <bouwjaar>2001</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">990</prijs>
+                    <datumEindAPK>19-06-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfmisker.nl/renaultlaguna.jpg</bestandsLocatie>
+                            <alt>Renault Laguna</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+                <occasions>
+                    <kenteken>ER-AAA-AJ</kenteken>
+                    <type>Sedan</type>
+                    <merk>Audi</merk>
+                    <model>A8</model>
+                    <bouwjaar>2016</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">40000</prijs>
+                    <datumEindAPK>19-06-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfmisker.nl/Audia8.jpg</bestandsLocatie>
+                            <alt>Audi A8</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>33-UAA-20</kenteken>
+                    <type>SUV</type>
+                    <merk>Peugeot</merk>
+                    <model>307</model>
+                    <bouwjaar>2003</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">999.00</prijs>
+                    <datumEindAPK>12-11-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfmisker.nl/peugeot207.jpg</bestandsLocatie>
+                            <alt>Peugeot 307</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Egbert Ruytings</naam>
+                <foto>
+                    <bestandsLocatie>http://www.garagejagt.nl/egbertruyting.jpg</bestandsLocatie>
+                    <alt>Egbert Ruytings</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Peter Wevelsiep</naam>
+                <foto>
+                    <bestandsLocatie>http://www.garagejagt.nl/peterwevelsiep.jpg</bestandsLocatie>
+                    <alt>Peter Wevelsiep</alt>
+                </foto>
+                <functie>Verkoopmedewerker</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 8 -->
+    <garage naam="Autoconcurrent"> <!-- garage 1 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Arendsweg</straat>
+            <nummer>71</nummer>
+            <postcode>1243TE</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0685647586</telefoonnummer>
+            <email>info@Autoconcurrent.nl</email>
+            <website>http://www.Autoconcurrent.nl</website>
+            <omschrijving> Nadine Janssen beheert sinds 1974 garage Autoconcurrent.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Autoconcurrent/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="5"/>
+                <wasbox aantal="3"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                    <rookwaar/>
+                    <tijdschriften/>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.Autoconcurrent.nl/foto.jpg</bestandsLocatie>
+                <alt>Autoconcurrent foto van het bedrijf</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <APKkeuring/>
+                <schadeherstel/>
+                <ruitenreparatie/>
+                <aircoservice/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>TE-AAA-06</kenteken>
+                    <type>Coupé</type>
+                    <merk>Saab</merk>
+                    <model>9-3</model>
+                    <bouwjaar>2000</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">999</prijs>
+                    <datumEindAPK>09-12-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Autoconcurrent.nl/Saab9-3.jpg</bestandsLocatie>
+                            <alt>Saab 9-3</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+                <nieuw>
+                    <kenteken>TR-AEA-01</kenteken>
+                    <type>SUV</type>
+                    <merk>Volvo</merk>
+                    <model>2.0</model>
+                    <bouwjaar>1997</bouwjaar>
+                    <brandstof>Gas</brandstof>
+                    <prijs valuta="euro">1250.00</prijs>
+                    <datumEindAPK>09-09-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Autoconcurrent.nl/Saab9-3.jpg</bestandsLocatie>
+                            <alt>Volvo 2.0</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>UP-1P2-ER</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Fiat</merk>
+                    <model>Punto</model>
+                    <bouwjaar>2005</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1100</prijs>
+                    <datumEindAPK>11-01-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Autoconcurrent.nl/fiatpunto.jpg</bestandsLocatie>
+                            <alt>Fiat Punto</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>PP-URR-21</kenteken>
+                    <type>Sedan</type>
+                    <merk>Lancia</merk>
+                    <model>Ypsilon</model>
+                    <bouwjaar>2000</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1150</prijs>
+                    <datumEindAPK>07-01-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Autoconcurrent.nl/.jpg</bestandsLocatie>
+                            <alt>Lancia Ypsilon</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Remo Mestdag</naam>
+                <foto>
+                    <bestandsLocatie>http://www.Autoconcurrent.nl/remimestdag.jpg</bestandsLocatie>
+                    <alt>Remi Mestdag</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Mathij Singelee</naam>
+                <foto>
+                    <bestandsLocatie>http://www.Autoconcurrent.nl/mathijsingelee.jpg</bestandsLocatie>
+                    <alt>Mathij Singelee</alt>
+                </foto>
+                <functie>Balie medewerker</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Joeri Delcart</naam>
+                <foto>
+                    <bestandsLocatie>http://www.Autoconcurrent.nl/joeridelcart.jpg</bestandsLocatie>
+                    <alt>Joeri Delcart</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 9 -->
+    <garage naam="Lunenborg"> <!-- garage 10 -->
+
+    <!--Adres-->
+    <adres>
+        <straat>Bagelweg</straat>
+        <nummer>51</nummer>
+        <postcode>1213TE</postcode>
+        <plaats>Coevorden</plaats>
+        <provincie>Drenthe</provincie>
+    </adres>
+
+    <!--ContactGegevens-->
+    <contactGegevens>
+        <telefoonnummer>0685640086</telefoonnummer>
+        <email>info@Lunenborg.nl</email>
+        <website>http://www.Lunenborg.nl</website>
+        <omschrijving> Gerrit Lunenborg beheert sinds 1980 garage Lunenborg.</omschrijving>
+        <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Lunenborg/</routebeschrijving>
+    </contactGegevens>
+
+    <!--Faciliteiten-->
+    <faciliteiten>
+        <pompen>
+            <pomp brandstofType="Benzine"/>
+            <pomp brandstofType="Benzine"/>
+        </pompen>
+
+        <wassen>
+            <wasstraat aantal="0"/>
+            <wasbox aantal="0"/>
+        </wassen>
+        <!--Winkel-->
+        <winkel>
+
+            <openingstijden>
+                <maandag open="10:00" sluiting="21:00"/>
+                <dinsdag open="10:00" sluiting="21:00"/>
+                <woensdag open="10:00" sluiting="21:00"/>
+                <donderdag open="10:00" sluiting="21:00"/>
+                <vrijdag open="10:00" sluiting="21:00"/>
+                <zaterdag open="10:00" sluiting="21:00"/>
+                <zondag open="12:00" sluiting="18:00"/>
+            </openingstijden>
+
+            <assortiment>
+                <rookwaar/>
+            </assortiment>
+
+        </winkel>
+    </faciliteiten>
+
+    <!--Foto's-->
+    <fotos>
+        <foto>
+            <bestandsLocatie>http://www.Lunenborg.nl/foto.jpg</bestandsLocatie>
+            <alt>Lunenborg foto van het bedrijf</alt>
+        </foto>
+    </fotos>
+
+    <!--Werkplaats-->
+    <werkplaats>
+
+        <openingstijden>
+            <maandag open="13:00" sluiting="13:01"/>
+            <dinsdag open="13:00" sluiting="13:01"/>
+            <woensdag open="13:00" sluiting="13:01"/>
+            <donderdag open="13:00" sluiting="13:01"/>
+            <vrijdag open="13:00" sluiting="13:01"/>
+            <zaterdag open="13:00" sluiting="13:01"/>
+            <zondag open="-" sluiting="-"/>
+        </openingstijden>
+
+        <werkzaamheden>
+            <APKkeuring/>
+        </werkzaamheden>
+    </werkplaats>
+
+    <!--Showroom-->
+    <showroom>
+
+        <openingstijden>
+            <maandag open="13:00" sluiting="13:01"/>
+            <dinsdag open="13:00" sluiting="13:01"/>
+            <woensdag open="13:00" sluiting="13:01"/>
+            <donderdag open="13:00" sluiting="13:01"/>
+            <vrijdag open="13:00" sluiting="13:01"/>
+            <zaterdag open="13:00" sluiting="13:01"/>
+            <zondag open="-" sluiting="-"/>
+        </openingstijden>
+
+        <autos>
+            <nieuw>
+                <kenteken>TE-BBE-06</kenteken>
+                <type>Hatchback</type>
+                <merk>Renault</merk>
+                <model>Twingo</model>
+                <bouwjaar>2003</bouwjaar>
+                <brandstof>Benzine</brandstof>
+                <prijs valuta="euro">1250</prijs>
+                <datumEindAPK>27-12-2022</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Lunenborg.nl/renaultwingo.jpg</bestandsLocatie>
+                        <alt>Renault Twingo</alt>
+                    </foto>
+                </fotos>
+            </nieuw>
+            <nieuw>
+                <kenteken>TR-AEA-01</kenteken>
+                <type>Sedan</type>
+                <merk>Daewoo</merk>
+                <model>Lanos</model>
+                <bouwjaar>1998</bouwjaar>
+                <brandstof>Benzine</brandstof>
+                <prijs valuta="euro">1250.00</prijs>
+                <datumEindAPK>09-09-2021</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Lunenborg.nl/DeawooLanos.jpg</bestandsLocatie>
+                        <alt>Deawoo Lanos</alt>
+                    </foto>
+                </fotos>
+            </nieuw>
+
+            <!--Occasions-->
+            <occasions>
+                <kenteken>UP-ERD-17</kenteken>
+                <type>Sedan</type>
+                <merk>Renault</merk>
+                <model>Megane</model>
+                <bouwjaar>1997</bouwjaar>
+                <brandstof>Diesel</brandstof>
+                <prijs valuta="euro">1250.00</prijs>
+                <datumEindAPK>01-01-2022</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Lunenborg.nl/RenaultMegane.jpg</bestandsLocatie>
+                        <alt>Renault Megane</alt>
+                    </foto>
+                </fotos>
+            </occasions>
+            <occasions>
+                <kenteken>UP-EDD-17</kenteken>
+                <type>Sedan</type>
+                <merk>Hyundai</merk>
+                <model>Excel</model>
+                <bouwjaar>2000</bouwjaar>
+                <brandstof>Benzine</brandstof>
+                <prijs valuta="euro">1250.00</prijs>
+                <datumEindAPK>01-01-2019</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Lunenborg.nl/HyundaiExcel.jpg</bestandsLocatie>
+                        <alt>Hyundai Excel</alt>
+                    </foto>
+                </fotos>
+            </occasions>
+
+            <!--Huur-->
+            <huur uitleenbaar="true">
+                <kenteken>PP-URR-21</kenteken>
+                <type>Sedan</type>
+                <merk>Lancia</merk>
+                <model>Ypsilon</model>
+                <bouwjaar>2000</bouwjaar>
+                <brandstof>Benzine</brandstof>
+                <prijs valuta="euro">1150</prijs>
+                <datumEindAPK>07-01-2020</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Lunenborg.nl/lanciaYpsilon.jpg</bestandsLocatie>
+                        <alt>Lancia Ypsilon</alt>
+                    </foto>
+                </fotos>
+            </huur>
+            <huur uitleenbaar="false">
+                <kenteken>PP-USA-21</kenteken>
+                <type>Terreinwagen</type>
+                <merk>Toyota</merk>
+                <model>Fun Cruiser</model>
+                <bouwjaar>1995</bouwjaar>
+                <brandstof>Benzine</brandstof>
+                <prijs valuta="euro">1290</prijs>
+                <datumEindAPK>07-06-2018</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Lunenborg.nl/ToyotaFunCruiser.jpg</bestandsLocatie>
+                        <alt>Fun Cruiser</alt>
+                    </foto>
+                </fotos>
+            </huur>
+        </autos>
+
+    </showroom>
+
+    <!--Keurmerken-->
+    <keurmerken>
+        <keurmerk type="RDW"/>
+    </keurmerken>
+
+    <!--Medewerkers-->
+    <medewerkers>
+        <medewerker>
+            <naam>Micha Porre</naam>
+            <foto>
+                <bestandsLocatie>http://www.Lunenborg.nl/michaporre.jpg</bestandsLocatie>
+                <alt>Micha Porre</alt>
+            </foto>
+            <functie>Directeur</functie>
+        </medewerker>
+        <medewerker>
+            <naam>Ada Bryon</naam>
+            <foto>
+                <bestandsLocatie>http://www.Lunenborg.nl/adabryon.jpg</bestandsLocatie>
+                <alt>Ada Bryon</alt>
+            </foto>
+            <functie>Balie medewerker</functie>
+        </medewerker>
+    </medewerkers>
+</garage> <!-- garage 10 -->
+    <garage naam="Autobedrijf Paas"> <!-- garage 11 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Magelheanstraat</straat>
+            <nummer>1</nummer>
+            <postcode>2525AT</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0591277399</telefoonnummer>
+            <email>info@autobedrijfpaas.nl</email>
+            <website>http://www.autobedrijfpaas.nl</website>
+            <omschrijving> Meneer R.J. Paas beheert sinds 1998 garage Het Schuurtje.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autobedrijf+paas/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="2"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <tijdschriften/>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autobedrijfpaas.nl/foto.jpg</bestandsLocatie>
+                <alt>autobedrijf paas</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <aircoservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>BR-MXM-14</kenteken>
+                    <type>Sedan</type>
+                    <merk>Alfa</merk>
+                    <model>Romeo</model>
+                    <bouwjaar>2000</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1295</prijs>
+                    <datumEindAPK>12-11-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfpaas.nl/alfaromeo.jpg</bestandsLocatie>
+                            <alt>Alfa romeo</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>PP-ULY-81</kenteken>
+                    <type>Sedan</type>
+                    <merk>Audi</merk>
+                    <model>A4</model>
+                    <bouwjaar>2001</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">150</prijs>
+                    <datumEindAPK>07-09-2018</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfpaas.nl/audia4.jpg</bestandsLocatie>
+                            <alt>Audi A4</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Sylvio West</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfpaas.nl/sylviowest.jpg</bestandsLocatie>
+                    <alt>Sylvio West</alt>
+                </foto>
+                <functie>Balie medewerker</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Olivia Balliere</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfpaas.nl/oliviaballiere.jpg</bestandsLocatie>
+                    <alt>Olivia Balliere</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 11 -->
+    <garage naam="Autobedrijf Veenstra"> <!-- garage 12 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Magelheanstraat</straat>
+            <nummer>1</nummer>
+            <postcode>2525AT</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0591299399</telefoonnummer>
+            <email>info@autobedrijfveenstra.nl</email>
+            <website>http://www.autobedrijfveenstra.nl</website>
+            <omschrijving> Mevrouw Haan beheert sinds 1980 garage Het Schuurtje.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autobedrijf+veenstra/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="0"/>
+                <wasbox aantal="5"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autobedrijfveenstra.nl/foto.jpg</bestandsLocatie>
+                <alt>autobedrijf veenstra</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <bandenservice/>
+                <aircoservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-ULA-81</kenteken>
+                    <type>Sedan</type>
+                    <merk>Audi</merk>
+                    <model>A4</model>
+                    <bouwjaar>2007</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">155.60</prijs>
+                    <datumEindAPK>07-09-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfveenstra.nl/AudiA4.jpg</bestandsLocatie>
+                            <alt>Audi A4</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Ineke Storm</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfveenstra.nl/inekestorm.jpg</bestandsLocatie>
+                    <alt>Ineke Storm</alt>
+                </foto>
+                <functie>Balie medewerker</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Daniel peteghem</naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfveenstra.nl/danielpeteghem.jpg</bestandsLocatie>
+                    <alt>Daniel peteghem</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 12 -->
+    <garage naam="Autobedrijf Berndt"> <!-- garage 13 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>bagelweg</straat>
+            <nummer>89E</nummer>
+            <postcode>7364ER</postcode>
+            <plaats>Dalen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0674839485</telefoonnummer>
+            <email>info@autobedrijfberndt.nl</email>
+            <website>http://www.autobedrijfberndt.nl</website>
+            <omschrijving> Autobedrijf Berndt is de beste garage van dalen uitroepen in 2007!.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+autobedrijf+berndt/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Gas"/>
+                <pomp brandstofType="Diesel"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="6"/>
+                <wasbox aantal="5"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <rookwaar/>
+                    <tijdschriften/>
+                    <autoAccesoires/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.autobedrijfberndt.nl/foto.jpg</bestandsLocatie>
+                <alt>autobedrijf berndt</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <APKkeuring/>
+                <schadeherstel/>
+                <ruitenreparatie/>
+                <aircoservice/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <occasions>
+                    <kenteken>BR-UHH-14</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Suzuki</merk>
+                    <model>Swift</model>
+                    <bouwjaar>2002</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">2085</prijs>
+                    <datumEindAPK>12-11-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfberndt.nl/susuzkiswift.jpg</bestandsLocatie>
+                            <alt>Suzuki Swift</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>PP-UYI-81</kenteken>
+                    <type>Terreinwagen</type>
+                    <merk>Opel</merk>
+                    <model>Frontera</model>
+                    <bouwjaar>1999</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">160</prijs>
+                    <datumEindAPK>07-11-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.autobedrijfberndt.nl/opelfrontera.jpg</bestandsLocatie>
+                            <alt>Opel frontera</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Hasse Bisschop</naam>
+                <foto>
+                    <bestandsLocatie>http://www.garageschuurman.nl/hassebisschop.jpg</bestandsLocatie>
+                    <alt>Hasse Bisschop</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Lonneke veen/naam>
+                <foto>
+                    <bestandsLocatie>http://www.autobedrijfberndt.nl/lonnekeveen.jpg</bestandsLocatie>
+                    <alt>Lonneke Veen</alt>
+                </foto>
+                <functie>Winkel bediende</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 13 -->
+    <garage naam="kwikfit"> <!-- garage 14 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>vosweg</straat>
+            <nummer>5B</nummer>
+            <postcode>7326TR</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>068456378654</telefoonnummer>
+            <email>info@kwikfit.nl</email>
+            <website>http://www.kwikfit.nl</website>
+            <omschrijving> kwikfit is snel en goedkoop dus kom snel langs.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+kwikfit/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Benzine"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="2"/>
+                <wasbox aantal=""/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <levensmiddelen/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.kwikfit.nl/foto.jpg</bestandsLocatie>
+                <alt>kwikfit</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <onderhoud/>
+                <APKkeuring/>
+                <schadeherstel/>
+                <ruitenreparatie/>
+                <aircoservice/>
+                <bandenservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>BR-UX-14</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Kia</merk>
+                    <model>Cerato</model>
+                    <bouwjaar>2006</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1490</prijs>
+                    <datumEindAPK>12-11-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.kwikfit.nl/kiacerato.jpg</bestandsLocatie>
+                            <alt>Kia Cerato</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Occasions-->
+                <occasions>
+                    <kenteken>UP-1Y2-JA</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Kia</merk>
+                    <model>Rio</model>
+                    <bouwjaar>2005</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs valuta="euro">1495</prijs>
+                    <datumEindAPK>01-11-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.kwikfit.nl/kiario.jpg</bestandsLocatie>
+                            <alt>Kia Rio</alt>
+                        </foto>
+                    </fotos>
+                </occasions>
+
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-UAY-81</kenteken>
+                    <type>SUV</type>
+                    <merk>Volvo</merk>
+                    <model>V40</model>
+                    <bouwjaar>1999</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs valuta="euro">114</prijs>
+                    <datumEindAPK>07-09-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.kwikfit.nl/volvov40.jpg</bestandsLocatie>
+                            <alt>Volvo V40</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Dagmar Vlam</naam>
+                <foto>
+                    <bestandsLocatie>http://www.kwikfit.nl/dagmarvlam.jpg</bestandsLocatie>
+                    <alt>Dagmar Vlam</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Jacob Rimbaut</naam>
+                <foto>
+                    <bestandsLocatie>http://www.kwikfit.nl/jacobrimbaut.jpg</bestandsLocatie>
+                    <alt>Jacob rimbaut</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 14 -->
+</garages>
