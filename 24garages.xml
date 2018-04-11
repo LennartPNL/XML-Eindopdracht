@@ -5,7 +5,7 @@
 <garages>
 
     <garage naam="Het Schuurtje"> <!-- garage 1 -->
-      
+
       <!--Adres-->
       <adres>
         <straat>Berendslaan</straat>
@@ -14,7 +14,7 @@
         <plaats>Emmen</plaats>
         <provincie>Drenthe</provincie>
       </adres>
-      
+
       <!--ContactGegevens-->
       <contactGegevens>
         <telefoonnummer>0591277359</telefoonnummer>
@@ -23,7 +23,7 @@
         <omschrijving> Edwin Schuurman beheert sinds 1974 garage Het Schuurtje.</omschrijving>
         <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Het+Schuurtje/</routebeschrijving>
       </contactGegevens>
-      
+
       <!--Faciliteiten-->
       	<faciliteiten>
             <pompen>
@@ -36,7 +36,7 @@
             </wassen>
           <!--Winkel-->
           	<winkel>
-              
+
               <openingstijden>
                 <maandag open="10:00" sluiting="21:00"/>
                 <dinsdag open="10:00" sluiting="21:00"/>
@@ -46,17 +46,17 @@
                 <zaterdag open="10:00" sluiting="21:00"/>
                 <zondag open="12:00" sluiting="18:00"/>
               </openingstijden>
-              
+
               <assortiment>
                 <levensmiddelen/>
                 <rookwaar/>
                 <tijdschriften/>
                 <autoAccesoires/>
               </assortiment>
-              
+
         		</winkel>
         </faciliteiten>
-      
+
 				<!--Foto's-->
         <fotos>
             <foto>
@@ -64,10 +64,10 @@
               <alt>Onze Garage</alt>
             </foto>
         </fotos>
-      
+
 				<!--Werkplaats-->
         <werkplaats>
-          
+
           <openingstijden>
             <maandag open="13:00" sluiting="13:01"/>
             <dinsdag open="13:00" sluiting="13:01"/>
@@ -77,7 +77,7 @@
           	<zaterdag open="13:00" sluiting="13:01"/>
           	<zondag open="-" sluiting="-"/>
           </openingstijden>
-          
+
           <werkzaamheden>
               <onderhoud/>
               <APKkeuring/>
@@ -87,10 +87,10 @@
               <bandenservice/>
           </werkzaamheden>
         </werkplaats>
-				
+
 				<!--Showroom-->
         <showroom>
-          
+
           <openingstijden>
             <maandag open="13:00" sluiting="13:01"/>
             <dinsdag open="13:00" sluiting="13:01"/>
@@ -100,7 +100,7 @@
           	<zaterdag open="13:00" sluiting="13:01"/>
           	<zondag open="-" sluiting="-"/>
           </openingstijden>
-          
+
           <autos>
               <nieuw>
                   <kenteken>BR-UX-14</kenteken>
@@ -109,7 +109,7 @@
                   <model>Astra</model>
                   <bouwjaar>1990</bouwjaar>
                   <brandstof>Benzine</brandstof>
-                  <prijs valuta="euro">1499</prijs> 
+                  <prijs valuta="euro">1499</prijs>
                   <datumEindAPK>12-11-1994</datumEindAPK>
                   <fotos>
                       <foto>
@@ -155,14 +155,14 @@
                   </fotos>
               </huur>
           </autos>
-          
+
         </showroom>
-      
+
 				<!--Keurmerken-->
         <keurmerken>
             <keurmerk type="BOVAG"/>
         </keurmerken>
-      
+
 				<!--Medewerkers-->
         <medewerkers>
             <medewerker>
@@ -2130,7 +2130,6 @@
 
             <werkzaamheden>
                 <bandenservice/>
-                <aircoservice/>
             </werkzaamheden>
         </werkplaats>
 
@@ -2347,7 +2346,7 @@
                 <functie>Directeur</functie>
             </medewerker>
             <medewerker>
-                <naam>Lonneke veen/naam>
+                <naam>Lonneke veen</naam>
                 <foto>
                     <bestandsLocatie>http://www.autobedrijfberndt.nl/lonnekeveen.jpg</bestandsLocatie>
                     <alt>Lonneke Veen</alt>
