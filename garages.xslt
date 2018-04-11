@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0"?>
-<!--https://naarvoren.nl/artikel/introductie_tot_xsl_t/-->
 <!---->
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
