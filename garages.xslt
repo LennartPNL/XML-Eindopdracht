@@ -165,6 +165,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <h2>Totale hoeveelheid garages: <xsl:value-of select="count(garages/garage)"/></h2>
               <!-- Ga door alle garages heen-->
               <xsl:for-each select="garages/garage">
+
           </div>
 
           <div class="garageName">
@@ -510,7 +511,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           </div>
 
         </div>
-
+      </xsl:for-each>
       </body>
     </html>
 
