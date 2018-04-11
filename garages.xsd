@@ -229,6 +229,7 @@
       </xs:complexType>
 	</xs:element>
 
+
   <xs:complexType name="foto">
       <xs:sequence>
         <xs:element name="bestandsLocatie" type="bestandsLocatie"/>
@@ -291,8 +292,8 @@
 
   <xs:simpleType name="nummer">
 		<xs:restriction base="xs:string">
-			<xs:pattern value="[A-Za-z0-9'\.\-\s\,]"/>
-		</xs:restriction>
+            <xs:pattern value="[0-9]{1,4}([A-Z]{0,2}?)"/>
+        </xs:restriction>
 	</xs:simpleType>
 
   <xs:simpleType name="postcode">
