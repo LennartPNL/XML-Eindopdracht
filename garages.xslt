@@ -161,13 +161,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <div class="container">
 
                   <div class="header">
-                      <h1>Welkom Bij Garage $Garage</h1>
+                      <h1>Welkom Bij Garage <xsl:value-of select="garages/garage/@naam"/></h1>
                       <h2>Totale hoeveelheid garages: <xsl:value-of select="count(garages/garage)"/></h2>
                   </div>
-
+                  <!-- Ga door alle garages heen-->
+                  <xsl:for-each select="garages/garage">
 
                   <div class="garageName">
-                      <h2>GarageNaam Hier</h2>
+                      <h2>GarageNaam Hier<xsl:value-of select="@naam"/></h2>
                   </div>
 
                   <div class="content">
@@ -420,7 +421,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 
                   </div>
-
+                  </xsl:for-each>
               </div>
 
           </body>
