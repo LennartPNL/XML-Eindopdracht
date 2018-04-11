@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE garages SYSTEM "garages.dtd">
 
 
-<garages>
+<garages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="garages.xsd">
 
     <garage naam="Het Schuurtje"> <!-- garage 1 -->
 
@@ -94,7 +93,7 @@
           <openingstijden>
             <maandag open="13:00" sluiting="13:01"/>
             <dinsdag open="13:00" sluiting="13:01"/>
-          	<woensdag open="13:00" sluiting="13:01"/>
+          	<woensdag open="03:00" sluiting="13:01"/>
           	<donderdag open="13:00" sluiting="13:01"/>
           	<vrijdag open="13:00" sluiting="13:01"/>
           	<zaterdag open="13:00" sluiting="13:01"/>
@@ -268,7 +267,7 @@
                 <donderdag open="9:00" sluiting="17:00"/>
                 <vrijdag open="9:00" sluiting="17:00"/>
                 <zaterdag open="9:00" sluiting="13:00"/>
-                <zondag open="-" sluiting="-"/>
+                <zondag open="9:00" sluiting="13:00"/>
             </openingstijden>
 
             <autos>
