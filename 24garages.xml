@@ -109,7 +109,7 @@
                   <model>Astra</model>
                   <bouwjaar>1990</bouwjaar>
                   <brandstof>Benzine</brandstof>
-                  <prijs valuta="euro">1499</prijs>
+                  <prijs>1499</prijs>
                   <datumEindAPK>12-11-1994</datumEindAPK>
                   <fotos>
                       <foto>
@@ -127,7 +127,7 @@
                   <model>Minerva</model>
                   <bouwjaar>1999</bouwjaar>
                   <brandstof>Benzine</brandstof>
-                  <prijs valuta="euro">2199</prijs>
+                  <prijs>2199</prijs>
                   <datumEindAPK>19-11-2018</datumEindAPK>
                   <fotos>
                       <foto>
@@ -145,7 +145,7 @@
                   <model>Scirocco</model>
                   <bouwjaar>2004</bouwjaar>
                   <brandstof>Diesel</brandstof>
-                  <prijs valuta="euro">100</prijs>
+                  <prijs>100</prijs>
                   <datumEindAPK>07-09-2018</datumEindAPK>
                   <fotos>
                       <foto>
@@ -280,7 +280,7 @@
                     <model>Lupo</model>
                     <bouwjaar>1998</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">6000</prijs>
+                    <prijs>6000</prijs>
                     <datumEindAPK>13-03-2015</datumEindAPK>
                     <fotos>
                         <foto>
@@ -296,7 +296,7 @@
                     <model>Lupo</model>
                     <bouwjaar>1999</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">5500</prijs>
+                    <prijs>5500</prijs>
                     <datumEindAPK>13-04-2018</datumEindAPK>
                     <fotos>
                         <foto>
@@ -314,7 +314,7 @@
                     <model>Panda</model>
                     <bouwjaar>2005</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1111</prijs>
+                    <prijs>1111</prijs>
                     <datumEindAPK>19-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -330,7 +330,7 @@
                     <model>civic</model>
                     <bouwjaar>2019</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1122</prijs>
+                    <prijs>1122</prijs>
                     <datumEindAPK>12-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -348,7 +348,7 @@
                     <model>polo</model>
                     <bouwjaar>2006</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">50.00</prijs>
+                    <prijs>50.00</prijs>
                     <datumEindAPK>07-05-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -501,7 +501,7 @@
                     <model>3</model>
                     <bouwjaar>2018</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">30000</prijs>
+                    <prijs>30000</prijs>
                     <datumEindAPK>12-11-1994</datumEindAPK>
                     <fotos>
                         <foto>
@@ -519,7 +519,7 @@
                     <model>Focus</model>
                     <bouwjaar>2014</bouwjaar>
                     <brandstof>benzine</brandstof>
-                    <prijs valuta="euro">150</prijs>
+                    <prijs>150</prijs>
                     <datumEindAPK>07-12-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -657,7 +657,7 @@
                     <model>Mondeo</model>
                     <bouwjaar>2018</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">6000</prijs>
+                    <prijs>6000</prijs>
                     <datumEindAPK>13-08-2017</datumEindAPK>
                     <fotos>
                         <foto>
@@ -675,7 +675,7 @@
                     <model>swift</model>
                     <bouwjaar>2009</bouwjaar>
                     <brandstof>Gas</brandstof>
-                    <prijs valuta="euro">65</prijs>
+                    <prijs>65</prijs>
                     <datumEindAPK>07-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -691,7 +691,7 @@
                     <model>A8</model>
                     <bouwjaar>2008</bouwjaar>
                     <brandstof>benzine</brandstof>
-                    <prijs valuta="euro">300</prijs>
+                    <prijs>300</prijs>
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
@@ -824,7 +824,7 @@
                     <model>Astra</model>
                     <bouwjaar>1990</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1499</prijs>
+                    <prijs>1499</prijs>
                     <datumEindAPK>12-11-1994</datumEindAPK>
                     <fotos>
                         <foto>
@@ -842,7 +842,7 @@
                     <model>323</model>
                     <bouwjaar>1995</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">5000</prijs>
+                    <prijs>5000</prijs>
                     <datumEindAPK>19-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -860,7 +860,7 @@
                     <model>mx5</model>
                     <bouwjaar>2004</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">100</prijs>
+                    <prijs>100</prijs>
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1001,7 +1001,7 @@
                     <model>Baleno</model>
                     <bouwjaar>1993</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1699</prijs>
+                    <prijs>1699</prijs>
                     <datumEindAPK>12-11-1994</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1019,7 +1019,7 @@
                     <model>2.2</model>
                     <bouwjaar>2002</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">2200</prijs>
+                    <prijs>2200</prijs>
                     <datumEindAPK>19-01-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1037,7 +1037,7 @@
                     <model>MUSSO</model>
                     <bouwjaar>2002</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">130</prijs>
+                    <prijs>130</prijs>
                     <datumEindAPK>07-09-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1177,7 +1177,7 @@
                     <model>318</model>
                     <bouwjaar>1998</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">888</prijs>
+                    <prijs>888</prijs>
                     <datumEindAPK>05-06-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1195,7 +1195,7 @@
                     <model>Golf</model>
                     <bouwjaar>1998</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">890</prijs>
+                    <prijs>890</prijs>
                     <datumEindAPK>19-06-2018</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1213,7 +1213,7 @@
                     <model>Primera</model>
                     <bouwjaar>1998</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">58.00</prijs>
+                    <prijs>58.00</prijs>
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1229,7 +1229,7 @@
                     <model>Skyline</model>
                     <bouwjaar>2015</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">350.00</prijs>
+                    <prijs>350.00</prijs>
                     <datumEindAPK>07-09-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1377,7 +1377,7 @@
                     <model>80</model>
                     <bouwjaar>1992</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">950</prijs>
+                    <prijs>950</prijs>
                     <datumEindAPK>05-03-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1395,7 +1395,7 @@
                     <model>Laguna</model>
                     <bouwjaar>2001</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">990</prijs>
+                    <prijs>990</prijs>
                     <datumEindAPK>19-06-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1411,7 +1411,7 @@
                     <model>A8</model>
                     <bouwjaar>2016</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">40000</prijs>
+                    <prijs>40000</prijs>
                     <datumEindAPK>19-06-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1429,7 +1429,7 @@
                     <model>307</model>
                     <bouwjaar>2003</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">999.00</prijs>
+                    <prijs>999.00</prijs>
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1578,7 +1578,7 @@
                     <model>9-3</model>
                     <bouwjaar>2000</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">999</prijs>
+                    <prijs>999</prijs>
                     <datumEindAPK>09-12-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1594,7 +1594,7 @@
                     <model>2.0</model>
                     <bouwjaar>1997</bouwjaar>
                     <brandstof>Gas</brandstof>
-                    <prijs valuta="euro">1250.00</prijs>
+                    <prijs>1250.00</prijs>
                     <datumEindAPK>09-09-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1612,7 +1612,7 @@
                     <model>Punto</model>
                     <bouwjaar>2005</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1100</prijs>
+                    <prijs>1100</prijs>
                     <datumEindAPK>11-01-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1630,7 +1630,7 @@
                     <model>Ypsilon</model>
                     <bouwjaar>2000</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1150</prijs>
+                    <prijs>1150</prijs>
                     <datumEindAPK>07-01-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -1774,7 +1774,7 @@
                 <model>Twingo</model>
                 <bouwjaar>2003</bouwjaar>
                 <brandstof>Benzine</brandstof>
-                <prijs valuta="euro">1250</prijs>
+                <prijs>1250</prijs>
                 <datumEindAPK>27-12-2022</datumEindAPK>
                 <fotos>
                     <foto>
@@ -1790,7 +1790,7 @@
                 <model>Lanos</model>
                 <bouwjaar>1998</bouwjaar>
                 <brandstof>Benzine</brandstof>
-                <prijs valuta="euro">1250.00</prijs>
+                <prijs>1250.00</prijs>
                 <datumEindAPK>09-09-2021</datumEindAPK>
                 <fotos>
                     <foto>
@@ -1808,7 +1808,7 @@
                 <model>Megane</model>
                 <bouwjaar>1997</bouwjaar>
                 <brandstof>Diesel</brandstof>
-                <prijs valuta="euro">1250.00</prijs>
+                <prijs>1250.00</prijs>
                 <datumEindAPK>01-01-2022</datumEindAPK>
                 <fotos>
                     <foto>
@@ -1824,7 +1824,7 @@
                 <model>Excel</model>
                 <bouwjaar>2000</bouwjaar>
                 <brandstof>Benzine</brandstof>
-                <prijs valuta="euro">1250.00</prijs>
+                <prijs>1250.00</prijs>
                 <datumEindAPK>01-01-2019</datumEindAPK>
                 <fotos>
                     <foto>
@@ -1842,7 +1842,7 @@
                 <model>Ypsilon</model>
                 <bouwjaar>2000</bouwjaar>
                 <brandstof>Benzine</brandstof>
-                <prijs valuta="euro">1150</prijs>
+                <prijs>1150</prijs>
                 <datumEindAPK>07-01-2020</datumEindAPK>
                 <fotos>
                     <foto>
@@ -1858,7 +1858,7 @@
                 <model>Fun Cruiser</model>
                 <bouwjaar>1995</bouwjaar>
                 <brandstof>Benzine</brandstof>
-                <prijs valuta="euro">1290</prijs>
+                <prijs>1290</prijs>
                 <datumEindAPK>07-06-2018</datumEindAPK>
                 <fotos>
                     <foto>
@@ -1997,7 +1997,7 @@
                     <model>Romeo</model>
                     <bouwjaar>2000</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1295</prijs>
+                    <prijs>1295</prijs>
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2015,7 +2015,7 @@
                     <model>A4</model>
                     <bouwjaar>2001</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">150</prijs>
+                    <prijs>150</prijs>
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2155,7 +2155,7 @@
                     <model>A4</model>
                     <bouwjaar>2007</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">155.60</prijs>
+                    <prijs>155.60</prijs>
                     <datumEindAPK>07-09-2019</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2299,7 +2299,7 @@
                     <model>Swift</model>
                     <bouwjaar>2002</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">2085</prijs>
+                    <prijs>2085</prijs>
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2317,7 +2317,7 @@
                     <model>Frontera</model>
                     <bouwjaar>1999</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">160</prijs>
+                    <prijs>160</prijs>
                     <datumEindAPK>07-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2458,7 +2458,7 @@
                     <model>Cerato</model>
                     <bouwjaar>2006</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1490</prijs>
+                    <prijs>1490</prijs>
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2476,7 +2476,7 @@
                     <model>Rio</model>
                     <bouwjaar>2005</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1495</prijs>
+                    <prijs>1495</prijs>
                     <datumEindAPK>01-11-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2494,7 +2494,7 @@
                     <model>V40</model>
                     <bouwjaar>1999</bouwjaar>
                     <brandstof>Diesel</brandstof>
-                    <prijs valuta="euro">114</prijs>
+                    <prijs>114</prijs>
                     <datumEindAPK>07-09-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2635,7 +2635,7 @@
                     <model>Accord</model>
                     <bouwjaar>2000</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1500</prijs>
+                    <prijs>1500</prijs>
                     <datumEindAPK>12-11-2022</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2653,7 +2653,7 @@
                     <model>S70</model>
                     <bouwjaar>1998</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1500</prijs>
+                    <prijs>1500</prijs>
                     <datumEindAPK>07-05-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2787,7 +2787,7 @@
                     <model>406</model>
                     <bouwjaar>2000</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1600</prijs>
+                    <prijs>1600</prijs>
                     <datumEindAPK>03-03-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -2929,7 +2929,7 @@
                     <model>Meriva</model>
                     <bouwjaar>2004</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1649.00</prijs>
+                    <prijs>1649.00</prijs>
                     <datumEindAPK>03-05-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -3067,7 +3067,7 @@
                     <model>204</model>
                     <bouwjaar>1992</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1750</prijs>
+                    <prijs>1750</prijs>
                     <datumEindAPK>09-04-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -3083,7 +3083,7 @@
                     <model>Sharan</model>
                     <bouwjaar>2001</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1750.00</prijs>
+                    <prijs>1750.00</prijs>
                     <datumEindAPK>01-08-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -3101,7 +3101,7 @@
                     <model>Twingo</model>
                     <bouwjaar>2002</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1750</prijs>
+                    <prijs>1750</prijs>
                     <datumEindAPK>07-01-2021</datumEindAPK>
                     <fotos>
                         <foto>
@@ -3240,7 +3240,7 @@
                     <model>Almera</model>
                     <bouwjaar>2003</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">1895</prijs>
+                    <prijs>1895</prijs>
                     <datumEindAPK>03-01-2022</datumEindAPK>
                     <fotos>
                         <foto>
@@ -3375,7 +3375,7 @@
                     <model>Z3</model>
                     <bouwjaar>2018</bouwjaar>
                     <brandstof>Benzine</brandstof>
-                    <prijs valuta="euro">300000</prijs>
+                    <prijs>300000</prijs>
                     <datumEindAPK>12-11-2022</datumEindAPK>
                     <fotos>
                         <foto>
@@ -3393,7 +3393,7 @@
                     <model>Ypsilon</model>
                     <bouwjaar>2004</bouwjaar>
                     <brandstof>benzine</brandstof>
-                    <prijs valuta="euro">180</prijs>
+                    <prijs>180</prijs>
                     <datumEindAPK>07-12-2020</datumEindAPK>
                     <fotos>
                         <foto>
@@ -3431,4 +3431,634 @@
             </medewerker>
         </medewerkers>
     </garage> <!-- garage 20 -->
+    <garage naam="beterweg"> <!-- garage 21 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>plekweg</straat>
+            <nummer>31N</nummer>
+            <postcode>1446AJ</postcode>
+            <plaats>Emmen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0688888859</telefoonnummer>
+            <email>info@beterweg.nl</email>
+            <website>http://www.beterweg.nl</website>
+            <omschrijving> beterweg is een groot internationaal bedrijf.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+beterweg/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Gas"/>
+                <pomp brandstofType="Gas"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="1"/>
+                <wasbox aantal="1"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <autoAccesoires/>
+                    <rookwaar/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.beterweg.nl/foto.jpg</bestandsLocatie>
+                <alt>beterweg</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="8:00" sluiting="21:00"/>
+                <dinsdag open="8:00" sluiting="21:00"/>
+                <woensdag open="9:00" sluiting="17:00"/>
+                <donderdag open="10:00" sluiting="13:00"/>
+                <vrijdag open="8:00" sluiting="21:00"/>
+                <zaterdag open="13:00" sluiting="21:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <APKkeuring/>
+                <bandenservice/>
+                <ruitenreparatie/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>AA-UA-11</kenteken>
+                    <type>Sedan</type>
+                    <merk>BMW</merk>
+                    <model>520</model>
+                    <bouwjaar>1996</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs>1500</prijs>
+                    <datumEindAPK>12-11-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.beterweg.nl/BMW520.jpg</bestandsLocatie>
+                            <alt>BMW 520</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-AWU-82</kenteken>
+                    <type>Sedan</type>
+                    <merk>Lancia</merk>
+                    <model>Ypsilon</model>
+                    <bouwjaar>2004</bouwjaar>
+                    <brandstof>benzine</brandstof>
+                    <prijs>1870</prijs>
+                    <datumEindAPK>07-12-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.beterweg.nl/Lanciaypsilon.jpg</bestandsLocatie>
+                            <alt>Lancia Ypsilon</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Jean Astra</naam>
+                <foto>
+                    <bestandsLocatie>http://www.beterweg.nl/Jeanastra.jpg</bestandsLocatie>
+                    <alt>Jean Astra</alt>
+                </foto>
+                <functie>balie medewerker</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Marinus Velpen</naam>
+                <foto>
+                    <bestandsLocatie>http://www.beterweg.nl/marinusvelpen.jpg</bestandsLocatie>
+                    <alt>Marinus Velpen</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 21 -->
+    <garage naam="gerardsautos"> <!-- garage 22 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Meerlaan</straat>
+            <nummer>43N</nummer>
+            <postcode>1336AJ</postcode>
+            <plaats>Dalen</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0688111119</telefoonnummer>
+            <email>info@gerardsautos.nl</email>
+            <website>http://www.gerardsautos.nl</website>
+            <omschrijving> gerardsautos is een groot internationaal bedrijf.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+gerardsautos/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Diesel"/>
+                <pomp brandstofType="Diesel"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="1"/>
+                <wasbox aantal="0"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <autoAccesoires/>
+                    <rookwaar/>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.gerardsautos.nl/foto.jpg</bestandsLocatie>
+                <alt>gerardsautos</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="8:00" sluiting="21:00"/>
+                <dinsdag open="8:00" sluiting="21:00"/>
+                <woensdag open="9:00" sluiting="17:00"/>
+                <donderdag open="10:00" sluiting="13:00"/>
+                <vrijdag open="8:00" sluiting="21:00"/>
+                <zaterdag open="13:00" sluiting="21:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <APKkeuring/>
+                <bandenservice/>
+                <ruitenreparatie/>
+                <aircoservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>AA-III-11</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Renault</merk>
+                    <model>Twingo</model>
+                    <bouwjaar>2003</bouwjaar>
+                    <brandstof>Benzine</brandstof>
+                    <prijs>1500</prijs>
+                    <datumEindAPK>12-09-2020</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.gerardsautos.nl/renaulttwingo.jpg</bestandsLocatie>
+                            <alt>Renault Twingo</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="false">
+                    <kenteken>PP-AWU-82</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Volkswagen</merk>
+                    <model>Lupo</model>
+                    <bouwjaar>2004</bouwjaar>
+                    <brandstof>benzine</brandstof>
+                    <prijs>11970</prijs>
+                    <datumEindAPK>07-12-2019</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.gerardsautos.nl/volkswagenlupo.jpg</bestandsLocatie>
+                            <alt>Volkswagen Lupo</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="RDW"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Wilfred Algoed</naam>
+                <foto>
+                    <bestandsLocatie>http://www.gerardsautos.nl/wilfredalgoed.jpg</bestandsLocatie>
+                    <alt>Wilfred algoed</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Berend ruiter</naam>
+                <foto>
+                    <bestandsLocatie>http://www.gerardsautos.nl/BerenedRuiter.jpg</bestandsLocatie>
+                    <alt>Berend Ruiter</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 22 -->
+    <garage naam="Karinsautos"> <!-- garage 23 -->
+
+        <!--Adres-->
+        <adres>
+            <straat>Zandweg</straat>
+            <nummer>84</nummer>
+            <postcode>1556AJ</postcode>
+            <plaats>Coevorden</plaats>
+            <provincie>Drenthe</provincie>
+        </adres>
+
+        <!--ContactGegevens-->
+        <contactGegevens>
+            <telefoonnummer>0688777779</telefoonnummer>
+            <email>info@Karinsautos.nl</email>
+            <website>http://www.Karinsautos.nl</website>
+            <omschrijving> Karinsautos is een groot internationaal bedrijf.</omschrijving>
+            <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Karinsautos/</routebeschrijving>
+        </contactGegevens>
+
+        <!--Faciliteiten-->
+        <faciliteiten>
+            <pompen>
+                <pomp brandstofType="Benzine"/>
+                <pomp brandstofType="Benzine"/>
+            </pompen>
+
+            <wassen>
+                <wasstraat aantal="1"/>
+                <wasbox aantal="3"/>
+            </wassen>
+            <!--Winkel-->
+            <winkel>
+
+                <openingstijden>
+                    <maandag open="10:00" sluiting="21:00"/>
+                    <dinsdag open="10:00" sluiting="21:00"/>
+                    <woensdag open="10:00" sluiting="21:00"/>
+                    <donderdag open="10:00" sluiting="21:00"/>
+                    <vrijdag open="10:00" sluiting="21:00"/>
+                    <zaterdag open="10:00" sluiting="21:00"/>
+                    <zondag open="12:00" sluiting="18:00"/>
+                </openingstijden>
+
+                <assortiment>
+                    <autoAccesoires/>
+                    <rookwaar/>
+                    <tijdschriften/>
+                </assortiment>
+
+            </winkel>
+        </faciliteiten>
+
+        <!--Foto's-->
+        <fotos>
+            <foto>
+                <bestandsLocatie>http://www.Karinsautos.nl/foto.jpg</bestandsLocatie>
+                <alt>Karinsautos</alt>
+            </foto>
+        </fotos>
+
+        <!--Werkplaats-->
+        <werkplaats>
+
+            <openingstijden>
+                <maandag open="8:00" sluiting="21:00"/>
+                <dinsdag open="8:00" sluiting="21:00"/>
+                <woensdag open="9:00" sluiting="17:00"/>
+                <donderdag open="10:00" sluiting="13:00"/>
+                <vrijdag open="8:00" sluiting="21:00"/>
+                <zaterdag open="13:00" sluiting="21:00"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <werkzaamheden>
+                <APKkeuring/>
+                <aircoservice/>
+            </werkzaamheden>
+        </werkplaats>
+
+        <!--Showroom-->
+        <showroom>
+
+            <openingstijden>
+                <maandag open="13:00" sluiting="13:01"/>
+                <dinsdag open="13:00" sluiting="13:01"/>
+                <woensdag open="13:00" sluiting="13:01"/>
+                <donderdag open="13:00" sluiting="13:01"/>
+                <vrijdag open="13:00" sluiting="13:01"/>
+                <zaterdag open="13:00" sluiting="13:01"/>
+                <zondag open="-" sluiting="-"/>
+            </openingstijden>
+
+            <autos>
+                <nieuw>
+                    <kenteken>UI-HYU-11</kenteken>
+                    <type>Hatchback</type>
+                    <merk>Renault</merk>
+                    <model>Twingo</model>
+                    <bouwjaar>2015</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs>3300</prijs>
+                    <datumEindAPK>12-09-2021</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Karinsautos.nl/renaulttwingo.jpg</bestandsLocatie>
+                            <alt>Renault Twingo diesel</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+
+                <!--Huur-->
+                <huur uitleenbaar="true">
+                    <kenteken>PP-AHU-82</kenteken>
+                    <type>Sedan</type>
+                    <merk>Lancia</merk>
+                    <model>Ypsilon</model>
+                    <bouwjaar>2009</bouwjaar>
+                    <brandstof>Gas</brandstof>
+                    <prijs>1170.00</prijs>
+                    <datumEindAPK>07-12-2018</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>http://www.Karinsautos.nl/LanciaYpsilon.jpg</bestandsLocatie>
+                            <alt>Lancia Ypsilon</alt>
+                        </foto>
+                    </fotos>
+                </huur>
+            </autos>
+
+        </showroom>
+
+        <!--Keurmerken-->
+        <keurmerken>
+            <keurmerk type="BOVAG"/>
+        </keurmerken>
+
+        <!--Medewerkers-->
+        <medewerkers>
+            <medewerker>
+                <naam>Alex Pauw</naam>
+                <foto>
+                    <bestandsLocatie>http://www.Karinsautos.nl/Alexpauw.jpg</bestandsLocatie>
+                    <alt>Alex Pauw</alt>
+                </foto>
+                <functie>Monteur</functie>
+            </medewerker>
+            <medewerker>
+                <naam>Karin Pauw</naam>
+                <foto>
+                    <bestandsLocatie>http://www.Karinsautos.nl/karinpauw.jpg</bestandsLocatie>
+                    <alt>Karin Pauw</alt>
+                </foto>
+                <functie>Directeur</functie>
+            </medewerker>
+        </medewerkers>
+    </garage> <!-- garage 23 -->
+    <garage naam="Steensautos"> <!-- garage 24 -->
+
+    <!--Adres-->
+    <adres>
+        <straat>Steenlaan</straat>
+        <nummer>8D</nummer>
+        <postcode>1456AJ</postcode>
+        <plaats>Dalen</plaats>
+        <provincie>Drenthe</provincie>
+    </adres>
+
+    <!--ContactGegevens-->
+    <contactGegevens>
+        <telefoonnummer>0688000779</telefoonnummer>
+        <email>info@Steensautos.nl</email>
+        <website>http://www.Steensautos.nl</website>
+        <omschrijving> Steensautos is een groot internationaal bedrijf.</omschrijving>
+        <routebeschrijving> https://www.google.nl/maps/dir/''/garage+Steensautos/</routebeschrijving>
+    </contactGegevens>
+
+    <!--Faciliteiten-->
+    <faciliteiten>
+        <pompen>
+            <pomp brandstofType="Gas"/>
+            <pomp brandstofType="Diesel"/>
+        </pompen>
+
+        <wassen>
+            <wasstraat aantal="0"/>
+            <wasbox aantal="2"/>
+        </wassen>
+        <!--Winkel-->
+        <winkel>
+
+            <openingstijden>
+                <maandag open="10:00" sluiting="21:00"/>
+                <dinsdag open="10:00" sluiting="21:00"/>
+                <woensdag open="10:00" sluiting="21:00"/>
+                <donderdag open="10:00" sluiting="21:00"/>
+                <vrijdag open="10:00" sluiting="21:00"/>
+                <zaterdag open="10:00" sluiting="21:00"/>
+                <zondag open="12:00" sluiting="18:00"/>
+            </openingstijden>
+
+            <assortiment>
+                <autoAccesoires/>
+                <rookwaar/>
+                <levensmiddelen/>
+            </assortiment>
+
+        </winkel>
+    </faciliteiten>
+
+    <!--Foto's-->
+    <fotos>
+        <foto>
+            <bestandsLocatie>http://www.Steensautos.nl/foto.jpg</bestandsLocatie>
+            <alt>Steensautos</alt>
+        </foto>
+    </fotos>
+
+    <!--Werkplaats-->
+    <werkplaats>
+
+        <openingstijden>
+            <maandag open="8:00" sluiting="21:00"/>
+            <dinsdag open="8:00" sluiting="21:00"/>
+            <woensdag open="9:00" sluiting="17:00"/>
+            <donderdag open="10:00" sluiting="13:00"/>
+            <vrijdag open="8:00" sluiting="21:00"/>
+            <zaterdag open="14:00" sluiting="21:00"/>
+            <zondag open="-" sluiting="-"/>
+        </openingstijden>
+
+        <werkzaamheden>
+            <APKkeuring/>
+            <aircoservice/>
+        </werkzaamheden>
+    </werkplaats>
+
+    <!--Showroom-->
+    <showroom>
+
+        <openingstijden>
+            <maandag open="13:00" sluiting="13:01"/>
+            <dinsdag open="13:00" sluiting="13:01"/>
+            <woensdag open="13:00" sluiting="13:01"/>
+            <donderdag open="13:00" sluiting="13:01"/>
+            <vrijdag open="13:00" sluiting="13:01"/>
+            <zaterdag open="13:00" sluiting="13:01"/>
+            <zondag open="-" sluiting="-"/>
+        </openingstijden>
+
+        <autos>
+            <occasions>
+                <kenteken>UI-HHH-11</kenteken>
+                <type>Terreinwagen</type>
+                <merk>Kia</merk>
+                <model>Spottage</model>
+                <bouwjaar>207</bouwjaar>
+                <brandstof>Gas</brandstof>
+                <prijs>33000</prijs>
+                <datumEindAPK>12-04-2021</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Steensautos.nl/kiaspottage.jpg</bestandsLocatie>
+                        <alt>Kia spottage</alt>
+                    </foto>
+                </fotos>
+            </occasions>
+
+            <!--Huur-->
+            <huur uitleenbaar="false">
+                <kenteken>PP-UGH-82</kenteken>
+                <type>Hatchback</type>
+                <merk>Chevrolet</merk>
+                <model>Camaro</model>
+                <bouwjaar>2003</bouwjaar>
+                <brandstof>Benzine</brandstof>
+                <prijs>11660.00</prijs>
+                <datumEindAPK>07-12-2019</datumEindAPK>
+                <fotos>
+                    <foto>
+                        <bestandsLocatie>http://www.Steensautos.nl/chevroletcamaro.jpg</bestandsLocatie>
+                        <alt>Chevrolet Camaro</alt>
+                    </foto>
+                </fotos>
+            </huur>
+        </autos>
+
+    </showroom>
+
+    <!--Keurmerken-->
+    <keurmerken>
+        <keurmerk type="RDW"/>
+    </keurmerken>
+
+    <!--Medewerkers-->
+    <medewerkers>
+        <medewerker>
+            <naam>Ingrid Broekhuis</naam>
+            <foto>
+                <bestandsLocatie>http://www.Steensautos.nl/ingridbroekhuis.jpg</bestandsLocatie>
+                <alt>Ingrid Broekhuis</alt>
+            </foto>
+            <functie>Monteur</functie>
+        </medewerker>
+        <medewerker>
+            <naam>Barry Van Der Hoek</naam>
+            <foto>
+                <bestandsLocatie>http://www.Steensautos.nl/barryvanderhoek.jpg</bestandsLocatie>
+                <alt>Barry Van Der Hoek</alt>
+            </foto>
+            <functie>Winkel bediende</functie>
+        </medewerker>
+    </medewerkers>
+</garage> <!-- garage 24 -->
 </garages>
