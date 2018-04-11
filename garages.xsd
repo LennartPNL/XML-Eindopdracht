@@ -231,14 +231,10 @@
 
   <xs:complexType name="foto">
     <xs:sequence>
-      <!--<xs:element name="foto">-->
-        <!--<xs:complexType>-->
           <xs:sequence>
             <xs:element name="bestandsLocatie" type="bestandsLocatie"/>
             <xs:element name="alt" type="xs:string"/>
           </xs:sequence>
-        <!--</xs:complexType>-->
-      <!--</xs:element>-->
     </xs:sequence>
   </xs:complexType>
 
