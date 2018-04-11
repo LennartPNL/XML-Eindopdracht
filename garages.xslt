@@ -176,7 +176,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                       <div class="adres">
                           <h2>Adres</h2>
                           <ul>
-                              <li class="straat">Berendslaan</li>
+                              <li class="straat">Berendslaan </li>
                               <li class="nummer">89</li>
                               <li class="postcode">7826 UP</li>
                               <li class="plaats">Emmen</li>
