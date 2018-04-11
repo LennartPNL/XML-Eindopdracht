@@ -1,7 +1,18 @@
 ﻿<?xml version="1.0"?>
 <!---->
 <xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns:math="http://exslt.org/math"
+                extension-element-prefixes="math">
+
+
+    <!--
+    RANDOM NUM CODE
+
+    Voor Auto en Gezicht:
+    <xsl:value-of select="(floor(math:random()*29) mod 10)" />
+
+    -->
 
   <xsl:template match="/">
       <html>
@@ -168,7 +179,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                   <xsl:for-each select="garages/garage">
 
                   <div class="garageName">
-                      <h2>GarageNaam Hier<xsl:value-of select="@naam"/></h2>
+                      <h2><xsl:value-of select="@naam"/></h2>
                   </div>
 
                   <div class="content">
