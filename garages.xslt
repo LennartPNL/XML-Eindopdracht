@@ -8,6 +8,154 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <head>
         <meta charset="utf-8" />
         <title></title>
+
+          <style>
+              div.header{
+              width: 100%;
+              border-style: solid;
+              text-align:center;
+              }
+              div.garageName {
+              width: 100%;
+              border-style: solid;
+              text-align: center;
+              }
+              div.container {
+              width: 100%;
+              height: 800px;
+              }
+              div.content {
+              width: 99%;
+              height: 50%;
+              margin: auto;
+              }
+              div.adres {
+              width: 33%;
+              border-style: solid;
+              float:left;
+              height: 100%;
+              margin: auto;
+              }
+              div.contactgegevens {
+              width: 33%;
+              border-style: solid;
+              float: left;
+              height: 100%;
+              margin: auto;
+              }
+              div.afbeelding {
+              width: 33%;
+              border-style: solid;
+              float: left;
+              height: 100%;
+              margin: auto;
+              }
+              div.faciliteiten {
+              width: 34%;
+              border-style: solid;
+              float: left;
+              height: 100%;
+              margin: auto;
+              }
+              div.openingstijden {
+              width: 33%;
+              border-style: solid;
+              float: left;
+              height: 100%;
+              margin: auto;
+              }
+              div.winkel {
+              width: 32%;
+
+              float: left;
+              height: 50%;
+              margin: auto;
+              }
+              div.werkplaats {
+              width: 32%;
+
+              float: left;
+              height: 50%;
+              margin: auto;
+              }
+              div.showroomdiv {
+              width: 32%;
+
+              float: left;
+              height: 50%;
+              margin: auto;
+              }
+              div.showroom {
+              width: 32%;
+              border-style: solid;
+              float: left;
+              height: 100%;
+              margin: auto;
+              }
+              div.pomp {
+              width: 32%;
+              float: left;
+              height: 50%;
+              margin: auto;
+              }
+
+              div.was {
+              width: 32%;
+              float: left;
+              height: 50%;
+              margin: auto;
+              }
+              div.footer {
+              width: 100%;
+              border-style: solid;
+              text-align: center;
+              }
+              li{
+              list-style: none;
+              }
+              h3{
+              text-align:center;
+              }
+              h2 {
+              text-align: center;
+              }
+              img.garageFoto{
+              width: 49%;
+              float:left;
+              }
+              img.keurmerkFoto {
+              width: 49%;
+              float: left;
+              }
+              img.medewerker1 {
+              width: 33%;
+              float: left;
+              }
+              img.medewerker2 {
+              width: 33%;
+              float: left;
+              }
+              img.medewerker3 {
+              width: 33%;
+              float: left;
+              }
+              div.nieuw {
+              width: 33%;
+              float: left;
+              }
+              div.occasionshow {
+              width: 33%;
+              float: left;
+              }
+              div.huur {
+              width: 33%;
+              float: left;
+              }
+              table.contactTabel{
+              width:90%;
+              text-align:center;
+              }
+          </style>
       </head>
       <body>
         <div class="container">
