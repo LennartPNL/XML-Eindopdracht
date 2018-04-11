@@ -74,7 +74,7 @@
           	<donderdag open="13:00" sluiting="13:01"/>
           	<vrijdag open="13:00" sluiting="13:01"/>
           	<zaterdag open="13:00" sluiting="13:01"/>
-          	<zondag open="-" sluiting="-"/>
+          	
           </openingstijden>
 
           <werkzaamheden>
@@ -97,7 +97,7 @@
           	<donderdag open="13:00" sluiting="13:01"/>
           	<vrijdag open="13:00" sluiting="13:01"/>
           	<zaterdag open="13:00" sluiting="13:01"/>
-          	<zondag open="-" sluiting="-"/>
+          	
           </openingstijden>
 
           <autos>
@@ -217,7 +217,7 @@
                     <donderdag open="9:00" sluiting="23:00"/>
                     <vrijdag open="9:00" sluiting="23:00"/>
                     <zaterdag open="9:00" sluiting="20:00"/>
-                    <zondag open="-" sluiting="-"/>
+                    
                 </openingstijden>
 
                 <assortiment>
@@ -246,7 +246,7 @@
                 <donderdag open="8:00" sluiting="18:00"/>
                 <vrijdag open="8:00" sluiting="15:00"/>
                 <zaterdag open="8:00" sluiting="14:00"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -472,7 +472,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -489,7 +489,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -517,7 +517,7 @@
                     <merk>Ford</merk>
                     <model>Focus</model>
                     <bouwjaar>2014</bouwjaar>
-                    <brandstof>benzine</brandstof>
+                    <brandstof>Benzine</brandstof>
                     <prijs>150</prijs>
                     <datumEindAPK>07-12-2019</datumEindAPK>
                     <fotos>
@@ -598,7 +598,7 @@
                     <donderdag open="8:30" sluiting="21:00"/>
                     <vrijdag open="8:30" sluiting="21:00"/>
                     <zaterdag open="8:30" sluiting="21:00"/>
-                    <zondag open="-" sluiting="-"/>
+                    
                 </openingstijden>
 
                 <assortiment>
@@ -625,7 +625,7 @@
                 <donderdag open="13:00" sluiting="17:00"/>
                 <vrijdag open="13:00" sluiting="17:00"/>
                 <zaterdag open="13:00" sluiting="17:00"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -644,7 +644,7 @@
                 <donderdag open="13:00" sluiting="21:01"/>
                 <vrijdag open="13:00" sluiting="21:01"/>
                 <zaterdag open="13:00" sluiting="21:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -685,11 +685,11 @@
                 </huur>
                 <huur uitleenbaar="true">
                     <kenteken>AK-ER-24</kenteken>
-                    <type>coupe</type>
+                    <type>Coupé</type>
                     <merk>audi</merk>
                     <model>A8</model>
                     <bouwjaar>2008</bouwjaar>
-                    <brandstof>benzine</brandstof>
+                    <brandstof>Benzine</brandstof>
                     <prijs>300</prijs>
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
@@ -791,7 +791,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -812,7 +812,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -970,7 +970,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -989,7 +989,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -1144,7 +1144,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -1165,7 +1165,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -1346,7 +1346,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -1365,7 +1365,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -1544,7 +1544,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -1566,7 +1566,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -1744,7 +1744,7 @@
             <donderdag open="13:00" sluiting="13:01"/>
             <vrijdag open="13:00" sluiting="13:01"/>
             <zaterdag open="13:00" sluiting="13:01"/>
-            <zondag open="-" sluiting="-"/>
+            
         </openingstijden>
 
         <werkzaamheden>
@@ -1762,7 +1762,7 @@
             <donderdag open="13:00" sluiting="13:01"/>
             <vrijdag open="13:00" sluiting="13:01"/>
             <zaterdag open="13:00" sluiting="13:01"/>
-            <zondag open="-" sluiting="-"/>
+            
         </openingstijden>
 
         <autos>
@@ -1967,7 +1967,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -1985,7 +1985,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -2124,7 +2124,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -2142,7 +2142,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -2264,7 +2264,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -2287,7 +2287,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -2423,7 +2423,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -2446,7 +2446,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -2601,7 +2601,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -2623,7 +2623,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -2753,7 +2753,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -2774,7 +2774,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -2896,7 +2896,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -2916,7 +2916,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -3034,7 +3034,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -3055,7 +3055,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -3208,7 +3208,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -3227,7 +3227,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -3346,7 +3346,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -3363,7 +3363,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -3391,7 +3391,7 @@
                     <merk>Lancia</merk>
                     <model>Ypsilon</model>
                     <bouwjaar>2004</bouwjaar>
-                    <brandstof>benzine</brandstof>
+                    <brandstof>Benzine</brandstof>
                     <prijs>180</prijs>
                     <datumEindAPK>07-12-2020</datumEindAPK>
                     <fotos>
@@ -3500,7 +3500,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -3520,7 +3520,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -3548,7 +3548,7 @@
                     <merk>Lancia</merk>
                     <model>Ypsilon</model>
                     <bouwjaar>2004</bouwjaar>
-                    <brandstof>benzine</brandstof>
+                    <brandstof>Benzine</brandstof>
                     <prijs>1870</prijs>
                     <datumEindAPK>07-12-2020</datumEindAPK>
                     <fotos>
@@ -3658,7 +3658,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -3679,7 +3679,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -3707,7 +3707,7 @@
                     <merk>Volkswagen</merk>
                     <model>Lupo</model>
                     <bouwjaar>2004</bouwjaar>
-                    <brandstof>benzine</brandstof>
+                    <brandstof>Benzine</brandstof>
                     <prijs>11970</prijs>
                     <datumEindAPK>07-12-2019</datumEindAPK>
                     <fotos>
@@ -3817,7 +3817,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <werkzaamheden>
@@ -3836,7 +3836,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                <zondag open="-" sluiting="-"/>
+                
             </openingstijden>
 
             <autos>
@@ -3852,7 +3852,7 @@
                     <fotos>
                         <foto>
                             <bestandsLocatie>http://www.Karinsautos.nl/renaulttwingo.jpg</bestandsLocatie>
-                            <alt>Renault Twingo diesel</alt>
+                            <alt>Renault Twingo</alt>
                         </foto>
                     </fotos>
                 </nieuw>
@@ -3974,7 +3974,7 @@
             <donderdag open="10:00" sluiting="13:00"/>
             <vrijdag open="8:00" sluiting="21:00"/>
             <zaterdag open="14:00" sluiting="21:00"/>
-            <zondag open="-" sluiting="-"/>
+            
         </openingstijden>
 
         <werkzaamheden>
@@ -3993,7 +3993,7 @@
             <donderdag open="13:00" sluiting="13:01"/>
             <vrijdag open="13:00" sluiting="13:01"/>
             <zaterdag open="13:00" sluiting="13:01"/>
-            <zondag open="-" sluiting="-"/>
+            
         </openingstijden>
 
         <autos>
