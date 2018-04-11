@@ -230,12 +230,10 @@
 	</xs:element>
 
   <xs:complexType name="foto">
-    <xs:sequence>
-          <xs:sequence>
-            <xs:element name="bestandsLocatie" type="bestandsLocatie"/>
-            <xs:element name="alt" type="xs:string"/>
-          </xs:sequence>
-    </xs:sequence>
+      <xs:sequence>
+        <xs:element name="bestandsLocatie" type="bestandsLocatie"/>
+        <xs:element name="alt" type="xs:string"/>
+      </xs:sequence>
   </xs:complexType>
 
   <xs:complexType name="openingstijden">
@@ -293,7 +291,7 @@
 
   <xs:simpleType name="nummer">
 		<xs:restriction base="xs:string">
-			<xs:pattern value="[0-9]{5}[A-Z]{0,2}"/>
+			<xs:pattern value="[A-Za-z0-9'\.\-\s\,]"/>
 		</xs:restriction>
 	</xs:simpleType>
 
@@ -306,8 +304,7 @@
 
   <xs:simpleType name="telefoonnummer">
 		<xs:restriction base="xs:string">
-			<xs:pattern value="[0-9]{10}"/>
-      <xs:length value="10"/>
+			<xs:pattern value="(((0)[1-9]{2}[0-9][-]?[1-9][0-9]{5})|((\\+31|0|0031)[1-9][0-9][-]?[1-9][0-9]{6}))"/>
 		</xs:restriction>
 	</xs:simpleType>
 
@@ -319,7 +316,7 @@
 
   <xs:simpleType name="url">
 		<xs:restriction base="xs:string">
-			<xs:pattern value="http://.+"/>
+			<xs:pattern value="(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9]\.[^\s]{2,})"/>
     </xs:restriction>
 	</xs:simpleType>
 
@@ -367,13 +364,13 @@
 
   <xs:simpleType name="bestandsLocatie">
 		<xs:restriction base="xs:string">
-			<xs:pattern value="[a-zA-Z0-9]+(.jpeg|.jpg|.png)"/>
+			<xs:pattern value="(http://.+)?[a-zA-Z0-9]+(.jpeg|.jpg|.png)"/>
 		</xs:restriction>
 	</xs:simpleType>
 
   <xs:simpleType name="tijdstip">
 		<xs:restriction base="xs:string">
-			<xs:pattern value="[0-23][:][0-59]{2}"/>
+			<xs:pattern value="[0-23]{2}[:][0-59]{2}"/>
 		</xs:restriction>
 	</xs:simpleType>
 </xs:schema>
