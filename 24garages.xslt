@@ -189,7 +189,7 @@
                                 <ul>
                                     <li class="straat"><xsl:value-of select="adres/straat"/></li>
                                     <li class="nummer"><xsl:value-of select="adres/nummer"/></li>
-                                    <li class="postcode"><xsl:value-of select="adres/poscode"/></li>
+                                    <li class="postcode"><xsl:value-of select="adres/postcode"/></li>
                                     <li class="plaats"><xsl:value-of select="adres/plaats"/></li>
                                     <li class="provincie"><xsl:value-of select="adres/provincie"/></li>
                                 </ul>
