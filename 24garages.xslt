@@ -236,7 +236,7 @@
                                     <xsl:for-each select="medewerkers/medewerker">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'gezicht', (floor(math:random()*29) mod 10), '.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
@@ -464,7 +464,7 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto1.jpg')"/>
+                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
@@ -485,7 +485,7 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto1.jpg')"/>
+                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>

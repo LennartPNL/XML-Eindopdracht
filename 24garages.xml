@@ -1059,7 +1059,7 @@
             <medewerker>
                 <naam>Tamara Schilder</naam>
                 <foto>
-                    <bestandsLocatie>img/auto/</bestandsLocatie>
+                    <bestandsLocatie>img/pers/</bestandsLocatie>
                     <alt>Antje Geertsma</alt>
                 </foto>
                 <functie>monteur</functie>
@@ -1067,7 +1067,7 @@
             <medewerker>
                 <naam>Bart Pietersen</naam>
                 <foto>
-                    <bestandsLocatie>img/auto/</bestandsLocatie>
+                    <bestandsLocatie>img/pers/</bestandsLocatie>
                     <alt>Bart Pietersen</alt>
                 </foto>
                 <functie>Directeur</functie>
