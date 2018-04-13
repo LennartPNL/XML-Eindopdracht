@@ -59,7 +59,7 @@
 				<!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.garageschuurman.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
               <alt>Onze Garage</alt>
             </foto>
         </fotos>
@@ -74,7 +74,7 @@
           	<donderdag open="13:00" sluiting="13:01"/>
           	<vrijdag open="13:00" sluiting="13:01"/>
           	<zaterdag open="13:00" sluiting="13:01"/>
-          	
+
           </openingstijden>
 
           <werkzaamheden>
@@ -97,7 +97,7 @@
           	<donderdag open="13:00" sluiting="13:01"/>
           	<vrijdag open="13:00" sluiting="13:01"/>
           	<zaterdag open="13:00" sluiting="13:01"/>
-          	
+
           </openingstijden>
 
           <autos>
@@ -112,7 +112,7 @@
                   <datumEindAPK>12-11-1994</datumEindAPK>
                   <fotos>
                       <foto>
-                          <bestandsLocatie>http://www.garageschuurman.nl/opelastra.jpg</bestandsLocatie>
+                          <bestandsLocatie>img/auto/</bestandsLocatie>
                           <alt>Onze Auto</alt>
                       </foto>
                   </fotos>
@@ -130,7 +130,7 @@
                   <datumEindAPK>19-11-2018</datumEindAPK>
                   <fotos>
                       <foto>
-                          <bestandsLocatie>http://www.garageschuurman.nl/fiatpanda.jpg</bestandsLocatie>
+                          <bestandsLocatie>img/auto/</bestandsLocatie>
                           <alt>Onze Auto</alt>
                       </foto>
                   </fotos>
@@ -148,7 +148,7 @@
                   <datumEindAPK>07-09-2018</datumEindAPK>
                   <fotos>
                       <foto>
-                          <bestandsLocatie>http://www.garageschuurman.nl/opelminerva.jpg</bestandsLocatie>
+                          <bestandsLocatie>img/auto/</bestandsLocatie>
                           <alt>Onze Auto</alt>
                       </foto>
                   </fotos>
@@ -167,7 +167,7 @@
             <medewerker>
                 <naam>Hessel Houtman</naam>
                 <foto>
-                    <bestandsLocatie>http://www.garageschuurman.nl/happyhessel.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Onze Hessel</alt>
                 </foto>
                 <functie>Koffie faciliteur</functie>
@@ -217,7 +217,7 @@
                     <donderdag open="9:00" sluiting="23:00"/>
                     <vrijdag open="9:00" sluiting="23:00"/>
                     <zaterdag open="9:00" sluiting="20:00"/>
-                    
+
                 </openingstijden>
 
                 <assortiment>
@@ -231,7 +231,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.devries-garage.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Foto van garage De Vries</alt>
             </foto>
         </fotos>
@@ -246,7 +246,7 @@
                 <donderdag open="8:00" sluiting="18:00"/>
                 <vrijdag open="8:00" sluiting="15:00"/>
                 <zaterdag open="8:00" sluiting="14:00"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -283,7 +283,7 @@
                     <datumEindAPK>13-03-2015</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.devries-garage.nl/65321.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>VW Lupo</alt>
                         </foto>
                     </fotos>
@@ -299,7 +299,7 @@
                     <datumEindAPK>13-04-2018</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.devries-garage.nl/653241.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>VW Lupo</alt>
                         </foto>
                     </fotos>
@@ -317,7 +317,7 @@
                     <datumEindAPK>19-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.devries-garage.nl/65432.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Fiat Panda</alt>
                         </foto>
                     </fotos>
@@ -333,7 +333,7 @@
                     <datumEindAPK>12-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.devries-garage.nl/654332.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Hando Civic</alt>
                         </foto>
                     </fotos>
@@ -351,7 +351,7 @@
                     <datumEindAPK>07-05-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.devries-garage.nl/456789.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>VW Polo</alt>
                         </foto>
                     </fotos>
@@ -371,7 +371,7 @@
             <medewerker>
                 <naam>Piet Jansen</naam>
                 <foto>
-                    <bestandsLocatie>http://www.devries-garage.nl/PietJansen.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Piet Jansen</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -379,7 +379,7 @@
             <medewerker>
                 <naam>Bert Jansen</naam>
                 <foto>
-                    <bestandsLocatie>http://www.devries-garage.nl/BertJansen.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Bert Jansen</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -387,7 +387,7 @@
             <medewerker>
                 <naam>Karin Jansen</naam>
                 <foto>
-                    <bestandsLocatie>http://www.devries-garage.nl/KarinJansen.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Karin Jansen</alt>
                 </foto>
                 <functie>Balie medewerker</functie>
@@ -457,7 +457,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.tango.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Tango</alt>
             </foto>
         </fotos>
@@ -472,7 +472,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -489,7 +489,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -504,7 +504,7 @@
                     <datumEindAPK>12-11-1994</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.tango.nl/opelastra.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Onze Auto</alt>
                         </foto>
                     </fotos>
@@ -522,7 +522,7 @@
                     <datumEindAPK>07-12-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.tango.nl/opelminerva.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Ford focus</alt>
                         </foto>
                     </fotos>
@@ -541,7 +541,7 @@
             <medewerker>
                 <naam>Susan Geertsma</naam>
                 <foto>
-                    <bestandsLocatie>http://www.tango.nl/susangeertsma.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Susan Geertsma</alt>
                 </foto>
                 <functie>balie medewerker</functie>
@@ -549,7 +549,7 @@
             <medewerker>
                 <naam>Bert Bakker</naam>
                 <foto>
-                    <bestandsLocatie>http://www.tango.nl/bertbakker.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Bert Bakker</alt>
                 </foto>
                 <functie>balie medewerker</functie>
@@ -598,7 +598,7 @@
                     <donderdag open="8:30" sluiting="21:00"/>
                     <vrijdag open="8:30" sluiting="21:00"/>
                     <zaterdag open="8:30" sluiting="21:00"/>
-                    
+
                 </openingstijden>
 
                 <assortiment>
@@ -610,7 +610,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.hoge-autobedrijf.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Hoge autobedrijf</alt>
             </foto>
         </fotos>
@@ -625,7 +625,7 @@
                 <donderdag open="13:00" sluiting="17:00"/>
                 <vrijdag open="13:00" sluiting="17:00"/>
                 <zaterdag open="13:00" sluiting="17:00"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -644,7 +644,7 @@
                 <donderdag open="13:00" sluiting="21:01"/>
                 <vrijdag open="13:00" sluiting="21:01"/>
                 <zaterdag open="13:00" sluiting="21:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -660,7 +660,7 @@
                     <datumEindAPK>13-08-2017</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.hoge-autobedrijf.nl/fordmondeo.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Ford</alt>
                         </foto>
                     </fotos>
@@ -678,7 +678,7 @@
                     <datumEindAPK>07-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.hoge-autobedrijf.nl/suzukiswift.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Suzuki Swift</alt>
                         </foto>
                     </fotos>
@@ -694,7 +694,7 @@
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.garageschuurman.nl/audiA8.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Audi A8</alt>
                         </foto>
                     </fotos>
@@ -713,7 +713,7 @@
             <medewerker>
                 <naam>Maartje Kwast</naam>
                 <foto>
-                    <bestandsLocatie>http://www.hoge-autobedrijf.nl/maartjekwast.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Maartje kwast</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -776,7 +776,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autobedrijfhaan.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>autobedrijf haan</alt>
             </foto>
         </fotos>
@@ -791,7 +791,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -812,7 +812,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -827,7 +827,7 @@
                     <datumEindAPK>12-11-1994</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfhaan.nl/opelastra.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Opel Astra</alt>
                         </foto>
                     </fotos>
@@ -845,7 +845,7 @@
                     <datumEindAPK>19-11-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfhaan.nl/fiatpanda.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>mazda 323</alt>
                         </foto>
                     </fotos>
@@ -863,7 +863,7 @@
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfhaan.nl/opelminerva.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>mazda mx5</alt>
                         </foto>
                     </fotos>
@@ -882,7 +882,7 @@
             <medewerker>
                 <naam>Antje Geertsma</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfhaan.nl/antjegeertsma.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Antje Geertsma</alt>
                 </foto>
                 <functie>monteur</functie>
@@ -890,7 +890,7 @@
             <medewerker>
                 <naam>Piet Geertsma</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfhaan.nl/pietgeertsma.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Piet Geertsma</alt>
                 </foto>
                 <functie>Winkel beheerder</functie>
@@ -955,7 +955,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autobedrijfboven.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Autobedrijf Boven</alt>
             </foto>
         </fotos>
@@ -970,7 +970,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -989,7 +989,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -1004,7 +1004,7 @@
                     <datumEindAPK>12-11-1994</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfboven.nl/suzukibaleno.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Suzuki Baleno</alt>
                         </foto>
                     </fotos>
@@ -1022,7 +1022,7 @@
                     <datumEindAPK>19-01-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfboven.nl/fiatpanda.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Nissan 2.2</alt>
                         </foto>
                     </fotos>
@@ -1040,7 +1040,7 @@
                     <datumEindAPK>07-09-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfboven.nl/ssangyongmusso.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>SsangYong MUSSO</alt>
                         </foto>
                     </fotos>
@@ -1059,7 +1059,7 @@
             <medewerker>
                 <naam>Tamara Schilder</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfboven.nl/tamaraschilder.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Antje Geertsma</alt>
                 </foto>
                 <functie>monteur</functie>
@@ -1067,7 +1067,7 @@
             <medewerker>
                 <naam>Bart Pietersen</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfboven.nl/bartpietersen.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Bart Pietersen</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -1129,7 +1129,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.garagejagt.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Garage Jagt</alt>
             </foto>
         </fotos>
@@ -1144,7 +1144,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -1165,7 +1165,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -1180,7 +1180,7 @@
                     <datumEindAPK>05-06-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.garagejagt.nl/bmw318.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>BMW 318</alt>
                         </foto>
                     </fotos>
@@ -1198,7 +1198,7 @@
                     <datumEindAPK>19-06-2018</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.garagejagt.nl/volkswagengolf.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Volkswagen Golf</alt>
                         </foto>
                     </fotos>
@@ -1216,7 +1216,7 @@
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.garagejagt.nl/nissanprimera.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Nissan Primera</alt>
                         </foto>
                     </fotos>
@@ -1232,7 +1232,7 @@
                     <datumEindAPK>07-09-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.garagejagt.nl/nissanskyline.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Nissan Skyline</alt>
                         </foto>
                     </fotos>
@@ -1251,7 +1251,7 @@
             <medewerker>
                 <naam>Bert Straatman</naam>
                 <foto>
-                    <bestandsLocatie>http://www.garagejagt.nl/bertstraatman.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Bert Straatman</alt>
                 </foto>
                 <functie>Coureur</functie>
@@ -1259,7 +1259,7 @@
             <medewerker>
                 <naam>Ali Straatman</naam>
                 <foto>
-                    <bestandsLocatie>http://www.garagejagt.nl/alistraatman.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Ali Straatman</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -1267,7 +1267,7 @@
             <medewerker>
                 <naam>Hans Dekens</naam>
                 <foto>
-                    <bestandsLocatie>http://www.garagejagt.nl/hansdekens.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Hans Dekens</alt>
                 </foto>
                 <functie>Balie medewerker</functie>
@@ -1331,7 +1331,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autobedrijfmisker.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Autobedrijf Misker</alt>
             </foto>
         </fotos>
@@ -1346,7 +1346,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -1365,7 +1365,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -1380,7 +1380,7 @@
                     <datumEindAPK>05-03-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfmisker.nl/bmw318.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Audi 80</alt>
                         </foto>
                     </fotos>
@@ -1398,7 +1398,7 @@
                     <datumEindAPK>19-06-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfmisker.nl/renaultlaguna.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Renault Laguna</alt>
                         </foto>
                     </fotos>
@@ -1414,7 +1414,7 @@
                     <datumEindAPK>19-06-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfmisker.nl/Audia8.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Audi A8</alt>
                         </foto>
                     </fotos>
@@ -1432,7 +1432,7 @@
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfmisker.nl/peugeot207.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Peugeot 307</alt>
                         </foto>
                     </fotos>
@@ -1451,7 +1451,7 @@
             <medewerker>
                 <naam>Egbert Ruytings</naam>
                 <foto>
-                    <bestandsLocatie>http://www.garagejagt.nl/egbertruyting.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Egbert Ruytings</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -1459,7 +1459,7 @@
             <medewerker>
                 <naam>Peter Wevelsiep</naam>
                 <foto>
-                    <bestandsLocatie>http://www.garagejagt.nl/peterwevelsiep.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Peter Wevelsiep</alt>
                 </foto>
                 <functie>Verkoopmedewerker</functie>
@@ -1529,7 +1529,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.Autoconcurrent.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Autoconcurrent foto van het bedrijf</alt>
             </foto>
         </fotos>
@@ -1544,7 +1544,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -1566,7 +1566,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -1581,7 +1581,7 @@
                     <datumEindAPK>09-12-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Autoconcurrent.nl/Saab9-3.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Saab 9-3</alt>
                         </foto>
                     </fotos>
@@ -1597,7 +1597,7 @@
                     <datumEindAPK>09-09-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Autoconcurrent.nl/Saab9-3.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Volvo 2.0</alt>
                         </foto>
                     </fotos>
@@ -1615,7 +1615,7 @@
                     <datumEindAPK>11-01-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Autoconcurrent.nl/fiatpunto.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Fiat Punto</alt>
                         </foto>
                     </fotos>
@@ -1633,7 +1633,7 @@
                     <datumEindAPK>07-01-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Autoconcurrent.nl.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Lancia Ypsilon</alt>
                         </foto>
                     </fotos>
@@ -1652,7 +1652,7 @@
             <medewerker>
                 <naam>Remo Mestdag</naam>
                 <foto>
-                    <bestandsLocatie>http://www.Autoconcurrent.nl/remimestdag.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Remi Mestdag</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -1660,7 +1660,7 @@
             <medewerker>
                 <naam>Mathij Singelee</naam>
                 <foto>
-                    <bestandsLocatie>http://www.Autoconcurrent.nl/mathijsingelee.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Mathij Singelee</alt>
                 </foto>
                 <functie>Balie medewerker</functie>
@@ -1668,7 +1668,7 @@
             <medewerker>
                 <naam>Joeri Delcart</naam>
                 <foto>
-                    <bestandsLocatie>http://www.Autoconcurrent.nl/joeridelcart.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Joeri Delcart</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -1729,7 +1729,7 @@
     <!--Foto's-->
     <fotos>
         <foto>
-            <bestandsLocatie>http://www.Lunenborg.nl/foto.jpg</bestandsLocatie>
+            <bestandsLocatie>img/auto/</bestandsLocatie>
             <alt>Lunenborg foto van het bedrijf</alt>
         </foto>
     </fotos>
@@ -1744,7 +1744,7 @@
             <donderdag open="13:00" sluiting="13:01"/>
             <vrijdag open="13:00" sluiting="13:01"/>
             <zaterdag open="13:00" sluiting="13:01"/>
-            
+
         </openingstijden>
 
         <werkzaamheden>
@@ -1762,7 +1762,7 @@
             <donderdag open="13:00" sluiting="13:01"/>
             <vrijdag open="13:00" sluiting="13:01"/>
             <zaterdag open="13:00" sluiting="13:01"/>
-            
+
         </openingstijden>
 
         <autos>
@@ -1777,7 +1777,7 @@
                 <datumEindAPK>27-12-2022</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Lunenborg.nl/renaultwingo.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Renault Twingo</alt>
                     </foto>
                 </fotos>
@@ -1793,7 +1793,7 @@
                 <datumEindAPK>09-09-2021</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Lunenborg.nl/DeawooLanos.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Deawoo Lanos</alt>
                     </foto>
                 </fotos>
@@ -1811,7 +1811,7 @@
                 <datumEindAPK>01-01-2022</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Lunenborg.nl/RenaultMegane.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Renault Megane</alt>
                     </foto>
                 </fotos>
@@ -1827,7 +1827,7 @@
                 <datumEindAPK>01-01-2019</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Lunenborg.nl/HyundaiExcel.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Hyundai Excel</alt>
                     </foto>
                 </fotos>
@@ -1845,7 +1845,7 @@
                 <datumEindAPK>07-01-2020</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Lunenborg.nl/lanciaYpsilon.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Lancia Ypsilon</alt>
                     </foto>
                 </fotos>
@@ -1861,7 +1861,7 @@
                 <datumEindAPK>07-06-2018</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Lunenborg.nl/ToyotaFunCruiser.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Fun Cruiser</alt>
                     </foto>
                 </fotos>
@@ -1880,7 +1880,7 @@
         <medewerker>
             <naam>Micha Porre</naam>
             <foto>
-                <bestandsLocatie>http://www.Lunenborg.nl/michaporre.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Micha Porre</alt>
             </foto>
             <functie>Directeur</functie>
@@ -1888,7 +1888,7 @@
         <medewerker>
             <naam>Ada Bryon</naam>
             <foto>
-                <bestandsLocatie>http://www.Lunenborg.nl/adabryon.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Ada Bryon</alt>
             </foto>
             <functie>Balie medewerker</functie>
@@ -1952,7 +1952,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autobedrijfpaas.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>autobedrijf paas</alt>
             </foto>
         </fotos>
@@ -1967,7 +1967,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -1985,7 +1985,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -2000,7 +2000,7 @@
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfpaas.nl/alfaromeo.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Alfa romeo</alt>
                         </foto>
                     </fotos>
@@ -2018,7 +2018,7 @@
                     <datumEindAPK>07-09-2018</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfpaas.nl/audia4.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Audi A4</alt>
                         </foto>
                     </fotos>
@@ -2037,7 +2037,7 @@
             <medewerker>
                 <naam>Sylvio West</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfpaas.nl/sylviowest.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Sylvio West</alt>
                 </foto>
                 <functie>Balie medewerker</functie>
@@ -2045,7 +2045,7 @@
             <medewerker>
                 <naam>Olivia Balliere</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfpaas.nl/oliviaballiere.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Olivia Balliere</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -2109,7 +2109,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autobedrijfveenstra.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>autobedrijf veenstra</alt>
             </foto>
         </fotos>
@@ -2124,7 +2124,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -2142,7 +2142,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -2158,7 +2158,7 @@
                     <datumEindAPK>07-09-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfveenstra.nl/AudiA4.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Audi A4</alt>
                         </foto>
                     </fotos>
@@ -2177,7 +2177,7 @@
             <medewerker>
                 <naam>Ineke Storm</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfveenstra.nl/inekestorm.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Ineke Storm</alt>
                 </foto>
                 <functie>Balie medewerker</functie>
@@ -2185,7 +2185,7 @@
             <medewerker>
                 <naam>Daniel peteghem</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfveenstra.nl/danielpeteghem.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Daniel peteghem</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -2249,7 +2249,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autobedrijfberndt.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>autobedrijf berndt</alt>
             </foto>
         </fotos>
@@ -2264,7 +2264,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -2287,7 +2287,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -2302,7 +2302,7 @@
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfberndt.nl/susuzkiswift.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Suzuki Swift</alt>
                         </foto>
                     </fotos>
@@ -2320,7 +2320,7 @@
                     <datumEindAPK>07-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autobedrijfberndt.nl/opelfrontera.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Opel frontera</alt>
                         </foto>
                     </fotos>
@@ -2339,7 +2339,7 @@
             <medewerker>
                 <naam>Hasse Bisschop</naam>
                 <foto>
-                    <bestandsLocatie>http://www.garageschuurman.nl/hassebisschop.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Hasse Bisschop</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -2347,7 +2347,7 @@
             <medewerker>
                 <naam>Lonneke veen</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autobedrijfberndt.nl/lonnekeveen.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Lonneke Veen</alt>
                 </foto>
                 <functie>Winkel bediende</functie>
@@ -2408,7 +2408,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.kwikfit.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>kwikfit</alt>
             </foto>
         </fotos>
@@ -2423,7 +2423,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -2446,7 +2446,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -2461,7 +2461,7 @@
                     <datumEindAPK>12-11-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.kwikfit.nl/kiacerato.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Kia Cerato</alt>
                         </foto>
                     </fotos>
@@ -2479,7 +2479,7 @@
                     <datumEindAPK>01-11-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.kwikfit.nl/kiario.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Kia Rio</alt>
                         </foto>
                     </fotos>
@@ -2497,7 +2497,7 @@
                     <datumEindAPK>07-09-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.kwikfit.nl/volvov40.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Volvo V40</alt>
                         </foto>
                     </fotos>
@@ -2516,7 +2516,7 @@
             <medewerker>
                 <naam>Dagmar Vlam</naam>
                 <foto>
-                    <bestandsLocatie>http://www.kwikfit.nl/dagmarvlam.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Dagmar Vlam</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -2524,7 +2524,7 @@
             <medewerker>
                 <naam>Jacob Rimbaut</naam>
                 <foto>
-                    <bestandsLocatie>http://www.kwikfit.nl/jacobrimbaut.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Jacob rimbaut</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -2586,7 +2586,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.Autogas.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Autogas</alt>
             </foto>
         </fotos>
@@ -2601,7 +2601,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -2623,7 +2623,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -2638,7 +2638,7 @@
                     <datumEindAPK>12-11-2022</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Autogas.nl/hondaaccord.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Honda Accord</alt>
                         </foto>
                     </fotos>
@@ -2656,7 +2656,7 @@
                     <datumEindAPK>07-05-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Autogas.nl/volvoS70.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Volvo S70</alt>
                         </foto>
                     </fotos>
@@ -2675,7 +2675,7 @@
             <medewerker>
                 <naam>Morris Dierens</naam>
                 <foto>
-                    <bestandsLocatie>http://www.Autogas.nl/morrisdierens.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Morris Dierens</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -2738,7 +2738,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.carexpert.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>carexpert</alt>
             </foto>
         </fotos>
@@ -2753,7 +2753,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -2774,7 +2774,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -2790,7 +2790,7 @@
                     <datumEindAPK>03-03-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.carexpert.nl/Peugeot406.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Peugeot 406</alt>
                         </foto>
                     </fotos>
@@ -2809,7 +2809,7 @@
             <medewerker>
                 <naam>Esther Varenberg</naam>
                 <foto>
-                    <bestandsLocatie>http://www.carexpert.nl/esthervarenberg.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Esther Varenberg</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -2817,7 +2817,7 @@
             <medewerker>
                 <naam>Menno Meulen</naam>
                 <foto>
-                    <bestandsLocatie>http://www.carexpert.nl/mennomeulen.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Menno Meulen</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -2881,7 +2881,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.minicar.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>minicar</alt>
             </foto>
         </fotos>
@@ -2896,7 +2896,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -2916,7 +2916,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -2932,7 +2932,7 @@
                     <datumEindAPK>03-05-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.minicar.nl/opelmeriva.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Opel Meriva</alt>
                         </foto>
                     </fotos>
@@ -2951,7 +2951,7 @@
             <medewerker>
                 <naam>Stan Smet</naam>
                 <foto>
-                    <bestandsLocatie>http://www.minicar.nl/stansmet.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Stan Smet</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -2959,7 +2959,7 @@
             <medewerker>
                 <naam>John Kasteel</naam>
                 <foto>
-                    <bestandsLocatie>http://www.minicar.nl/johnkasteel.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>John Kasteel</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -3019,7 +3019,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autodroom.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>autodroom foto van het bedrijf</alt>
             </foto>
         </fotos>
@@ -3034,7 +3034,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -3055,7 +3055,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -3070,7 +3070,7 @@
                     <datumEindAPK>09-04-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autodroom.nl/volvo204.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Volvo 204</alt>
                         </foto>
                     </fotos>
@@ -3086,7 +3086,7 @@
                     <datumEindAPK>01-08-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autodroom.nl/VWSharan.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Volkswagen Sharan</alt>
                         </foto>
                     </fotos>
@@ -3104,7 +3104,7 @@
                     <datumEindAPK>07-01-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autodroom.nl.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Renault Twingo</alt>
                         </foto>
                     </fotos>
@@ -3123,7 +3123,7 @@
             <medewerker>
                 <naam>Martine Gast</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autodroom.nl/martinagast.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Martina Gast</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -3131,7 +3131,7 @@
             <medewerker>
                 <naam>Hugo Poppe</naam>
                 <foto>
-                    <bestandsLocatie>http://www.Autoconcurrent.nl/hugopoppe.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>hugopoppe</alt>
                 </foto>
                 <functie>Balie medewerker</functie>
@@ -3193,7 +3193,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.scania.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>scania</alt>
             </foto>
         </fotos>
@@ -3208,7 +3208,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -3227,7 +3227,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -3243,7 +3243,7 @@
                     <datumEindAPK>03-01-2022</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.scania.nl/nissanalmera.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Nissan Almera</alt>
                         </foto>
                     </fotos>
@@ -3262,7 +3262,7 @@
             <medewerker>
                 <naam>Emiel Dijkstra</naam>
                 <foto>
-                    <bestandsLocatie>http://www.scania.nl/emieldijkstra.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Email dijkstra</alt>
                 </foto>
                 <functie>winkel beheerder</functie>
@@ -3270,7 +3270,7 @@
             <medewerker>
                 <naam>Paolo Pupre</naam>
                 <foto>
-                    <bestandsLocatie>http://www.scania.nl/poalopupre.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Paolo Pupre</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -3331,7 +3331,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.autoplex.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>autoplex</alt>
             </foto>
         </fotos>
@@ -3346,7 +3346,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -3363,7 +3363,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -3378,7 +3378,7 @@
                     <datumEindAPK>12-11-2022</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autoplex.nl/BMWZ3.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>BMW Z3</alt>
                         </foto>
                     </fotos>
@@ -3396,7 +3396,7 @@
                     <datumEindAPK>07-12-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.autoplex.nl/opelminerva.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Lancia Ypsilon</alt>
                         </foto>
                     </fotos>
@@ -3415,7 +3415,7 @@
             <medewerker>
                 <naam>Hanna Debecker</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autoplex.nl/hannadebecker.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Hanna Debecker</alt>
                 </foto>
                 <functie>balie medewerker</functie>
@@ -3423,7 +3423,7 @@
             <medewerker>
                 <naam>Oswin Coppens</naam>
                 <foto>
-                    <bestandsLocatie>http://www.autoplex.nl/oswincoppens.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Oswin coppens</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -3484,7 +3484,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.beterweg.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>beterweg</alt>
             </foto>
         </fotos>
@@ -3499,7 +3499,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -3518,7 +3518,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -3533,7 +3533,7 @@
                     <datumEindAPK>12-11-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.beterweg.nl/BMW520.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>BMW 520</alt>
                         </foto>
                     </fotos>
@@ -3551,7 +3551,7 @@
                     <datumEindAPK>07-12-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.beterweg.nl/Lanciaypsilon.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Lancia Ypsilon</alt>
                         </foto>
                     </fotos>
@@ -3570,7 +3570,7 @@
             <medewerker>
                 <naam>Jean Astra</naam>
                 <foto>
-                    <bestandsLocatie>http://www.beterweg.nl/Jeanastra.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Jean Astra</alt>
                 </foto>
                 <functie>balie medewerker</functie>
@@ -3578,7 +3578,7 @@
             <medewerker>
                 <naam>Marinus Velpen</naam>
                 <foto>
-                    <bestandsLocatie>http://www.beterweg.nl/marinusvelpen.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Marinus Velpen</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -3639,7 +3639,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.gerardsautos.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>gerardsautos</alt>
             </foto>
         </fotos>
@@ -3654,7 +3654,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -3673,7 +3673,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -3688,7 +3688,7 @@
                     <datumEindAPK>12-09-2020</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.gerardsautos.nl/renaulttwingo.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Renault Twingo</alt>
                         </foto>
                     </fotos>
@@ -3706,7 +3706,7 @@
                     <datumEindAPK>07-12-2019</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.gerardsautos.nl/volkswagenlupo.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Volkswagen Lupo</alt>
                         </foto>
                     </fotos>
@@ -3725,7 +3725,7 @@
             <medewerker>
                 <naam>Wilfred Algoed</naam>
                 <foto>
-                    <bestandsLocatie>http://www.gerardsautos.nl/wilfredalgoed.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Wilfred algoed</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -3733,7 +3733,7 @@
             <medewerker>
                 <naam>Berend ruiter</naam>
                 <foto>
-                    <bestandsLocatie>http://www.gerardsautos.nl/BerenedRuiter.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Berend Ruiter</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -3794,7 +3794,7 @@
         <!--Foto's-->
         <fotos>
             <foto>
-                <bestandsLocatie>http://www.Karinsautos.nl/foto.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Karinsautos</alt>
             </foto>
         </fotos>
@@ -3809,7 +3809,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-                
+
             </openingstijden>
 
             <werkzaamheden>
@@ -3828,7 +3828,7 @@
                 <donderdag open="13:00" sluiting="13:01"/>
                 <vrijdag open="13:00" sluiting="13:01"/>
                 <zaterdag open="13:00" sluiting="13:01"/>
-                
+
             </openingstijden>
 
             <autos>
@@ -3843,7 +3843,7 @@
                     <datumEindAPK>12-09-2021</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Karinsautos.nl/renaulttwingo.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Renault Twingo</alt>
                         </foto>
                     </fotos>
@@ -3861,7 +3861,7 @@
                     <datumEindAPK>07-12-2018</datumEindAPK>
                     <fotos>
                         <foto>
-                            <bestandsLocatie>http://www.Karinsautos.nl/LanciaYpsilon.jpg</bestandsLocatie>
+                            <bestandsLocatie>img/auto/</bestandsLocatie>
                             <alt>Lancia Ypsilon</alt>
                         </foto>
                     </fotos>
@@ -3880,7 +3880,7 @@
             <medewerker>
                 <naam>Alex Pauw</naam>
                 <foto>
-                    <bestandsLocatie>http://www.Karinsautos.nl/Alexpauw.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Alex Pauw</alt>
                 </foto>
                 <functie>Monteur</functie>
@@ -3888,7 +3888,7 @@
             <medewerker>
                 <naam>Karin Pauw</naam>
                 <foto>
-                    <bestandsLocatie>http://www.Karinsautos.nl/karinpauw.jpg</bestandsLocatie>
+                    <bestandsLocatie>img/auto/</bestandsLocatie>
                     <alt>Karin Pauw</alt>
                 </foto>
                 <functie>Directeur</functie>
@@ -3949,7 +3949,7 @@
     <!--Foto's-->
     <fotos>
         <foto>
-            <bestandsLocatie>http://www.Steensautos.nl/foto.jpg</bestandsLocatie>
+            <bestandsLocatie>img/auto/</bestandsLocatie>
             <alt>Steensautos</alt>
         </foto>
     </fotos>
@@ -3964,7 +3964,7 @@
             <donderdag open="10:00" sluiting="13:00"/>
             <vrijdag open="8:00" sluiting="21:00"/>
             <zaterdag open="14:00" sluiting="21:00"/>
-            
+
         </openingstijden>
 
         <werkzaamheden>
@@ -3983,7 +3983,7 @@
             <donderdag open="13:00" sluiting="13:01"/>
             <vrijdag open="13:00" sluiting="13:01"/>
             <zaterdag open="13:00" sluiting="13:01"/>
-            
+
         </openingstijden>
 
         <autos>
@@ -3998,7 +3998,7 @@
                 <datumEindAPK>12-04-2021</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Steensautos.nl/kiaspottage.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Kia spottage</alt>
                     </foto>
                 </fotos>
@@ -4016,7 +4016,7 @@
                 <datumEindAPK>07-12-2019</datumEindAPK>
                 <fotos>
                     <foto>
-                        <bestandsLocatie>http://www.Steensautos.nl/chevroletcamaro.jpg</bestandsLocatie>
+                        <bestandsLocatie>img/auto/</bestandsLocatie>
                         <alt>Chevrolet Camaro</alt>
                     </foto>
                 </fotos>
@@ -4035,7 +4035,7 @@
         <medewerker>
             <naam>Ingrid Broekhuis</naam>
             <foto>
-                <bestandsLocatie>http://www.Steensautos.nl/ingridbroekhuis.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Ingrid Broekhuis</alt>
             </foto>
             <functie>Monteur</functie>
@@ -4043,7 +4043,7 @@
         <medewerker>
             <naam>Barry Van Der Hoek</naam>
             <foto>
-                <bestandsLocatie>http://www.Steensautos.nl/barryvanderhoek.jpg</bestandsLocatie>
+                <bestandsLocatie>img/auto/</bestandsLocatie>
                 <alt>Barry Van Der Hoek</alt>
             </foto>
             <functie>Winkel bediende</functie>

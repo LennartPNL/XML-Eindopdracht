@@ -167,6 +167,8 @@
                     width:90%;
                     text-align:center;
                     }
+
+                    img{width:100px;}
                 </style>
             </head>
             <body>
@@ -440,7 +442,7 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
@@ -462,13 +464,14 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto1.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
                                             </img>
-                                        </xsl:for-each>                                        <li><xsl:value-of select='kenteken'/></li>
+                                        </xsl:for-each>
+                                        <li><xsl:value-of select='kenteken'/></li>
                                         <li><xsl:value-of select='type'/></li>
                                         <li><xsl:value-of select='merk'/></li>
                                         <li><xsl:value-of select='bouwjaar'/></li>
@@ -482,7 +485,7 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto1.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>

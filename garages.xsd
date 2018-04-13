@@ -232,7 +232,7 @@
 
   <xs:complexType name="foto">
       <xs:sequence>
-        <xs:element name="bestandsLocatie" type="bestandsLocatie"/>
+        <xs:element name="bestandsLocatie" type="xs:string"/>
         <xs:element name="alt" type="xs:string"/>
       </xs:sequence>
   </xs:complexType>
@@ -360,12 +360,6 @@
   <xs:simpleType name="keurmerk">
 		<xs:restriction base="xs:string">
 			<xs:pattern value="BOVAG|RDW"/>
-		</xs:restriction>
-	</xs:simpleType>
-
-  <xs:simpleType name="bestandsLocatie">
-		<xs:restriction base="xs:string">
-			<xs:pattern value="(http://.+)?[a-zA-Z0-9]+(.jpeg|.jpg|.png)"/>
 		</xs:restriction>
 	</xs:simpleType>
 
