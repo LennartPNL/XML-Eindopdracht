@@ -30,6 +30,7 @@
                     width: 100%;
                     border-style: solid;
                     text-align: center;
+                    clear:both;
                     }
                     div.container {
                     width: 100%;
