@@ -2037,7 +2037,7 @@
             <medewerker>
                 <naam>Sylvio West</naam>
                 <foto>
-                    <bestandsLocatie>img/auto/</bestandsLocatie>
+                    <bestandsLocatie>img/pers/</bestandsLocatie>
                     <alt>Sylvio West</alt>
                 </foto>
                 <functie>Balie medewerker</functie>
@@ -2045,7 +2045,7 @@
             <medewerker>
                 <naam>Olivia Balliere</naam>
                 <foto>
-                    <bestandsLocatie>img/auto/</bestandsLocatie>
+                    <bestandsLocatie>img/pers/</bestandsLocatie>
                     <alt>Olivia Balliere</alt>
                 </foto>
                 <functie>Directeur</functie>
