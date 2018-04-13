@@ -252,7 +252,7 @@
 
                                 <div class="pomp">
                                     <h3>Pomp</h3>
-                                    <img class="pomp" src="pomp" alt="alt" />
+
 
                                     <ul class="brandstof">
                                         <xsl:for-each select="faciliteiten/pompen/pomp">
@@ -263,7 +263,7 @@
 
                                 <div class="was">
                                     <h3>Was</h3>
-                                    <img class="was" src="was" alt="alt" />
+
 
                                     <ul class="wasbox">
                                         <xsl:for-each select="faciliteiten/wassen/wasbox">
@@ -279,7 +279,7 @@
 
                                 <div class="winkel">
                                     <h3>Winkel</h3>
-                                    <img class="winkel" src="winkel" alt="alt" />
+
                                     <ul class="assortiment">
                                         <xsl:for-each select="faciliteiten/winkel/assortiment">
                                             <li><xsl:value-of select='levensmiddelen'/></li>
