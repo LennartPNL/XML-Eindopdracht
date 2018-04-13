@@ -241,6 +241,7 @@
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
+                                                <li><xsl:value-of select='naam'/></li>
                                             </img>
                                     </xsl:for-each>
                                 </div>
