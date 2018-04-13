@@ -167,8 +167,17 @@
                     width:90%;
                     text-align:center;
                     }
+                    img{
+                    width:100px;
+                    float: left;
+                    border-style: solid;
+                    }
+                    medewerkers.li{
+                    float: bottom;
+                    }
 
-                    img{width:100px;}
+
+
                 </style>
             </head>
             <body>
@@ -241,8 +250,11 @@
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
-                                                <li><xsl:value-of select='naam'/></li>
+
+
                                             </img>
+
+                                        <p><xsl:value-of select='naam'/></p>
                                     </xsl:for-each>
                                 </div>
 
