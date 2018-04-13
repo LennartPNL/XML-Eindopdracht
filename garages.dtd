@@ -93,7 +93,6 @@
 <!ELEMENT brandstof (#PCDATA)>
 <!ATTLIST brandstof type (Benzine | Gas | Diesel | Geen) "Geen">
 <!ELEMENT prijs (#PCDATA)>
-<!ATTLIST prijs valuta (euro) "euro">
 <!ELEMENT datumEindAPK (#PCDATA)>
 
 <!-- KEURMERKEN -->
