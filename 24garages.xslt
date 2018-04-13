@@ -227,11 +227,11 @@
                             </div>
 
                             <div class="afbeelding">
-                                <h2>Afbeeldingen</h2>
+                                <h2>Keurmerken</h2>
                                 <xsl:for-each select="keurmerken/keurmerk">
                                     <xsl:value-of select='@type'/>
                                 </xsl:for-each>
-
+                                <h2>Medewerkers</h2>
                                 <div class="medewerkers">
                                     <xsl:for-each select="medewerkers/medewerker">
                                             <img>
