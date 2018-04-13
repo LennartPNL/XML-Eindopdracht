@@ -16,3 +16,13 @@ Instructions:
 - Check 'Open file in webbrowser after execution';
 - Apply and okay;
 - Run the project.
+
+
+# Projectgroep:
+
+- Sander Paping
+- Lennart Pikijn
+- Michiel Jansen
+- Ernst-Jan Bakker
+- Thomas Christerus
+- Maartje Kok
