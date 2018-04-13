@@ -68,12 +68,12 @@
         <werkplaats>
 
           <openingstijden>
-            <maandag open="13:00" sluiting="13:01"/>
-            <dinsdag open="13:00" sluiting="13:01"/>
-          	<woensdag open="13:00" sluiting="13:01"/>
-          	<donderdag open="13:00" sluiting="13:01"/>
-          	<vrijdag open="13:00" sluiting="13:01"/>
-          	<zaterdag open="13:00" sluiting="13:01"/>
+            <maandag open="13:00" sluiting="20:00"/>
+            <dinsdag open="13:00" sluiting="20:00"/>
+          	<woensdag open="13:00" sluiting="20:00"/>
+          	<donderdag open="13:00" sluiting="20:00"/>
+          	<vrijdag open="13:00" sluiting="20:00"/>
+          	<zaterdag open="13:00" sluiting="20:00"/>
 
           </openingstijden>
 
@@ -91,12 +91,12 @@
         <showroom>
 
           <openingstijden>
-            <maandag open="13:00" sluiting="13:01"/>
-            <dinsdag open="13:00" sluiting="13:01"/>
-          	<woensdag open="03:00" sluiting="13:01"/>
-          	<donderdag open="13:00" sluiting="13:01"/>
-          	<vrijdag open="13:00" sluiting="13:01"/>
-          	<zaterdag open="13:00" sluiting="13:01"/>
+            <maandag open="13:00" sluiting="20:00"/>
+            <dinsdag open="13:00" sluiting="20:00"/>
+          	<woensdag open="03:00" sluiting="20:00"/>
+          	<donderdag open="13:00" sluiting="20:00"/>
+          	<vrijdag open="13:00" sluiting="20:00"/>
+          	<zaterdag open="13:00" sluiting="20:00"/>
 
           </openingstijden>
 
@@ -483,12 +483,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -785,12 +785,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -806,12 +806,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -964,12 +964,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -983,12 +983,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1138,12 +1138,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1159,12 +1159,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1340,12 +1340,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1359,12 +1359,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1538,12 +1538,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1560,12 +1560,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1738,12 +1738,12 @@
     <werkplaats>
 
         <openingstijden>
-            <maandag open="13:00" sluiting="13:01"/>
-            <dinsdag open="13:00" sluiting="13:01"/>
-            <woensdag open="13:00" sluiting="13:01"/>
-            <donderdag open="13:00" sluiting="13:01"/>
-            <vrijdag open="13:00" sluiting="13:01"/>
-            <zaterdag open="13:00" sluiting="13:01"/>
+            <maandag open="13:00" sluiting="20:00"/>
+            <dinsdag open="13:00" sluiting="20:00"/>
+            <woensdag open="13:00" sluiting="20:00"/>
+            <donderdag open="13:00" sluiting="20:00"/>
+            <vrijdag open="13:00" sluiting="20:00"/>
+            <zaterdag open="13:00" sluiting="20:00"/>
 
         </openingstijden>
 
@@ -1756,12 +1756,12 @@
     <showroom>
 
         <openingstijden>
-            <maandag open="13:00" sluiting="13:01"/>
-            <dinsdag open="13:00" sluiting="13:01"/>
-            <woensdag open="13:00" sluiting="13:01"/>
-            <donderdag open="13:00" sluiting="13:01"/>
-            <vrijdag open="13:00" sluiting="13:01"/>
-            <zaterdag open="13:00" sluiting="13:01"/>
+            <maandag open="13:00" sluiting="20:00"/>
+            <dinsdag open="13:00" sluiting="20:00"/>
+            <woensdag open="13:00" sluiting="20:00"/>
+            <donderdag open="13:00" sluiting="20:00"/>
+            <vrijdag open="13:00" sluiting="20:00"/>
+            <zaterdag open="13:00" sluiting="20:00"/>
 
         </openingstijden>
 
@@ -1961,12 +1961,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -1979,12 +1979,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2118,12 +2118,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2136,12 +2136,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2258,12 +2258,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2281,12 +2281,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2417,12 +2417,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2440,12 +2440,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2595,12 +2595,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2617,12 +2617,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2747,12 +2747,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2768,12 +2768,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2890,12 +2890,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -2910,12 +2910,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3028,12 +3028,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3049,12 +3049,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3202,12 +3202,12 @@
         <werkplaats>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3221,12 +3221,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3357,12 +3357,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3512,12 +3512,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3667,12 +3667,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3822,12 +3822,12 @@
         <showroom>
 
             <openingstijden>
-                <maandag open="13:00" sluiting="13:01"/>
-                <dinsdag open="13:00" sluiting="13:01"/>
-                <woensdag open="13:00" sluiting="13:01"/>
-                <donderdag open="13:00" sluiting="13:01"/>
-                <vrijdag open="13:00" sluiting="13:01"/>
-                <zaterdag open="13:00" sluiting="13:01"/>
+                <maandag open="13:00" sluiting="20:00"/>
+                <dinsdag open="13:00" sluiting="20:00"/>
+                <woensdag open="13:00" sluiting="20:00"/>
+                <donderdag open="13:00" sluiting="20:00"/>
+                <vrijdag open="13:00" sluiting="20:00"/>
+                <zaterdag open="13:00" sluiting="20:00"/>
 
             </openingstijden>
 
@@ -3977,12 +3977,12 @@
     <showroom>
 
         <openingstijden>
-            <maandag open="13:00" sluiting="13:01"/>
-            <dinsdag open="13:00" sluiting="13:01"/>
-            <woensdag open="13:00" sluiting="13:01"/>
-            <donderdag open="13:00" sluiting="13:01"/>
-            <vrijdag open="13:00" sluiting="13:01"/>
-            <zaterdag open="13:00" sluiting="13:01"/>
+            <maandag open="13:00" sluiting="20:00"/>
+            <dinsdag open="13:00" sluiting="20:00"/>
+            <woensdag open="13:00" sluiting="20:00"/>
+            <donderdag open="13:00" sluiting="20:00"/>
+            <vrijdag open="13:00" sluiting="20:00"/>
+            <zaterdag open="13:00" sluiting="20:00"/>
 
         </openingstijden>
 
