@@ -230,8 +230,15 @@
                                 </xsl:for-each>
 
                                 <div class="medewerkers">
-                                    <xsl:for-each select="medewerkers/medewerker/foto">
-                                        <img class="medewerker1" src="bestandslocatiemedewerker1" alt="alt" /><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                                    <xsl:for-each select="medewerkers/medewerker">
+                                            <img>
+                                                <xsl:attribute name="src">
+                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="alt">
+                                                    <xsl:value-of select="foto/alt"/>
+                                                </xsl:attribute>
+                                            </img>
                                     </xsl:for-each>
                                 </div>
 
@@ -429,7 +436,16 @@
                                 <h2>Showroom</h2>
                                 <xsl:for-each select="showroom/autos/nieuw">
                                     <div class="nieuw">
-                                        <img class="nieuw" src="nieuw" alt="alt" /><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                                        <xsl:for-each select="fotos">
+                                            <img>
+                                                <xsl:attribute name="src">
+                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="alt">
+                                                    <xsl:value-of select="foto/alt"/>
+                                                </xsl:attribute>
+                                            </img>
+                                        </xsl:for-each>
                                         <li><xsl:value-of select='kenteken'/></li>
                                         <li><xsl:value-of select='type'/></li>
                                         <li><xsl:value-of select='merk'/></li>
@@ -442,8 +458,16 @@
                                 <xsl:for-each select="showroom/autos/occasions">
                                     <div class="occasionshow">
 
-                                        <img class="nieuw" src="nieuw" alt="alt" /><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
-                                        <li><xsl:value-of select='kenteken'/></li>
+                                        <xsl:for-each select="fotos">
+                                            <img>
+                                                <xsl:attribute name="src">
+                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="alt">
+                                                    <xsl:value-of select="foto/alt"/>
+                                                </xsl:attribute>
+                                            </img>
+                                        </xsl:for-each>                                        <li><xsl:value-of select='kenteken'/></li>
                                         <li><xsl:value-of select='type'/></li>
                                         <li><xsl:value-of select='merk'/></li>
                                         <li><xsl:value-of select='bouwjaar'/></li>
@@ -454,7 +478,16 @@
                                 </xsl:for-each>
                                 <xsl:for-each select="showroom/autos/huur">
                                     <div class="huur">
-                                        <img class="nieuw" src="nieuw" alt="alt" /><xsl:value-of select='bestandsLocatie'/>" alt="<xsl:value-of select='alt'/>" />
+                                        <xsl:for-each select="fotos">
+                                            <img>
+                                                <xsl:attribute name="src">
+                                                    <xsl:value-of select="foto/bestandsLocatie"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="alt">
+                                                    <xsl:value-of select="foto/alt"/>
+                                                </xsl:attribute>
+                                            </img>
+                                        </xsl:for-each>
                                         <li><xsl:value-of select='kenteken'/></li>
                                         <li><xsl:value-of select='type'/></li>
                                         <li><xsl:value-of select='merk'/></li>
