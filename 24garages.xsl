@@ -1,7 +1,4 @@
-﻿﻿<?xml version="1.0" encoding="UTF-8"?>
-
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:math="http://exslt.org/math"
@@ -11,7 +8,6 @@
     <xsl:template match="/">
         <html>
             <head>
-                <meta charset="utf-8" />
                 <title>Garage!</title>
                 <!--Styles-->
                 <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
