@@ -16,10 +16,10 @@
                 <meta name="author" content="Web Domus Italia"/>
                 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-                <link rel="stylesheet" type="text/css" href="source/bootstrap-3.3.6-dist/css/bootstrap.css"/>
-                <link rel="stylesheet" type="text/css" href="source/font-awesome-4.5.0/css/font-awesome.css"/>
-                <link rel="stylesheet" type="text/css" href="style/slider.css"/>
-                <link rel="stylesheet" type="text/css" href="style/mystyle.css"/>
+                <link rel="stylesheet" type="text/css" href="frontend2/source/bootstrap-3.3.6-dist/css/bootstrap.css"/>
+                <link rel="stylesheet" type="text/css" href="frontend2/source/font-awesome-4.5.0/css/font-awesome.css"/>
+                <link rel="stylesheet" type="text/css" href="frontend2/style/slider.css"/>
+                <link rel="stylesheet" type="text/css" href="frontend2/style/mystyle.css"/>
             </head>
 
             <body>
@@ -28,6 +28,7 @@
                 <!-- Header -->
                 <div class="allcontain"/>
                 <center><h1>Aantal garages: 24</h1></center>
+                <xsl:for-each select="garages/garage">
                 <div class="header">
                     <ul class="socialicon">
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -44,7 +45,7 @@
 
                 <!-- ____________________Keurmerken ______________________________-->
                 <div class="feturedsection">
-                    <h1 class="text-center"><span class="bdots">&bullet;</span>K E U R<span class="carstxt">M E R K E N</span>&bullet;</h1>
+                    <h1 class="text-center"><span class="bdots"></span>K E U R<span class="carstxt">M E R K E N</span></h1>
                 </div>
 
                 <!--Voor elke auto: PATTERN VAN MAKEN VOOR IEDER TYPE Keurmerk-->
@@ -142,7 +143,7 @@
 
                 <!-- ____________________Huur Auto's ______________________________-->
                 <div class="feturedsection">
-                    <h1 class="text-center"><span class="bdots">&bullet;</span>H U U R<span class="carstxt">A U T O ' S</span>&bullet;</h1>
+                    <h1 class="text-center"><span class="bdots"></span>H U U R<span class="carstxt">A U T O ' S</span></h1>
                 </div>
 
                 <!--Voor elke auto: PATTERN VAN MAKEN VOOR IEDER TYPE AUTO-->
@@ -158,7 +159,7 @@
                                         <h1>Auto Naam</h1>
                                         <p>"Lorem ipsum dolor sit amet, consectetur ,<br/>
                                             sed do eiusmod tempor incididunt </p>
-                                        <h2>Price &euro;</h2>
+                                        <h2>Price</h2>
                                         <button id="btnRM2">READ MORE</button>
                                         <div id="readmore2">
                                             <h1>Car Name</h1>
@@ -181,7 +182,7 @@
                 <!-- ____________________Occasions ______________________________-->
 
                 <div class="feturedsection">
-                    <h1 class="text-center"><span class="bdots">&bullet;</span>O C C A S I O N S<span class="carstxt"></span>&bullet;</h1>
+                    <h1 class="text-center"><span class="bdots"></span>O C C A S I O N S<span class="carstxt"></span></h1>
                 </div>
                 <!--Voor elke auto-->
                 <div class="feturedimage">
@@ -196,7 +197,7 @@
                                         <h1>Auto Naam</h1>
                                         <p>"Lorem ipsum dolor sit amet, consectetur ,<br/>
                                             sed do eiusmod tempor incididunt </p>
-                                        <h2>Price &euro;</h2>
+                                        <h2>Price</h2>
                                         <button id="btnRM2">READ MORE</button>
                                         <div id="readmore2">
                                             <h1>Car Name</h1>
@@ -221,7 +222,7 @@
                 <!-- ____________________Leen Auto's ______________________________-->
 
                 <div class="feturedsection">
-                    <h1 class="text-center"><span class="bdots">&bullet;</span>L E E N A U T O ' S<span class="carstxt"></span>&bullet;</h1>
+                    <h1 class="text-center"><span class="bdots"></span>L E E N A U T O ' S<span class="carstxt"></span></h1>
                 </div>
                 <!--Voor elke auto-->
                 <div class="feturedimage">
@@ -236,7 +237,7 @@
                                         <h1>Auto Naam</h1>
                                         <p>"Lorem ipsum dolor sit amet, consectetur ,<br/>
                                             sed do eiusmod tempor incididunt </p>
-                                        <h2>Price &euro;</h2>
+                                        <h2>Price </h2>
                                         <button id="btnRM2">READ MORE</button>
                                         <div id="readmore2">
                                             <h1>Car Name</h1>
@@ -334,7 +335,7 @@
 
                 <!-- MedeWerkers ______________________________-->
                 <div class="feturedsection">
-                    <h1 class="text-center"><span class="bdots">&bullet;</span>M E D E<span class="carstxt">W E R K E R S</span>&bullet;</h1>
+                    <h1 class="text-center"><span class="bdots"></span>M E D E<span class="carstxt">W E R K E R S</span></h1>
                 </div>
 
                 <!--Voor elke auto: PATTERN VAN MAKEN VOOR IEDER TYPE Medewerker-->
@@ -371,7 +372,7 @@
                 <script type="text/javascript" src="source/js/myscript.js"></script>
                 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.1.11.js"></script>
                 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/bootstrap.js"></script>
-
+                </xsl:for-each>
             </body>
 
 
