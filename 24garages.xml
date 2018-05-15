@@ -12,7 +12,7 @@
       <adres>
         <straat>Berendslaan</straat>
         <nummer>89</nummer>
-        <postcode>7826UP</postcode>
+        <postcode>7826AA</postcode>
         <plaats>Emmen</plaats>
         <provincie>Drenthe</provincie>
       </adres>
@@ -132,7 +132,7 @@
 
               <!--Huur-->
               <huur uitleenbaar="false">
-                  <kenteken>PP-UY-81</kenteken>
+                  <kenteken>AA-BB-81</kenteken>
                   <type>Sedan</type>
                   <merk>Volkswagen</merk>
                   <model>Scirocco</model>
@@ -326,7 +326,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>PP-UY-81</kenteken>
+                    <kenteken>PP-AB-81</kenteken>
                     <type>Sedan</type>
                     <merk>Volkswagen</merk>
                     <model>polo</model>
@@ -534,7 +534,7 @@
         <adres>
             <straat>Mozartlaan</straat>
             <nummer>5</nummer>
-            <postcode>4321UP</postcode>
+            <postcode>4321AP</postcode>
             <plaats>Zwolle</plaats>
             <provincie>Overijsel</provincie>
         </adres>
@@ -647,7 +647,7 @@
                     </fotos>
                 </huur>
                 <huur uitleenbaar="true">
-                    <kenteken>AK-ER-24</kenteken>
+                    <kenteken>AG-AR-24</kenteken>
                     <type>Coupé</type>
                     <merk>audi</merk>
                     <model>A8</model>
@@ -770,7 +770,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>YR-ER-45</kenteken>
+                    <kenteken>BA-ER-45</kenteken>
                     <type>Hatchback</type>
                     <merk>Opel</merk>
                     <model>Astra</model>
@@ -806,7 +806,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PA-UY-81</kenteken>
+                    <kenteken>BA-UP-81</kenteken>
                     <type>Coupé</type>
                     <merk>mazda</merk>
                     <model>mx5</model>
@@ -937,7 +937,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>YR-ER-45</kenteken>
+                    <kenteken>AB-ER-45</kenteken>
                     <type>Hatchback</type>
                     <merk>Suzuki</merk>
                     <model>Baleno</model>
@@ -1022,7 +1022,7 @@
         <adres>
             <straat>Dorpsstraat</straat>
             <nummer>12A</nummer>
-            <postcode>7826UP</postcode>
+            <postcode>7826BP</postcode>
             <plaats>Emmen</plaats>
             <provincie>Drenthe</provincie>
         </adres>
@@ -1121,7 +1121,7 @@
 
                 <!--Occasions-->
                 <occasions>
-                    <kenteken>UP-0E5-AJ</kenteken>
+                    <kenteken>UP-12-AJ</kenteken>
                     <type>Hatchback</type>
                     <merk>Volkswagen</merk>
                     <model>Golf</model>
@@ -1139,7 +1139,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>71-UEY-21</kenteken>
+                    <kenteken>CC-24-AA</kenteken>
                     <type>Sedan</type>
                     <merk>Nissan</merk>
                     <model>Primera</model>
@@ -1155,7 +1155,7 @@
                     </fotos>
                 </huur>
                 <huur uitleenbaar="false">
-                    <kenteken>71-UEY-21</kenteken>
+                    <kenteken>GB-001-B</kenteken>
                     <type>Sedan</type>
                     <merk>Nissan</merk>
                     <model>Skyline</model>
@@ -1311,7 +1311,7 @@
 
                 <!--Occasions-->
                 <occasions>
-                    <kenteken>ER-AA5-AJ</kenteken>
+                    <kenteken>BN-92-08</kenteken>
                     <type>SUV</type>
                     <merk>Renault</merk>
                     <model>Laguna</model>
@@ -1327,7 +1327,7 @@
                     </fotos>
                 </occasions>
                 <occasions>
-                    <kenteken>ER-AAA-AJ</kenteken>
+                    <kenteken>BR-AA-17</kenteken>
                     <type>Sedan</type>
                     <merk>Audi</merk>
                     <model>A8</model>
@@ -1345,7 +1345,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>33-UAA-20</kenteken>
+                    <kenteken>BR-AA-18</kenteken>
                     <type>SUV</type>
                     <merk>Peugeot</merk>
                     <model>307</model>
@@ -1484,7 +1484,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>TE-AAA-06</kenteken>
+                    <kenteken>01-AAA-1</kenteken>
                     <type>Coupé</type>
                     <merk>Saab</merk>
                     <model>9-3</model>
@@ -1500,7 +1500,7 @@
                     </fotos>
                 </nieuw>
                 <nieuw>
-                    <kenteken>TR-AEA-01</kenteken>
+                    <kenteken>1-AEA-01</kenteken>
                     <type>SUV</type>
                     <merk>Volvo</merk>
                     <model>2.0</model>
@@ -1518,7 +1518,7 @@
 
                 <!--Occasions-->
                 <occasions>
-                    <kenteken>UP-1P2-ER</kenteken>
+                    <kenteken>41-SDF-9</kenteken>
                     <type>Hatchback</type>
                     <merk>Fiat</merk>
                     <model>Punto</model>
@@ -1536,7 +1536,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>PP-URR-21</kenteken>
+                    <kenteken>1-URR-21</kenteken>
                     <type>Sedan</type>
                     <merk>Lancia</merk>
                     <model>Ypsilon</model>
@@ -1670,7 +1670,7 @@
         </openingstijden>
         <autos>
             <nieuw>
-                <kenteken>TE-BBE-06</kenteken>
+                <kenteken>4-BBE-06</kenteken>
                 <type>Hatchback</type>
                 <merk>Renault</merk>
                 <model>Twingo</model>
@@ -1686,7 +1686,7 @@
                 </fotos>
             </nieuw>
             <nieuw>
-                <kenteken>TR-AEA-01</kenteken>
+                <kenteken>6-AEA-01</kenteken>
                 <type>Sedan</type>
                 <merk>Daewoo</merk>
                 <model>Lanos</model>
@@ -1704,7 +1704,7 @@
 
             <!--Occasions-->
             <occasions>
-                <kenteken>UP-ERD-17</kenteken>
+                <kenteken>1-ERD-17</kenteken>
                 <type>Sedan</type>
                 <merk>Renault</merk>
                 <model>Megane</model>
@@ -1720,7 +1720,7 @@
                 </fotos>
             </occasions>
             <occasions>
-                <kenteken>UP-EDD-17</kenteken>
+                <kenteken>1-EDD-17</kenteken>
                 <type>Sedan</type>
                 <merk>Hyundai</merk>
                 <model>Excel</model>
@@ -1738,7 +1738,7 @@
 
             <!--Huur-->
             <huur uitleenbaar="true">
-                <kenteken>PP-URR-21</kenteken>
+                <kenteken>4-URR-21</kenteken>
                 <type>Sedan</type>
                 <merk>Lancia</merk>
                 <model>Ypsilon</model>
@@ -1754,7 +1754,7 @@
                 </fotos>
             </huur>
             <huur uitleenbaar="false">
-                <kenteken>PP-USA-21</kenteken>
+                <kenteken>6-USA-21</kenteken>
                 <type>Terreinwagen</type>
                 <merk>Toyota</merk>
                 <model>Fun Cruiser</model>
@@ -1883,7 +1883,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>BR-MXM-14</kenteken>
+                    <kenteken>1-MXM-14</kenteken>
                     <type>Sedan</type>
                     <merk>Alfa</merk>
                     <model>Romeo</model>
@@ -1901,7 +1901,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>PP-ULY-81</kenteken>
+                    <kenteken>8-ULY-81</kenteken>
                     <type>Sedan</type>
                     <merk>Audi</merk>
                     <model>A4</model>
@@ -2032,7 +2032,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PP-ULA-81</kenteken>
+                    <kenteken>1-ULA-81</kenteken>
                     <type>Sedan</type>
                     <merk>Audi</merk>
                     <model>A4</model>
@@ -2166,7 +2166,7 @@
             </openingstijden>
             <autos>
                 <occasions>
-                    <kenteken>BR-UHH-14</kenteken>
+                    <kenteken>6-UHH-14</kenteken>
                     <type>Hatchback</type>
                     <merk>Suzuki</merk>
                     <model>Swift</model>
@@ -2184,7 +2184,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>PP-UYI-81</kenteken>
+                    <kenteken>9-UYI-81</kenteken>
                     <type>Terreinwagen</type>
                     <merk>Opel</merk>
                     <model>Frontera</model>
@@ -2333,7 +2333,7 @@
 
                 <!--Occasions-->
                 <occasions>
-                    <kenteken>UP-1Y2-JA</kenteken>
+                    <kenteken>4-KYF-98</kenteken>
                     <type>Hatchback</type>
                     <merk>Kia</merk>
                     <model>Rio</model>
@@ -2351,7 +2351,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PP-UAY-81</kenteken>
+                    <kenteken>5-UAY-81</kenteken>
                     <type>SUV</type>
                     <merk>Volvo</merk>
                     <model>V40</model>
@@ -2482,7 +2482,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>BR-RRX-14</kenteken>
+                    <kenteken>5-RRX-14</kenteken>
                     <type>Sedan</type>
                     <merk>Honda</merk>
                     <model>Accord</model>
@@ -2500,7 +2500,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PP-UA3-31</kenteken>
+                    <kenteken>7-UAF-31</kenteken>
                     <type>SUV</type>
                     <merk>Volvo</merk>
                     <model>S70</model>
@@ -2541,7 +2541,7 @@
         <adres>
             <straat>carrelaan</straat>
             <nummer>99A</nummer>
-            <postcode>0346TR</postcode>
+            <postcode>1346TR</postcode>
             <plaats>Dalen</plaats>
             <provincie>Drenthe</provincie>
         </adres>
@@ -2625,7 +2625,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>PP-UAM-31</kenteken>
+                    <kenteken>1-UAM-31</kenteken>
                     <type>SUV</type>
                     <merk>Peugeot</merk>
                     <model>406</model>
@@ -2674,7 +2674,7 @@
         <adres>
             <straat>achterweg</straat>
             <nummer>15C</nummer>
-            <postcode>0341TR</postcode>
+            <postcode>4341TR</postcode>
             <plaats>Emmen</plaats>
             <provincie>Drenthe</provincie>
         </adres>
@@ -2758,7 +2758,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PP-UEH-31</kenteken>
+                    <kenteken>7-UEH-31</kenteken>
                     <type>Sedan</type>
                     <merk>Opel</merk>
                     <model>Meriva</model>
@@ -2886,7 +2886,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>TE-UUU-06</kenteken>
+                    <kenteken>8-UUU-06</kenteken>
                     <type>SUV</type>
                     <merk>Volvo</merk>
                     <model>204</model>
@@ -2902,7 +2902,7 @@
                     </fotos>
                 </nieuw>
                 <nieuw>
-                    <kenteken>TR-UIU-01</kenteken>
+                    <kenteken>0-UIU-01</kenteken>
                     <type>Sedan</type>
                     <merk>Volkswagen</merk>
                     <model>Sharan</model>
@@ -2920,7 +2920,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PP-URR-22</kenteken>
+                    <kenteken>7-URR-22</kenteken>
                     <type>Hatchback</type>
                     <merk>Renault</merk>
                     <model>Twingo</model>
@@ -2969,7 +2969,7 @@
         <adres>
             <straat>kogellaan</straat>
             <nummer>10A</nummer>
-            <postcode>0246TR</postcode>
+            <postcode>6246TR</postcode>
             <plaats>Coevorden</plaats>
             <provincie>Drenthe</provincie>
         </adres>
@@ -3050,7 +3050,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>YU-UAM-31</kenteken>
+                    <kenteken>5-UAM-31</kenteken>
                     <type>Sedan</type>
                     <merk>Nissan</merk>
                     <model>Almera</model>
@@ -3338,7 +3338,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PP-AWU-82</kenteken>
+                    <kenteken>6-AWU-82</kenteken>
                     <type>Sedan</type>
                     <merk>Lancia</merk>
                     <model>Ypsilon</model>
@@ -3465,7 +3465,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>AA-III-11</kenteken>
+                    <kenteken>2-III-11</kenteken>
                     <type>Hatchback</type>
                     <merk>Renault</merk>
                     <model>Twingo</model>
@@ -3483,7 +3483,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="false">
-                    <kenteken>PP-AWU-82</kenteken>
+                    <kenteken>4-AWU-82</kenteken>
                     <type>Hatchback</type>
                     <merk>Volkswagen</merk>
                     <model>Lupo</model>
@@ -3610,7 +3610,7 @@
             </openingstijden>
             <autos>
                 <nieuw>
-                    <kenteken>UI-HYU-11</kenteken>
+                    <kenteken>6-HYU-11</kenteken>
                     <type>Hatchback</type>
                     <merk>Renault</merk>
                     <model>Twingo</model>
@@ -3628,7 +3628,7 @@
 
                 <!--Huur-->
                 <huur uitleenbaar="true">
-                    <kenteken>PP-AHU-82</kenteken>
+                    <kenteken>4-AHU-82</kenteken>
                     <type>Sedan</type>
                     <merk>Lancia</merk>
                     <model>Ypsilon</model>
@@ -3755,7 +3755,7 @@
         </openingstijden>
         <autos>
             <occasions>
-                <kenteken>UI-HHH-11</kenteken>
+                <kenteken>7-HHH-11</kenteken>
                 <type>Terreinwagen</type>
                 <merk>Kia</merk>
                 <model>Spottage</model>
@@ -3773,7 +3773,7 @@
 
             <!--Huur-->
             <huur uitleenbaar="false">
-                <kenteken>PP-UGH-82</kenteken>
+                <kenteken>8-UGH-82</kenteken>
                 <type>Hatchback</type>
                 <merk>Chevrolet</merk>
                 <model>Camaro</model>
