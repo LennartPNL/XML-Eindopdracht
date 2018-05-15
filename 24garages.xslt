@@ -5,197 +5,26 @@
                 xmlns:math="http://exslt.org/math"
                 extension-element-prefixes="math">
 
-
-    <!--
-    RANDOM NUM CODE
-
-    Voor Auto en Gezicht:
-    <xsl:value-of select="(floor(math:random()*29) mod 10)" />
-
-    -->
-
     <xsl:template match="/">
         <html>
             <head>
                 <meta charset="utf-8" />
                 <title>Garage!</title>
                 <!--Styles-->
-                <style>
-                    div.header{
-                    width: 100%;
-                    border-style: solid;
-                    text-align:center;
-                    }
-                    div.garageName {
-                    width: 100%;
-                    border-style: solid;
-                    text-align: center;
-                    clear:both;
-                    }
-                    div.container {
-                    width: 100%;
-                    height: 800px;
-                    }
-                    div.content {
-                    width: 99%;
-                    height: 50%;
-                    margin: auto;
-                    }
-                    div.adres {
-                    width: 33%;
-                    border-style: solid;
-                    float:left;
-                    height: 100%;
-                    margin: auto;
-                    }
-                    div.contactgegevens {
-                    width: 33%;
-                    border-style: solid;
-                    float: left;
-                    height: 100%;
-                    margin: auto;
-                    }
-                    div.afbeelding {
-                    width: 33%;
-                    border-style: solid;
-                    float: left;
-                    height: 100%;
-                    margin: auto;
-                    }
-                    div.faciliteiten {
-                    width: 34%;
-                    border-style: solid;
-                    float: left;
-                    height: 100%;
-                    margin: auto;
-                    }
-                    div.openingstijden {
-                    width: 33%;
-                    border-style: solid;
-                    float: left;
-                    height: 100%;
-                    margin: auto;
-                    }
-                    div.winkel {
-                    width: 32%;
-
-                    float: left;
-                    height: 50%;
-                    margin: auto;
-                    }
-                    div.werkplaats {
-                    width: 32%;
-
-                    float: left;
-                    height: 50%;
-                    margin: auto;
-                    }
-                    div.showroomdiv {
-                    width: 32%;
-
-                    float: left;
-                    height: 50%;
-                    margin: auto;
-                    }
-                    div.showroom {
-                    width: 32%;
-                    border-style: solid;
-                    float: left;
-                    height: 100%;
-                    margin: auto;
-                    }
-                    div.pomp {
-                    width: 32%;
-                    float: left;
-                    height: 50%;
-                    margin: auto;
-                    }
-
-                    div.was {
-                    width: 32%;
-                    float: left;
-                    height: 50%;
-                    margin: auto;
-                    }
-                    div.footer {
-                    width: 100%;
-                    border-style: solid;
-                    text-align: center;
-                    }
-                    li{
-                    list-style: none;
-                    }
-                    h3{
-                    text-align:center;
-                    }
-                    h2 {
-                    text-align: center;
-                    }
-                    img.garageFoto{
-                    width: 49%;
-                    float:left;
-                    }
-                    img.keurmerkFoto {
-                    width: 49%;
-                    float: left;
-                    }
-                    img.medewerker1 {
-                    width: 33%;
-                    float: left;
-                    }
-                    img.medewerker2 {
-                    width: 33%;
-                    float: left;
-                    }
-                    img.medewerker3 {
-                    width: 33%;
-                    float: left;
-                    }
-                    div.nieuw {
-                    width: 33%;
-                    float: left;
-                    }
-                    div.occasionshow {
-                    width: 33%;
-                    float: left;
-                    }
-                    div.huur {
-                    width: 33%;
-                    float: left;
-                    }
-                    table.contactTabel{
-                    width:90%;
-                    text-align:center;
-                    }
-                    img{
-                    width:100px;
-                    float: left;
-                    border-style: solid;
-                    }
-                    medewerkers.li{
-                    float: bottom;
-                    }
-
-
-
-                </style>
+                <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
             </head>
             <body>
                 <div class="container">
-
                     <div class="header">
                         <h1>Welkom Bij de Garage specialist</h1>
                         <h2>Totale hoeveelheid garages: <xsl:value-of select="count(garages/garage)"/></h2>
                     </div>
                     <!-- Ga door alle garages heen-->
                     <xsl:for-each select="garages/garage">
-
                         <div class="garageName">
                             <h2><xsl:value-of select="@naam"/></h2>
                         </div>
-
                         <div class="content">
-
                             <div class="adres">
                                 <h2>Adres</h2>
                                 <ul>
@@ -206,10 +35,8 @@
                                     <li class="provincie"><xsl:value-of select="adres/provincie"/></li>
                                 </ul>
                             </div>
-
                             <div class="contactgegevens">
                                 <h2>Contact</h2>
-
                                 <table class="contactTabel">
                                     <tr class="tel">
                                         <td>Tel.</td>
@@ -232,9 +59,7 @@
                                         <td class="route"><xsl:value-of select="contactGegevens/routebeschrijving"/></td>
                                     </tr>
                                 </table>
-
                             </div>
-
                             <div class="afbeelding">
                                 <h2>Keurmerken</h2>
                                 <xsl:for-each select="keurmerken/keurmerk">
@@ -250,34 +75,23 @@
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
-
-
                                             </img>
-
                                         <p><xsl:value-of select='naam'/></p>
                                     </xsl:for-each>
                                 </div>
-
                             </div>
-
                             <div class="faciliteiten">
                                 <h2>Faciliteiten</h2>
-
                                 <div class="pomp">
                                     <h3>Pomp</h3>
-
-
                                     <ul class="brandstof">
                                         <xsl:for-each select="faciliteiten/pompen/pomp">
                                             <li><xsl:value-of select='@brandstofType'/></li>
                                         </xsl:for-each>
                                     </ul>
                                 </div>
-
                                 <div class="was">
                                     <h3>Was</h3>
-
-
                                     <ul class="wasbox">
                                         <xsl:for-each select="faciliteiten/wassen/wasbox">
                                             <li>aantal wasboxen=<xsl:value-of select='@aantal'/></li>
@@ -289,10 +103,8 @@
                                         </xsl:for-each>
                                     </ul>
                                 </div>
-
                                 <div class="winkel">
                                     <h3>Winkel</h3>
-
                                     <ul class="assortiment">
                                         <xsl:for-each select="faciliteiten/winkel/assortiment">
                                             <li><xsl:value-of select='levensmiddelen'/></li>
@@ -302,18 +114,14 @@
                                         </xsl:for-each>
                                     </ul>
                                 </div>
-
                             </div>
-
                             <div class="openingstijden">
                                 <h2>Openingstijden</h2>
-
                                 <!--winkel-->
                                 <div class="winkel">
                                     <h3>Winkel</h3>
                                     <table class="winkel">
                                         <tr>
-
                                             <th class="dag">
                                                 Dag
                                             </th>
@@ -321,7 +129,6 @@
                                             <th class="tijd">
                                                 Tijd
                                             </th>
-
                                         </tr>
                                         <xsl:for-each select="faciliteiten/winkel/openingstijden">
                                             <tr class="maandag">
@@ -398,7 +205,6 @@
                                             </tr>
                                         </xsl:for-each>
                                     </table>
-
                                 </div>
                                 <!--showroom-->
                                 <div class="showroomdiv">
@@ -443,11 +249,8 @@
                                             </tr>
                                         </xsl:for-each>
                                     </table>
-
                                 </div>
-
                             </div>
-
                             <div class="showroom">
                                 <h2>Showroom</h2>
                                 <xsl:for-each select="showroom/autos/nieuw">
@@ -468,12 +271,11 @@
                                         <li><xsl:value-of select='bouwjaar'/></li>
                                         <li><xsl:value-of select='brandstof'/></li>
                                         <li><xsl:value-of select='datumEindAPK'/></li>
-                                        <li>€<xsl:value-of select='prijs'/></li>
+                                        <li>&#8364;<xsl:value-of select='prijs'/></li>
                                     </div>
                                 </xsl:for-each>
                                 <xsl:for-each select="showroom/autos/occasions">
                                     <div class="occasionshow">
-
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
@@ -490,7 +292,7 @@
                                         <li><xsl:value-of select='bouwjaar'/></li>
                                         <li><xsl:value-of select='brandstof'/></li>
                                         <li><xsl:value-of select='datumEindAPK'/></li>
-                                        <li>€<xsl:value-of select='prijs'/></li>
+                                        <li>&#8364;<xsl:value-of select='prijs'/></li>
                                     </div>
                                 </xsl:for-each>
                                 <xsl:for-each select="showroom/autos/huur">
@@ -511,24 +313,14 @@
                                         <li><xsl:value-of select='bouwjaar'/></li>
                                         <li><xsl:value-of select='brandstof'/></li>
                                         <li><xsl:value-of select='datumEindAPK'/></li>
-                                        <li>€<xsl:value-of select='prijs'/></li>
+                                        <li>&#8364;<xsl:value-of select='prijs'/></li>
                                     </div>
                                 </xsl:for-each>
                             </div>
-
-                            <!--<div class="footer">
-                                <h3>Footer</h3>
-                            </div>-->
-
-
-
                         </div>
                     </xsl:for-each>
                 </div>
-
             </body>
         </html>
-
     </xsl:template>
-
 </xsl:stylesheet>
