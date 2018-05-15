@@ -3,7 +3,7 @@
 
 <garages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="garages.xsd">
 
-    <garage naam="Het Schuurtje"> <!-- garage 1 -->
+    <garage naam="Het Schuurtje"> <!-- garage 1 - gemaakt door: Ernst-Jan -->
 
       <!--Adres-->
       <adres>
@@ -173,8 +173,8 @@
                 <functie>Koffie faciliteur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 1 -->
-    <garage naam="Garage De Vries"> <!-- garage 2 -->
+    </garage> <!-- garage 1 - gemaakt door: Ernst-Jan -->
+    <garage naam="Garage De Vries"> <!-- garage 2 - gemaakt door: Ernst-Jan -->
 
         <!--Adres-->
         <adres>
@@ -395,8 +395,8 @@
 
         </medewerkers>
 
-    </garage> <!-- garage 2 -->
-    <garage naam="Tango"> <!-- garage 3 -->
+    </garage> <!-- garage 2 - gemaakt door: Ernst-Jan -->
+    <garage naam="Tango"> <!-- garage 3 - gemaakt door: Ernst-Jan -->
 
         <!--Adres-->
         <adres>
@@ -555,8 +555,8 @@
                 <functie>balie medewerker</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 3 -->
-    <garage naam="Autobedrijf Hoge"> <!-- garage 4 -->
+    </garage> <!-- garage 3 - gemaakt door: Ernst-Jan -->
+    <garage naam="Autobedrijf Hoge"> <!-- garage 4 - gemaakt door: Ernst-Jan -->
 
         <!--Adres-->
         <adres>
@@ -719,8 +719,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 4 -->
-    <garage naam="Autobedrijf Haan"> <!-- garage 5 -->
+    </garage> <!-- garage 4 - gemaakt door: Ernst-Jan -->
+    <garage naam="Autobedrijf Haan"> <!-- garage 5 - gemaakt door: Lennart -->
 
         <!--Adres-->
         <adres>
@@ -896,8 +896,8 @@
                 <functie>Winkel beheerder</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 5 -->
-    <garage naam="Autobedrijf Boven"> <!-- garage 6 -->
+    </garage> <!-- garage 5 - gemaakt door: Lennart -->
+    <garage naam="Autobedrijf Boven"> <!-- garage 6 - gemaakt door: Lennart -->
 
         <!--Adres-->
         <adres>
@@ -1073,8 +1073,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 6 -->
-    <garage naam="Garage Jagt"> <!-- garage 7 -->
+    </garage> <!-- garage 6 - gemaakt door: Lennart -->
+    <garage naam="Garage Jagt"> <!-- garage 7 - gemaakt door: Lennart -->
 
         <!--Adres-->
         <adres>
@@ -1273,8 +1273,8 @@
                 <functie>Balie medewerker</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 7 -->
-    <garage naam="autobedrijf misker"> <!-- garage 8 -->
+    </garage> <!-- garage 7 - gemaakt door: Lennart -->
+    <garage naam="autobedrijf misker"> <!-- garage 8 - gemaakt door: Lennart -->
 
         <!--Adres-->
         <adres>
@@ -1465,8 +1465,8 @@
                 <functie>Verkoopmedewerker</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 8 -->
-    <garage naam="Autoconcurrent"> <!-- garage 1 -->
+    </garage> <!-- garage 8 - gemaakt door: Lennart -->
+    <garage naam="Autoconcurrent"> <!-- garage 9 - gemaakt door: Maartje -->
 
         <!--Adres-->
         <adres>
@@ -1674,8 +1674,8 @@
                 <functie>Monteur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 9 -->
-    <garage naam="Lunenborg"> <!-- garage 10 -->
+    </garage> <!-- garage 9 - gemaakt door: Maartje -->
+    <garage naam="Lunenborg"> <!-- garage 10 - gemaakt door: Maartje -->
 
     <!--Adres-->
     <adres>
@@ -1894,8 +1894,8 @@
             <functie>Balie medewerker</functie>
         </medewerker>
     </medewerkers>
-</garage> <!-- garage 10 -->
-    <garage naam="Autobedrijf Paas"> <!-- garage 11 -->
+</garage> <!-- garage 10 - gemaakt door: Maartje -->
+    <garage naam="Autobedrijf Paas"> <!-- garage 11 - gemaakt door: Maartje -->
 
         <!--Adres-->
         <adres>
@@ -2051,8 +2051,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 11 -->
-    <garage naam="Autobedrijf Veenstra"> <!-- garage 12 -->
+    </garage> <!-- garage 11 - gemaakt door: Maartje -->
+    <garage naam="Autobedrijf Veenstra"> <!-- garage 12 - gemaakt door: Maartje -->
 
         <!--Adres-->
         <adres>
@@ -2191,8 +2191,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 12 -->
-    <garage naam="Autobedrijf Berndt"> <!-- garage 13 -->
+    </garage> <!-- garage 12 - gemaakt door: Maartje -->
+    <garage naam="Autobedrijf Berndt"> <!-- garage 13 - gemaakt door: Michiel -->
 
         <!--Adres-->
         <adres>
@@ -2353,8 +2353,8 @@
                 <functie>Winkel bediende</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 13 -->
-    <garage naam="kwikfit"> <!-- garage 14 -->
+    </garage> <!-- garage 13 - gemaakt door: Michiel -->
+    <garage naam="kwikfit"> <!-- garage 14 - gemaakt door: Michiel -->
 
         <!--Adres-->
         <adres>
@@ -2530,8 +2530,8 @@
                 <functie>Monteur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 14 -->
-    <garage naam="Autogas"> <!-- garage 15 -->
+    </garage> <!-- garage 14 - gemaakt door: Michiel -->
+    <garage naam="Autogas"> <!-- garage 15 - gemaakt door: Michiel -->
 
         <!--Adres-->
         <adres>
@@ -2681,8 +2681,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 15 -->
-    <garage naam="carexpert"> <!-- garage 16 -->
+    </garage> <!-- garage 15 - gemaakt door: Michiel -->
+    <garage naam="carexpert"> <!-- garage 16 - gemaakt door: Michiel -->
 
         <!--Adres-->
         <adres>
@@ -2823,8 +2823,8 @@
                 <functie>Monteur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 16 -->
-    <garage naam="minicar"> <!-- garage 17 -->
+    </garage> <!-- garage 16 - gemaakt door: Michiel -->
+    <garage naam="minicar"> <!-- garage 17 - gemaakt door: Sander -->
 
         <!--Adres-->
         <adres>
@@ -2965,8 +2965,8 @@
                 <functie>Monteur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 17 -->
-    <garage naam="autodroom"> <!-- garage 18 -->
+    </garage> <!-- garage 17 - gemaakt door: Sander -->
+    <garage naam="autodroom"> <!-- garage 18 - gemaakt door: Sander -->
 
         <!--Adres-->
         <adres>
@@ -3137,8 +3137,8 @@
                 <functie>Balie medewerker</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 18 -->
-    <garage naam="scania"> <!-- garage 19 -->
+    </garage> <!-- garage 18 - gemaakt door: Sander -->
+    <garage naam="scania"> <!-- garage 19 - gemaakt door: Sander -->
 
         <!--Adres-->
         <adres>
@@ -3276,8 +3276,8 @@
                 <functie>Monteur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 19 -->
-    <garage naam="autoplex"> <!-- garage 20 -->
+    </garage> <!-- garage 19 - gemaakt door: Sander -->
+    <garage naam="autoplex"> <!-- garage 20 - gemaakt door: Sander -->
 
         <!--Adres-->
         <adres>
@@ -3429,8 +3429,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 20 -->
-    <garage naam="beterweg"> <!-- garage 21 -->
+    </garage> <!-- garage 20 - gemaakt door: Sander -->
+    <garage naam="beterweg"> <!-- garage 21 - gemaakt door: Thomas -->
 
         <!--Adres-->
         <adres>
@@ -3584,8 +3584,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 21 -->
-    <garage naam="gerardsautos"> <!-- garage 22 -->
+    </garage> <!-- garage 21 - gemaakt door: Thomas -->
+    <garage naam="gerardsautos"> <!-- garage 22 - gemaakt door: Thomas -->
 
         <!--Adres-->
         <adres>
@@ -3739,8 +3739,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 22 -->
-    <garage naam="Karinsautos"> <!-- garage 23 -->
+    </garage> <!-- garage 22 - gemaakt door: Thomas -->
+    <garage naam="Karinsautos"> <!-- garage 23 - gemaakt door: Thomas -->
 
         <!--Adres-->
         <adres>
@@ -3894,8 +3894,8 @@
                 <functie>Directeur</functie>
             </medewerker>
         </medewerkers>
-    </garage> <!-- garage 23 -->
-    <garage naam="Steensautos"> <!-- garage 24 -->
+    </garage> <!-- garage 23 - gemaakt door: Thomas -->
+    <garage naam="Steensautos"> <!-- garage 24 - gemaakt door: Thomas -->
 
     <!--Adres-->
     <adres>
@@ -4049,5 +4049,5 @@
             <functie>Winkel bediende</functie>
         </medewerker>
     </medewerkers>
-</garage> <!-- garage 24 -->
+</garage> <!-- garage 24 - gemaakt door: Thomas -->
 </garages>
