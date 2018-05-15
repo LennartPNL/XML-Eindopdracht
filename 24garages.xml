@@ -28,14 +28,13 @@
             <pompen>
                 <pomp brandstofType="Benzine"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="1"/>
                 <wasbox aantal="2"/>
             </wassen>
+
           <!--Winkel-->
           	<winkel>
-
               <openingstijden>
                 <maandag open="10:00" sluiting="21:00"/>
                 <dinsdag open="10:00" sluiting="21:00"/>
@@ -45,15 +44,13 @@
                 <zaterdag open="10:00" sluiting="21:00"/>
                 <zondag open="12:00" sluiting="18:00"/>
               </openingstijden>
-
               <assortiment>
                 <levensmiddelen/>
                 <rookwaar/>
                 <tijdschriften/>
                 <autoAccesoires/>
               </assortiment>
-
-        		</winkel>
+            </winkel>
         </faciliteiten>
 
 				<!--Foto's-->
@@ -66,7 +63,6 @@
 
 				<!--Werkplaats-->
         <werkplaats>
-
           <openingstijden>
             <maandag open="13:00" sluiting="20:00"/>
             <dinsdag open="13:00" sluiting="20:00"/>
@@ -74,9 +70,7 @@
           	<donderdag open="13:00" sluiting="20:00"/>
           	<vrijdag open="13:00" sluiting="20:00"/>
           	<zaterdag open="13:00" sluiting="20:00"/>
-
           </openingstijden>
-
           <werkzaamheden>
               <onderhoud/>
               <APKkeuring/>
@@ -89,7 +83,6 @@
 
 				<!--Showroom-->
         <showroom>
-
           <openingstijden>
             <maandag open="13:00" sluiting="20:00"/>
             <dinsdag open="13:00" sluiting="20:00"/>
@@ -97,9 +90,7 @@
           	<donderdag open="13:00" sluiting="20:00"/>
           	<vrijdag open="13:00" sluiting="20:00"/>
           	<zaterdag open="13:00" sluiting="20:00"/>
-
           </openingstijden>
-
           <autos>
               <nieuw>
                   <kenteken>BR-UX-14</kenteken>
@@ -154,7 +145,6 @@
                   </fotos>
               </huur>
           </autos>
-
         </showroom>
 
 				<!--Keurmerken-->
@@ -202,14 +192,13 @@
                 <pomp brandstofType="Benzine"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="2"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="8:00" sluiting="23:00"/>
                     <dinsdag open="8:00" sluiting="23:00"/>
@@ -217,14 +206,11 @@
                     <donderdag open="9:00" sluiting="23:00"/>
                     <vrijdag open="9:00" sluiting="23:00"/>
                     <zaterdag open="9:00" sluiting="20:00"/>
-
                 </openingstijden>
-
                 <assortiment>
                     <rookwaar/>
                     <tijdschriften/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -238,7 +224,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="8:00" sluiting="18:00"/>
                 <dinsdag open="8:00" sluiting="18:00"/>
@@ -246,9 +231,7 @@
                 <donderdag open="8:00" sluiting="18:00"/>
                 <vrijdag open="8:00" sluiting="15:00"/>
                 <zaterdag open="8:00" sluiting="14:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <APKkeuring/>
@@ -259,7 +242,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="9:00" sluiting="17:00"/>
                 <dinsdag open="9:00" sluiting="17:00"/>
@@ -269,8 +251,8 @@
                 <zaterdag open="9:00" sluiting="13:00"/>
                 <zondag open="9:00" sluiting="13:00"/>
             </openingstijden>
-
             <autos>
+
                 <!--Nieuw-->
                 <nieuw>
                     <kenteken>AG-ER-33</kenteken>
@@ -357,7 +339,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -367,7 +348,6 @@
 
         <!--Medewerkers-->
         <medewerkers>
-
             <medewerker>
                 <naam>Piet Jansen</naam>
                 <foto>
@@ -392,7 +372,6 @@
                 </foto>
                 <functie>Balie medewerker</functie>
             </medewerker>
-
         </medewerkers>
 
     </garage> <!-- garage 2 - gemaakt door: Ernst-Jan -->
@@ -426,14 +405,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="0"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -443,14 +421,12 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <rookwaar/>
                     <tijdschriften/>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -464,7 +440,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="8:00" sluiting="21:00"/>
                 <dinsdag open="8:00" sluiting="21:00"/>
@@ -472,16 +447,13 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
             </werkzaamheden>
         </werkplaats>
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -489,9 +461,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>AA-AA-11</kenteken>
@@ -528,7 +498,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -583,14 +552,13 @@
                 <pomp brandstofType="Gas"/>
                 <pomp brandstofType="Benzine"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="4"/>
                 <wasbox aantal="0"/>
             </wassen>
             <!--Winkel-->
-            <winkel>
 
+            <winkel>
                 <openingstijden>
                     <maandag open="8:30" sluiting="21:00"/>
                     <dinsdag open="8:30" sluiting="21:00"/>
@@ -598,12 +566,9 @@
                     <donderdag open="8:30" sluiting="21:00"/>
                     <vrijdag open="8:30" sluiting="21:00"/>
                     <zaterdag open="8:30" sluiting="21:00"/>
-
                 </openingstijden>
-
                 <assortiment>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -617,7 +582,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="17:00"/>
                 <dinsdag open="13:00" sluiting="17:00"/>
@@ -625,9 +589,7 @@
                 <donderdag open="13:00" sluiting="17:00"/>
                 <vrijdag open="13:00" sluiting="17:00"/>
                 <zaterdag open="13:00" sluiting="17:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <ruitenreparatie/>
                 <aircoservice/>
@@ -636,7 +598,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="21:01"/>
                 <dinsdag open="13:00" sluiting="21:01"/>
@@ -644,10 +605,9 @@
                 <donderdag open="13:00" sluiting="21:01"/>
                 <vrijdag open="13:00" sluiting="21:01"/>
                 <zaterdag open="13:00" sluiting="21:01"/>
-
             </openingstijden>
-
             <autos>
+
                 <!--Occasions-->
                 <occasions>
                     <kenteken>UP-12-JA</kenteken>
@@ -700,7 +660,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -746,14 +705,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="0"/>
                 <wasbox aantal="5"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -763,13 +721,11 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <rookwaar/>
                     <tijdschriften/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -783,7 +739,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -791,9 +746,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <schadeherstel/>
@@ -804,7 +757,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -812,9 +764,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>YR-ER-45</kenteken>
@@ -869,7 +819,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -925,14 +874,13 @@
                 <pomp brandstofType="Benzine"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="0"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -942,13 +890,11 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <rookwaar/>
                     <tijdschriften/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -962,7 +908,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -970,9 +915,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <schadeherstel/>
@@ -981,7 +924,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -989,9 +931,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>YR-ER-45</kenteken>
@@ -1046,7 +986,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -1099,14 +1038,13 @@
             <pompen>
                 <pomp brandstofType="Benzine"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="0"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -1116,13 +1054,11 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <tijdschriften/>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -1136,7 +1072,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1144,9 +1079,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <APKkeuring/>
@@ -1157,7 +1090,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1165,9 +1097,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>BR-WX-16</kenteken>
@@ -1238,7 +1168,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -1302,14 +1231,13 @@
                 <pomp brandstofType="Gas"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="3"/>
                 <wasbox aantal="3"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -1319,12 +1247,10 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <tijdschriften/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -1338,7 +1264,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1346,9 +1271,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <ruitenreparatie/>
                 <aircoservice/>
@@ -1357,7 +1280,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1365,9 +1287,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>BR-AA-16</kenteken>
@@ -1438,7 +1358,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -1498,14 +1417,13 @@
                 <pomp brandstofType="Gas"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="5"/>
                 <wasbox aantal="3"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -1515,14 +1433,12 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <rookwaar/>
                     <tijdschriften/>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -1536,7 +1452,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1544,9 +1459,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <APKkeuring/>
                 <schadeherstel/>
@@ -1558,7 +1471,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1566,9 +1478,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>TE-AAA-06</kenteken>
@@ -1639,7 +1549,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -1701,14 +1610,13 @@
             <pomp brandstofType="Benzine"/>
             <pomp brandstofType="Benzine"/>
         </pompen>
-
         <wassen>
             <wasstraat aantal="0"/>
             <wasbox aantal="0"/>
         </wassen>
+
         <!--Winkel-->
         <winkel>
-
             <openingstijden>
                 <maandag open="10:00" sluiting="21:00"/>
                 <dinsdag open="10:00" sluiting="21:00"/>
@@ -1718,11 +1626,9 @@
                 <zaterdag open="10:00" sluiting="21:00"/>
                 <zondag open="12:00" sluiting="18:00"/>
             </openingstijden>
-
             <assortiment>
                 <rookwaar/>
             </assortiment>
-
         </winkel>
     </faciliteiten>
 
@@ -1736,7 +1642,6 @@
 
     <!--Werkplaats-->
     <werkplaats>
-
         <openingstijden>
             <maandag open="13:00" sluiting="20:00"/>
             <dinsdag open="13:00" sluiting="20:00"/>
@@ -1744,9 +1649,7 @@
             <donderdag open="13:00" sluiting="20:00"/>
             <vrijdag open="13:00" sluiting="20:00"/>
             <zaterdag open="13:00" sluiting="20:00"/>
-
         </openingstijden>
-
         <werkzaamheden>
             <APKkeuring/>
         </werkzaamheden>
@@ -1754,7 +1657,6 @@
 
     <!--Showroom-->
     <showroom>
-
         <openingstijden>
             <maandag open="13:00" sluiting="20:00"/>
             <dinsdag open="13:00" sluiting="20:00"/>
@@ -1762,9 +1664,7 @@
             <donderdag open="13:00" sluiting="20:00"/>
             <vrijdag open="13:00" sluiting="20:00"/>
             <zaterdag open="13:00" sluiting="20:00"/>
-
         </openingstijden>
-
         <autos>
             <nieuw>
                 <kenteken>TE-BBE-06</kenteken>
@@ -1867,7 +1767,6 @@
                 </fotos>
             </huur>
         </autos>
-
     </showroom>
 
     <!--Keurmerken-->
@@ -1923,14 +1822,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="2"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -1940,12 +1838,10 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <tijdschriften/>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -1959,7 +1855,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1967,9 +1862,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <aircoservice/>
             </werkzaamheden>
@@ -1977,7 +1870,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -1985,9 +1877,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>BR-MXM-14</kenteken>
@@ -2024,7 +1914,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -2081,14 +1970,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="0"/>
                 <wasbox aantal="5"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -2098,11 +1986,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -2116,7 +2002,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2124,9 +2009,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <bandenservice/>
             </werkzaamheden>
@@ -2134,7 +2017,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2142,10 +2024,9 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
+
                 <!--Huur-->
                 <huur uitleenbaar="false">
                     <kenteken>PP-ULA-81</kenteken>
@@ -2164,7 +2045,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -2219,14 +2099,13 @@
                 <pomp brandstofType="Gas"/>
                 <pomp brandstofType="Diesel"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="6"/>
                 <wasbox aantal="5"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -2236,13 +2115,11 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <rookwaar/>
                     <tijdschriften/>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -2256,7 +2133,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2264,9 +2140,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <APKkeuring/>
@@ -2279,7 +2153,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2287,9 +2160,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <occasions>
                     <kenteken>BR-UHH-14</kenteken>
@@ -2326,7 +2197,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -2380,14 +2250,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Benzine"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="2"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -2397,11 +2266,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -2415,7 +2282,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2423,9 +2289,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <APKkeuring/>
@@ -2438,7 +2302,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2446,9 +2309,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>BR-UX-14</kenteken>
@@ -2503,7 +2364,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -2557,14 +2417,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="0"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -2574,12 +2433,10 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <rookwaar/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -2593,7 +2450,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2601,9 +2457,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <APKkeuring/>
@@ -2615,7 +2469,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2623,9 +2476,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>BR-RRX-14</kenteken>
@@ -2662,7 +2513,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -2708,14 +2558,13 @@
                 <pomp brandstofType="Benzine"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="3"/>
                 <wasbox aantal="5"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -2725,13 +2574,11 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <rookwaar/>
                     <tijdschriften/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -2745,7 +2592,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2753,9 +2599,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <APKkeuring/>
@@ -2766,7 +2610,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2774,10 +2617,9 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
+
                 <!--Huur-->
                 <huur uitleenbaar="true">
                     <kenteken>PP-UAM-31</kenteken>
@@ -2796,7 +2638,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -2851,14 +2692,13 @@
                 <pomp brandstofType="Gas"/>
                 <pomp brandstofType="Diesel"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="3"/>
                 <wasbox aantal="2"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -2868,13 +2708,11 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <levensmiddelen/>
                     <rookwaar/>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -2888,7 +2726,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2896,9 +2733,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <ruitenreparatie/>
@@ -2908,7 +2743,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -2916,10 +2750,9 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
+
                 <!--Huur-->
                 <huur uitleenbaar="false">
                     <kenteken>PP-UEH-31</kenteken>
@@ -2938,7 +2771,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -2991,14 +2823,13 @@
             <pompen>
                 <pomp brandstofType="Benzine"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="1"/>
                 <wasbox aantal="1"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -3008,11 +2839,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <rookwaar/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -3026,7 +2855,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3034,9 +2862,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <APKkeuring/>
                 <schadeherstel/>
@@ -3047,7 +2873,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3055,9 +2880,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>TE-UUU-06</kenteken>
@@ -3110,7 +2933,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -3165,14 +2987,13 @@
                 <pomp brandstofType="Gas"/>
                 <pomp brandstofType="Diesel"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="5"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -3182,11 +3003,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <tijdschriften/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -3200,7 +3019,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3208,9 +3026,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <onderhoud/>
                 <APKkeuring/>
@@ -3219,7 +3035,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3227,10 +3042,9 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
+
                 <!--Huur-->
                 <huur uitleenbaar="false">
                     <kenteken>YU-UAM-31</kenteken>
@@ -3249,7 +3063,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -3303,14 +3116,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="0"/>
                 <wasbox aantal="1"/>
             </wassen>
             <!--Winkel-->
-            <winkel>
 
+            <winkel>
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -3320,11 +3132,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -3338,7 +3148,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="8:00" sluiting="21:00"/>
                 <dinsdag open="8:00" sluiting="21:00"/>
@@ -3346,16 +3155,13 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
             </werkzaamheden>
         </werkplaats>
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3363,9 +3169,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>AA-UA-11</kenteken>
@@ -3402,7 +3206,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -3456,14 +3259,13 @@
                 <pomp brandstofType="Gas"/>
                 <pomp brandstofType="Gas"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="1"/>
                 <wasbox aantal="1"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -3473,11 +3275,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -3491,7 +3291,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="8:00" sluiting="21:00"/>
                 <dinsdag open="8:00" sluiting="21:00"/>
@@ -3499,9 +3298,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <APKkeuring/>
                 <bandenservice/>
@@ -3510,7 +3307,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3518,9 +3314,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>AA-UA-11</kenteken>
@@ -3557,7 +3351,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -3611,14 +3404,13 @@
                 <pomp brandstofType="Diesel"/>
                 <pomp brandstofType="Diesel"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="1"/>
                 <wasbox aantal="0"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -3628,11 +3420,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -3646,7 +3436,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="8:00" sluiting="21:00"/>
                 <dinsdag open="8:00" sluiting="21:00"/>
@@ -3654,9 +3443,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <APKkeuring/>
                 <bandenservice/>
@@ -3665,7 +3452,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3673,9 +3459,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>AA-III-11</kenteken>
@@ -3712,7 +3496,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -3766,14 +3549,13 @@
                 <pomp brandstofType="Benzine"/>
                 <pomp brandstofType="Benzine"/>
             </pompen>
-
             <wassen>
                 <wasstraat aantal="1"/>
                 <wasbox aantal="3"/>
             </wassen>
+
             <!--Winkel-->
             <winkel>
-
                 <openingstijden>
                     <maandag open="10:00" sluiting="21:00"/>
                     <dinsdag open="10:00" sluiting="21:00"/>
@@ -3783,11 +3565,9 @@
                     <zaterdag open="10:00" sluiting="21:00"/>
                     <zondag open="12:00" sluiting="18:00"/>
                 </openingstijden>
-
                 <assortiment>
                     <autoAccesoires/>
                 </assortiment>
-
             </winkel>
         </faciliteiten>
 
@@ -3801,7 +3581,6 @@
 
         <!--Werkplaats-->
         <werkplaats>
-
             <openingstijden>
                 <maandag open="8:00" sluiting="21:00"/>
                 <dinsdag open="8:00" sluiting="21:00"/>
@@ -3809,9 +3588,7 @@
                 <donderdag open="10:00" sluiting="13:00"/>
                 <vrijdag open="8:00" sluiting="21:00"/>
                 <zaterdag open="13:00" sluiting="21:00"/>
-
             </openingstijden>
-
             <werkzaamheden>
                 <APKkeuring/>
                 <aircoservice/>
@@ -3820,7 +3597,6 @@
 
         <!--Showroom-->
         <showroom>
-
             <openingstijden>
                 <maandag open="13:00" sluiting="20:00"/>
                 <dinsdag open="13:00" sluiting="20:00"/>
@@ -3828,9 +3604,7 @@
                 <donderdag open="13:00" sluiting="20:00"/>
                 <vrijdag open="13:00" sluiting="20:00"/>
                 <zaterdag open="13:00" sluiting="20:00"/>
-
             </openingstijden>
-
             <autos>
                 <nieuw>
                     <kenteken>UI-HYU-11</kenteken>
@@ -3867,7 +3641,6 @@
                     </fotos>
                 </huur>
             </autos>
-
         </showroom>
 
         <!--Keurmerken-->
@@ -3921,14 +3694,13 @@
             <pomp brandstofType="Gas"/>
             <pomp brandstofType="Diesel"/>
         </pompen>
-
         <wassen>
             <wasstraat aantal="0"/>
             <wasbox aantal="2"/>
         </wassen>
+
         <!--Winkel-->
         <winkel>
-
             <openingstijden>
                 <maandag open="10:00" sluiting="21:00"/>
                 <dinsdag open="10:00" sluiting="21:00"/>
@@ -3938,11 +3710,9 @@
                 <zaterdag open="10:00" sluiting="21:00"/>
                 <zondag open="12:00" sluiting="18:00"/>
             </openingstijden>
-
             <assortiment>
                 <autoAccesoires/>
             </assortiment>
-
         </winkel>
     </faciliteiten>
 
@@ -3956,7 +3726,6 @@
 
     <!--Werkplaats-->
     <werkplaats>
-
         <openingstijden>
             <maandag open="8:00" sluiting="21:00"/>
             <dinsdag open="8:00" sluiting="21:00"/>
@@ -3964,9 +3733,7 @@
             <donderdag open="10:00" sluiting="13:00"/>
             <vrijdag open="8:00" sluiting="21:00"/>
             <zaterdag open="14:00" sluiting="21:00"/>
-
         </openingstijden>
-
         <werkzaamheden>
             <APKkeuring/>
             <aircoservice/>
@@ -3975,7 +3742,6 @@
 
     <!--Showroom-->
     <showroom>
-
         <openingstijden>
             <maandag open="13:00" sluiting="20:00"/>
             <dinsdag open="13:00" sluiting="20:00"/>
@@ -3983,9 +3749,7 @@
             <donderdag open="13:00" sluiting="20:00"/>
             <vrijdag open="13:00" sluiting="20:00"/>
             <zaterdag open="13:00" sluiting="20:00"/>
-
         </openingstijden>
-
         <autos>
             <occasions>
                 <kenteken>UI-HHH-11</kenteken>
@@ -4022,7 +3786,6 @@
                 </fotos>
             </huur>
         </autos>
-
     </showroom>
 
     <!--Keurmerken-->
