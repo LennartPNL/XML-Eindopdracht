@@ -369,12 +369,13 @@
                 </div>
                 </div>
 
+                </xsl:for-each>
+
                 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.js"></script>
                 <script type="text/javascript" src="source/js/isotope.js"></script>
                 <script type="text/javascript" src="source/js/myscript.js"></script>
                 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.1.11.js"></script>
                 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/bootstrap.js"></script>
-                </xsl:for-each>
             </body>
 
 
