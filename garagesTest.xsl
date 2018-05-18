@@ -277,6 +277,7 @@
                                             <div class="featurecontant">
                                                 <h1><xsl:value-of select="naam"/></h1><br/>
                                                 <p>Dit is <xsl:value-of select="naam"/></p>
+                                                <p><b>Onze <xsl:value-of select="functie"/></b></p>
 
                                             </div>
                                         </div>
