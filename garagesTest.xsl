@@ -195,28 +195,37 @@
                                         <img src="frontend2/image/fac.png" alt="garage" width="50%"/>
                                         <h3>Faciliteiten</h3>
                                     </center>
+
                                     <div class="table-responsive">
+
+                                        <xsl:for-each select="faciliteiten">
                                         <table class='table'>
                                             <tr class="text-center">
-                                                <xsl:for-each select="faciliteiten/*">
-                                                        <td><xsl:value-of select="local-name()"/></td>
-                                                </xsl:for-each>
                                             </tr>
-                                            <tr class="text-center">
-                                                <xsl:for-each select="faciliteiten">
+                                            <tr>
                                                     <xsl:for-each select="pompen/pomp">
-                                                        <td><xsl:value-of select='@brandstofType'/></td>
+                                                        <tr>
+                                                            <th>Pomp  </th>
+                                                            <td><xsl:value-of select='@brandstofType'/></td>
+                                                        </tr>
                                                     </xsl:for-each>
                                                     <xsl:for-each select="wassen/wasbox">
-                                                        <td>aantal wasboxen=<xsl:value-of select='@aantal'/></td>
+                                                        <th>Aantal wasboxen </th>
+                                                      <td><xsl:value-of select='@aantal'/></td>
                                                     </xsl:for-each>
                                                     <xsl:for-each select="faciliteiten/wassen/wasstraat">
-                                                        <td>aantal wasstraten=<xsl:value-of select='@aantal'/></td>
+                                                        <th>Aantal wasstraten </th>
+                                                      <td><xsl:value-of select='@aantal'/></td>
                                                     </xsl:for-each>
-                                                </xsl:for-each>
                                             </tr>
+
+
+
                                         </table>
+                                        </xsl:for-each>
                                     </div>
+
+
                                 </div>
                                 <div class="col-sm">
                                     <center>
