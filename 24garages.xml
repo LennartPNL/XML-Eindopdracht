@@ -1001,7 +1001,7 @@
             <medewerker>
                 <naam>Tamara Schilder</naam>
                 <foto>
-                    <bestandsLocatie>img/pers/gezicht9.png</bestandsLocatie>
+                    <bestandsLocatie>img/pers/gezicht9.jpg</bestandsLocatie>
                     <alt>Antje Geertsma</alt>
                 </foto>
                 <functie>monteur</functie>
@@ -3221,7 +3221,7 @@
             <medewerker>
                 <naam>Hanna Debecker</naam>
                 <foto>
-                    <bestandsLocatie>img/pers/gezicht9.png</bestandsLocatie>
+                    <bestandsLocatie>img/pers/gezicht9.jpg</bestandsLocatie>
                     <alt>Hanna Debecker</alt>
                 </foto>
                 <functie>balie medewerker</functie>
@@ -3801,7 +3801,7 @@
         <medewerker>
             <naam>Ingrid Broekhuis</naam>
             <foto>
-                <bestandsLocatie>img/pers/gezicht17.png</bestandsLocatie>
+                <bestandsLocatie>img/pers/gezicht17.jpg</bestandsLocatie>
                 <alt>Ingrid Broekhuis</alt>
             </foto>
             <functie>Monteur</functie>
@@ -3809,7 +3809,7 @@
         <medewerker>
             <naam>Barry Van Der Hoek</naam>
             <foto>
-                <bestandsLocatie>img/pers/gezicht18.png</bestandsLocatie>
+                <bestandsLocatie>img/pers/gezicht18.jpg</bestandsLocatie>
                 <alt>Barry Van Der Hoek</alt>
             </foto>
             <functie>Winkel bediende</functie>
