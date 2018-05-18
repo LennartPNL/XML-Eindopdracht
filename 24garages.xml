@@ -109,6 +109,38 @@
                         </foto>
                     </fotos>
                 </nieuw>
+                <nieuw>
+                    <kenteken>BH-JE-16</kenteken>
+                    <type>Terreinwagen</type>
+                    <merk>Landrover</merk>
+                    <model>Defender</model>
+                    <bouwjaar>1997</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs>149999</prijs>
+                    <datumEindAPK>06-06-2008</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>img/auto/auto23.jpg</bestandsLocatie>
+                            <alt>Onze Auto</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
+                <nieuw>
+                    <kenteken>BB-BB-19</kenteken>
+                    <type>SUV</type>
+                    <merk>BMW</merk>
+                    <model>Z3</model>
+                    <bouwjaar>2007</bouwjaar>
+                    <brandstof>Diesel</brandstof>
+                    <prijs>55000</prijs>
+                    <datumEindAPK>06-09-1994</datumEindAPK>
+                    <fotos>
+                        <foto>
+                            <bestandsLocatie>img/auto/auto29.jpg</bestandsLocatie>
+                            <alt>Onze Auto</alt>
+                        </foto>
+                    </fotos>
+                </nieuw>
 
                 <!--Occasions-->
                 <occasions>
@@ -151,6 +183,7 @@
         <!--Keurmerken-->
         <keurmerken>
             <keurmerk type="BOVAG"/>
+            <keurmerk type="RDW"/>
         </keurmerken>
 
         <!--Medewerkers-->
