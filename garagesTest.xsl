@@ -21,6 +21,7 @@
                 <link rel="stylesheet" type="text/css" href="frontend2/source/font-awesome-4.5.0/css/font-awesome.css"/>
                 <link rel="stylesheet" type="text/css" href="frontend2/style/slider.css"/>
                 <link rel="stylesheet" type="text/css" href="frontend2/style/mystyle.css"/>
+                <link rel="shortcut icon" type="image/png" href="frontend2/image/favi.png"/>
             </head>
 
             <body>
@@ -78,7 +79,7 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <center>
-                                        <img src="frontend2/image/garage.jpg" alt="garage" width="50%"/>
+                                        <img src="frontend2/image/garage.png" alt="garage" width="50%"/>
                                         <h3>Openingstijden Werkplaats</h3>
                                     </center>
                                     <div class="table-responsive">
@@ -91,7 +92,7 @@
                                 </div>
                                 <div class="col-sm">
                                     <center>
-                                        <img src="frontend2/image/showroom.jpg" alt="garage" width="50%"/>
+                                        <img src="frontend2/image/showroom.png" alt="garage" width="50%"/>
                                         <h3>Openingstijden Showroom</h3>
                                     </center>
                                     <div class="table-responsive">
@@ -104,7 +105,7 @@
                                 </div>
                                 <div class="col-sm">
                                     <center>
-                                        <img src="frontend2/image/shop.jpg" alt="garage" width="50%"/>
+                                        <img src="frontend2/image/shop.png" alt="garage" width="50%"/>
                                         <h3>Openingstijden Winkel</h3>
                                     </center>
                                     <div class="table-responsive">
@@ -214,7 +215,7 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <center>
-                                        <img src="frontend2/image/fac.jpg" alt="garage" width="50%"/>
+                                        <img src="frontend2/image/fac.png" alt="garage" width="50%"/>
                                         <h3>Faciliteiten</h3>
                                     </center>
                                     <table class='table'>
@@ -240,7 +241,7 @@
                                 </div>
                                 <div class="col-sm">
                                     <center>
-                                        <img src="frontend2/image/loc.jpg" alt="garage" width="50%"/>
+                                        <img src="frontend2/image/loc.png" alt="garage" width="50%"/>
                                         <h3>Adres</h3>
                                     </center>
                                     <table class='table'>
@@ -260,7 +261,7 @@
                                 </div>
                                 <div class="col-sm">
                                     <center>
-                                        <img src="frontend2/image/contact.jpg" alt="garage" width="50%"/>
+                                        <img src="frontend2/image/contact.png" alt="garage" width="50%"/>
                                         <h3>Contact</h3>
                                     </center>
                                     <table class='table'>
@@ -299,7 +300,7 @@
                                         </div>
                                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                             <div class="featurecontant">
-                                                <h1>Janjaap</h1><br/>
+                                                <h1><xsl:value-of select="medewerkers/medewerker/naam"/></h1><br/>
                                                 <p>Dit is Janjaap</p>
 
                                             </div>
