@@ -244,43 +244,30 @@
                                         <img src="frontend2/image/loc.png" alt="garage" width="50%"/>
                                         <h3>Adres</h3>
                                     </center>
-                                    <table class='table'>
-                                        <tr>
-                                            <td></td><td>Straat</td><td></td><td><xsl:value-of select="adres/straat"/></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td><td>Nummer</td><td></td><td><xsl:value-of select="adres/nummer"/></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td><td>Plaats</td><td></td><td><xsl:value-of select="adres/plaats"/></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td><td>Postcode</td><td></td><td><xsl:value-of select="adres/postcode"/></td>
-                                        </tr>
-                                    </table>
+                                    <div class="table-responsive">
+                                        <table class='table'>
+                                            <xsl:for-each select="adres/*">
+                                                <tr class="text-center">
+                                                    <td><xsl:value-of select="local-name()"/></td><td><xsl:value-of select="."/></td>
+                                                </tr>
+                                            </xsl:for-each>
+                                        </table>
+                                    </div>
                                 </div>
                                 <div class="col-sm">
                                     <center>
                                         <img src="frontend2/image/contact.png" alt="garage" width="50%"/>
                                         <h3>Contact</h3>
                                     </center>
-                                    <table class='table'>
-                                        <tr>
-                                            <td></td><td>Tel.</td><td></td><td><xsl:value-of select="contactGegevens/telefoonnummer"/></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td><td>Mail</td><td></td><td><xsl:value-of select="contactGegevens/email"/></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td><td>Site</td><td></td><td><xsl:value-of select="contactGegevens/website"/></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td><td>Omschrijving</td><td></td><td><xsl:value-of select="contactGegevens/omschrijving"/></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td><td>Route</td><td></td><td><xsl:value-of select="contactGegevens/routebeschrijving"/></td>
-                                        </tr>
-                                    </table>
+                                    <div class="table-responsive">
+                                        <table class='table'>
+                                            <xsl:for-each select="contactGegevens/*">
+                                                <tr class="text-center">
+                                                    <td><xsl:value-of select="local-name()"/></td><td><xsl:value-of select="."/></td>
+                                                </tr>
+                                            </xsl:for-each>
+                                        </table>
+                                    </div>
                                 </div>
                             </div>
                         </div>
