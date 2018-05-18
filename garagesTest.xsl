@@ -135,6 +135,7 @@
                         <!--Voor elke auto: PATTERN VAN MAKEN VOOR IEDER TYPE AUTO-->
                         <xsl:for-each select="showroom/autos">
                             <xsl:apply-templates select="huur"/>
+                        </xsl:for-each>
 
                         <!-- ____________________Occasions ______________________________-->
 
@@ -142,8 +143,18 @@
                             <h1 class="text-center"><span class="bdots"></span>O C C A S I O N S<span class="carstxt"></span></h1>
                         </div>
                         <!--Voor elke auto-->
-                        </xsl:for-each><xsl:for-each select="showroom/autos">
+                        <xsl:for-each select="showroom/autos">
                             <xsl:apply-templates select="occasions"/>
+                        </xsl:for-each>
+
+                        <!-- ____________________Leen Auto's ______________________________-->
+
+                        <div class="feturedsection">
+                            <h1 class="text-center"><span class="bdots"></span>L E E N A U T O ' S<span class="carstxt"></span></h1>
+                        </div>
+                        <!--Voor elke auto-->
+                        <xsl:for-each select="showroom/autos">
+                            <xsl:apply-templates select="huur[@uitleenbaar = 'true']"/>
                         </xsl:for-each>
 
 
