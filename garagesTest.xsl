@@ -219,6 +219,12 @@
                                                       <td><xsl:value-of select='@aantal'/></td>
                                                         </tr>
                                                     </xsl:for-each>
+                                                    <xsl:for-each select="winkel/assortiment/*">
+                                                        <tr>
+                                                            <th>Winkel product </th>
+                                                            <td><xsl:value-of select="local-name()"/></td>
+                                                        </tr>
+                                                    </xsl:for-each>
                                             </tr>
 
 
