@@ -71,8 +71,6 @@
                                             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                                 <div class="featurecontant">
                                                     <h1><xsl:value-of select='@type'/></h1><br/>
-                                                    <p>RDW Gecertificeerd</p>
-
                                                 </div>
                                             </div>
                                         </div>
