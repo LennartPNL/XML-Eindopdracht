@@ -878,6 +878,7 @@ font-weight: bold;
 	background-position: center center;
 	-webkit-background-size: cover;
 	background-size: cover;
+	height: 400px;
 }
 #readmore{
 	overflow-y: auto;

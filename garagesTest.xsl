@@ -330,8 +330,9 @@
             <div class="row firstrow">
                 <div class="col-lg-6 costumcol colborder2">
                     <div class="row costumrow">
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                            <img src="frontend2/image/featurporch1.jpg" alt="porsche1"/>
+                        <div>
+                            <xsl:attribute name="class">col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon customCarImage</xsl:attribute>
+                            <xsl:attribute name="style">background-image:url('<xsl:value-of select="fotos/foto/bestandsLocatie"/>');</xsl:attribute>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                             <div class="featurecontant">
@@ -368,8 +369,9 @@
             <div class="row firstrow">
                 <div class="col-lg-6 costumcol colborder2">
                     <div class="row costumrow">
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                            <img src="frontend2/image/featurporch1.jpg" alt="porsche1"/>
+                        <div>
+                            <xsl:attribute name="class">col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon customCarImage</xsl:attribute>
+                            <xsl:attribute name="style">background-image:url('<xsl:value-of select="fotos/foto/bestandsLocatie"/>');</xsl:attribute>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                             <div class="featurecontant">
