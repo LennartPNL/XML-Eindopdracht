@@ -28,7 +28,7 @@
 
                 <!-- Header -->
                 <div class="allcontain"/>
-                <center><h1>Aantal garages: 24</h1></center>
+                <center><h1>Aantal garages: <xsl:value-of select="count(garages/garage)"/></h1></center>
                 <xsl:for-each select="garages/garage">
                 <div class="header">
                     <ul class="socialicon">
@@ -38,7 +38,7 @@
                         <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                     </ul>
                     <ul class="givusacall">
-                        <li>GARAGENAAM HIER</li>
+                        <li><xsl:value-of select="@naam"/></li>
                     </ul>
                 </div>
 
