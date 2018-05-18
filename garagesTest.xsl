@@ -54,20 +54,26 @@
                         <div class="feturedimage">
                             <div class="row firstrow">
                                 <div class="col-lg-6 costumcol colborder2">
-                                    <div class="row costumrow">
-                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                            <img src="frontend2/image/RDW.png" alt="RDW"/>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
-                                            <div class="featurecontant">
-                                                <h1>RDW</h1><br/>
-                                                <p>RDW Gecertificeerd</p>
-
+                                    <xsl:for-each select="keurmerken/keurmerk">
+                                        <div class="row costumrow">
+                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
+                                                <xsl:variable name="keurmerk" select="@type"/>
+                                                <xsl:choose>
+                                                    <xsl:when test="$keurmerk = 'RDW'">
+                                                        <img src="frontend2/image/RDW.png" alt="RDW"/>
+                                                    </xsl:when>
+                                                    <xsl:when test="$keurmerk = 'BOVAG'">
+                                                        <img src="frontend2/image/BOVAG.jpg" alt="shop"/>
+                                                    </xsl:when>
+                                                </xsl:choose>
+                                            </div>
+                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
+                                                <div class="featurecontant">
+                                                    <h1><xsl:value-of select='@type'/></h1><br/>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-
-
+                                    </xsl:for-each>
                                 </div>
                             </div>
                             <br/>
@@ -229,8 +235,7 @@
                                             <th>Winkel</th>
                                         </tr>
                                         <tr>
-                                            <td></td>
-                                            <td></td>
+                                            <td></td>                                             <td></td>
                                             <td>X</td>
                                             <td></td>
                                             <td>V</td>
