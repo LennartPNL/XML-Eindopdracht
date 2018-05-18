@@ -803,6 +803,9 @@ font-weight: bold;
 .txt1colon{
 	width: 53.7%;
 }
+.feturedimage{
+	margin-bottom:15px;
+}
 .featurecontant{
 	width:85%;
 	height: auto;
@@ -834,7 +837,7 @@ font-weight: bold;
 	color: #020243;
 	text-align: center;
 	letter-spacing: 8px;
-	margin-top: 36%;
+	/*margin-top: 36%;*/
 	margin-bottom: 19px;
 }
 .featurecontant>button{
@@ -869,6 +872,12 @@ font-weight: bold;
 }
 .img2colon>img{
 	width: 100%;
+}
+
+.customCarImage {
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
 }
 #readmore{
 	overflow-y: auto;
@@ -973,15 +982,10 @@ margin-left: auto;
 	border-bottom: 0px solid #BABABA;
 }
 .colborder1{
-border-top: 1px solid #BABABA;
-border-left: 1px solid #BABABA;
-border-right:1px solid #BABABA; 
-border-bottom: 1px solid #BABABA;
+border: 1px solid #BABABA;
 }
 .colborder2{
-border-left: 1px solid #BABABA;
-border-right:1px solid #BABABA; 
-border-bottom: 1px solid #BABABA;
+border: 1px solid #BABABA;
 }
 .costumcol{
 display: block;
