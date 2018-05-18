@@ -195,7 +195,7 @@
                                         <table class='table'>
                                             <tr class="text-center">
                                             </tr>
-                                            <tr>
+                                            <tr class="text-center">
                                                     <xsl:for-each select="pompen/pomp">
                                                         <tr>
                                                             <th>Pomp  </th>
