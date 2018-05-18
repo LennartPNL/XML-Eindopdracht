@@ -213,9 +213,11 @@
                                                         <th>Aantal wasboxen </th>
                                                       <td><xsl:value-of select='@aantal'/></td>
                                                     </xsl:for-each>
-                                                    <xsl:for-each select="faciliteiten/wassen/wasstraat">
+                                                    <xsl:for-each select="wassen/wasstraat">
+                                                        <tr>
                                                         <th>Aantal wasstraten </th>
                                                       <td><xsl:value-of select='@aantal'/></td>
+                                                        </tr>
                                                     </xsl:for-each>
                                             </tr>
 
