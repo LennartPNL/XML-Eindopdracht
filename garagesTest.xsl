@@ -203,13 +203,23 @@
                                                         </tr>
                                                     </xsl:for-each>
                                                     <xsl:for-each select="wassen/wasbox">
+                                                        <tr>
                                                         <th>Aantal wasboxen </th>
                                                       <td><xsl:value-of select='@aantal'/></td>
+                                                        </tr>
                                                     </xsl:for-each>
-                                                    <xsl:for-each select="faciliteiten/wassen/wasstraat">
+                                                    <xsl:for-each select="wassen/wasstraat">
+                                                        <tr>
                                                         <th>Aantal wasstraten </th>
                                                       <td><xsl:value-of select='@aantal'/></td>
+                                                        </tr>
                                                     </xsl:for-each>
+                                                <xsl:for-each select="winkel/assortiment/*">
+                                                    <tr>
+                                                    <th>Winkel Product </th>
+                                                    <td><xsl:value-of select='local-name()'/></td>
+                                                    </tr>
+                                                </xsl:for-each>
                                             </tr>
 
 
