@@ -270,32 +270,27 @@
 
                         <!--Voor elke auto: PATTERN VAN MAKEN VOOR IEDER TYPE Medewerker-->
                         <xsl:for-each select="medewerkers/medewerker">
-                        <div class="feturedimage">
-                            <div class="row firstrow">
-                                <div class="col-lg-6 costumcol colborder2">
-                                    <div class="row costumrow">
-                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                            <img>
+                        <div class="feturedimage col-md-6">
+                            <div class="col-lg-12 costumcol colborder2">
+                                <div class="row costumrow">
+                                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
+                                        <img>
+                                            <xsl:attribute name="src">
+                                                <xsl:value-of select="foto/bestandsLocatie"/>
+                                            </xsl:attribute>
+                                            <xsl:attribute name="alt">
+                                                <xsl:value-of select="foto/alt"/>
+                                            </xsl:attribute>
+                                        </img>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
+                                        <div class="featurecontant">
+                                            <h1><xsl:value-of select="naam"/></h1><br/>
+                                            <p>Dit is <xsl:value-of select="naam"/></p>
+                                            <p><b>Onze <xsl:value-of select="functie"/></b></p>
 
-                                                <xsl:attribute name="src">
-                                                    <xsl:value-of select="foto/bestandsLocatie"/>
-                                                </xsl:attribute>
-                                                <xsl:attribute name="alt">
-                                                    <xsl:value-of select="foto/alt"/>
-                                                </xsl:attribute>
-                                            </img>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
-                                            <div class="featurecontant">
-                                                <h1><xsl:value-of select="naam"/></h1><br/>
-                                                <p>Dit is <xsl:value-of select="naam"/></p>
-                                                <p><b>Onze <xsl:value-of select="functie"/></b></p>
-
-                                            </div>
                                         </div>
                                     </div>
-
-
                                 </div>
                             </div>
 
