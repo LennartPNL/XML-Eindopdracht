@@ -16,22 +16,36 @@
                 <div class="container">
                     <div class="header">
                         <h1>Welkom Bij de Garage specialist</h1>
-                        <h2>Totale hoeveelheid garages: <xsl:value-of select="count(garages/garage)"/></h2>
+                        <h2>Totale hoeveelheid garages:
+                            <xsl:value-of select="count(garages/garage)"/>
+                        </h2>
                     </div>
                     <!-- Ga door alle garages heen-->
                     <xsl:for-each select="garages/garage">
                         <div class="garageName">
-                            <h2><xsl:value-of select="@naam"/></h2>
+                            <h2>
+                                <xsl:value-of select="@naam"/>
+                            </h2>
                         </div>
                         <div class="content">
                             <div class="adres">
                                 <h2>Adres</h2>
                                 <ul>
-                                    <li class="straat"><xsl:value-of select="adres/straat"/></li>
-                                    <li class="nummer"><xsl:value-of select="adres/nummer"/></li>
-                                    <li class="postcode"><xsl:value-of select="adres/postcode"/></li>
-                                    <li class="plaats"><xsl:value-of select="adres/plaats"/></li>
-                                    <li class="provincie"><xsl:value-of select="adres/provincie"/></li>
+                                    <li class="straat">
+                                        <xsl:value-of select="adres/straat"/>
+                                    </li>
+                                    <li class="nummer">
+                                        <xsl:value-of select="adres/nummer"/>
+                                    </li>
+                                    <li class="postcode">
+                                        <xsl:value-of select="adres/postcode"/>
+                                    </li>
+                                    <li class="plaats">
+                                        <xsl:value-of select="adres/plaats"/>
+                                    </li>
+                                    <li class="provincie">
+                                        <xsl:value-of select="adres/provincie"/>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="contactgegevens">
@@ -39,23 +53,33 @@
                                 <table class="contactTabel">
                                     <tr class="tel">
                                         <td>Tel.</td>
-                                        <td class="tel"><xsl:value-of select="contactGegevens/telefoonnummer"/></td>
+                                        <td class="tel">
+                                            <xsl:value-of select="contactGegevens/telefoonnummer"/>
+                                        </td>
                                     </tr>
                                     <tr class="email">
                                         <td>Mail</td>
-                                        <td class="email"><xsl:value-of select="contactGegevens/email"/></td>
+                                        <td class="email">
+                                            <xsl:value-of select="contactGegevens/email"/>
+                                        </td>
                                     </tr>
                                     <tr class="site">
                                         <td>site</td>
-                                        <td class="site"><xsl:value-of select="contactGegevens/website"/></td>
+                                        <td class="site">
+                                            <xsl:value-of select="contactGegevens/website"/>
+                                        </td>
                                     </tr>
                                     <tr class="omschrijving">
                                         <td>Omschrijving</td>
-                                        <td class="omschrijving"><xsl:value-of select="contactGegevens/omschrijving"/></td>
+                                        <td class="omschrijving">
+                                            <xsl:value-of select="contactGegevens/omschrijving"/>
+                                        </td>
                                     </tr>
                                     <tr class="route">
                                         <td>Route</td>
-                                        <td class="route"><xsl:value-of select="contactGegevens/routebeschrijving"/></td>
+                                        <td class="route">
+                                            <xsl:value-of select="contactGegevens/routebeschrijving"/>
+                                        </td>
                                     </tr>
                                 </table>
                             </div>
@@ -67,15 +91,18 @@
                                 <h2>Medewerkers</h2>
                                 <div class="medewerkers">
                                     <xsl:for-each select="medewerkers/medewerker">
-                                            <img>
-                                                <xsl:attribute name="src">
-                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'gezicht', (floor(math:random()*29) mod 10), '.jpg')"/>
-                                                </xsl:attribute>
-                                                <xsl:attribute name="alt">
-                                                    <xsl:value-of select="foto/alt"/>
-                                                </xsl:attribute>
-                                            </img>
-                                        <p><xsl:value-of select='naam'/></p>
+                                        <img>
+                                            <xsl:attribute name="src">
+                                                <xsl:value-of
+                                                        select="concat('../',foto/bestandsLocatie, 'gezicht', (floor(math:random()*29) mod 10), '.jpg')"/>
+                                            </xsl:attribute>
+                                            <xsl:attribute name="alt">
+                                                <xsl:value-of select="foto/alt"/>
+                                            </xsl:attribute>
+                                        </img>
+                                        <p>
+                                            <xsl:value-of select='naam'/>
+                                        </p>
                                     </xsl:for-each>
                                 </div>
                             </div>
@@ -85,7 +112,9 @@
                                     <h3>Pomp</h3>
                                     <ul class="brandstof">
                                         <xsl:for-each select="faciliteiten/pompen/pomp">
-                                            <li><xsl:value-of select='@brandstofType'/></li>
+                                            <li>
+                                                <xsl:value-of select='@brandstofType'/>
+                                            </li>
                                         </xsl:for-each>
                                     </ul>
                                 </div>
@@ -93,12 +122,14 @@
                                     <h3>Was</h3>
                                     <ul class="wasbox">
                                         <xsl:for-each select="faciliteiten/wassen/wasbox">
-                                            <li>aantal wasboxen=<xsl:value-of select='@aantal'/></li>
+                                            <li>aantal wasboxen=<xsl:value-of select='@aantal'/>
+                                            </li>
                                         </xsl:for-each>
                                     </ul>
                                     <ul class="wasstraat">
                                         <xsl:for-each select="faciliteiten/wassen/wasstraat">
-                                            <li>aantal wasstraten=<xsl:value-of select='@aantal'/></li>
+                                            <li>aantal wasstraten=<xsl:value-of select='@aantal'/>
+                                            </li>
                                         </xsl:for-each>
                                     </ul>
                                 </div>
@@ -106,10 +137,18 @@
                                     <h3>Winkel</h3>
                                     <ul class="assortiment">
                                         <xsl:for-each select="faciliteiten/winkel/assortiment">
-                                            <li><xsl:value-of select='levensmiddelen'/></li>
-                                            <li><xsl:value-of select='rookwaar'/></li>
-                                            <li><xsl:value-of select='tijdschriften'/></li>
-                                            <li><xsl:value-of select='autoAccesoires'/></li>
+                                            <li>
+                                                <xsl:value-of select='levensmiddelen'/>
+                                            </li>
+                                            <li>
+                                                <xsl:value-of select='rookwaar'/>
+                                            </li>
+                                            <li>
+                                                <xsl:value-of select='tijdschriften'/>
+                                            </li>
+                                            <li>
+                                                <xsl:value-of select='autoAccesoires'/>
+                                            </li>
                                         </xsl:for-each>
                                     </ul>
                                 </div>
@@ -132,31 +171,52 @@
                                         <xsl:for-each select="faciliteiten/winkel/openingstijden">
                                             <tr class="maandag">
                                                 <td>Maandag</td>
-                                                <td class="tijd"><xsl:value-of select='maandag/@open'/> - <xsl:value-of select='maandag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='maandag/@open'/> -
+                                                    <xsl:value-of select='maandag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="dinsdag">
                                                 <td>Dinsdag</td>
-                                                <td class="tijd"><xsl:value-of select='dinsdag/@open'/> - <xsl:value-of select='dinsdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='dinsdag/@open'/> -
+                                                    <xsl:value-of select='dinsdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="woensdag">
                                                 <td>Woensdag</td>
-                                                <td class="tijd"><xsl:value-of select='woensdag/@open'/> - <xsl:value-of select='woensdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='woensdag/@open'/> -
+                                                    <xsl:value-of select='woensdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="donderdag">
                                                 <td>Donderdag</td>
-                                                <td class="tijd"><xsl:value-of select='donderdag/@open'/> - <xsl:value-of select='donderdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='donderdag/@open'/> -
+                                                    <xsl:value-of select='donderdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="vrijdag">
                                                 <td>Vrijdag</td>
-                                                <td class="tijd"><xsl:value-of select='vrijdag/@open'/> - <xsl:value-of select='vrijdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='vrijdag/@open'/> -
+                                                    <xsl:value-of select='vrijdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="zaterdag">
                                                 <td>Zaterdag</td>
-                                                <td class="tijd"><xsl:value-of select='zaterdag/@open'/> - <xsl:value-of select='zaterdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='zaterdag/@open'/> -
+                                                    <xsl:value-of select='zaterdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="zondag">
                                                 <td>Zondag</td>
-                                                <td class="tijd"><xsl:value-of select='zondag/@open'/> - <xsl:value-of select='zondag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='zondag/@open'/> -
+                                                    <xsl:value-of select='zondag/@sluiting'/>
+                                                </td>
                                             </tr>
                                         </xsl:for-each>
                                     </table>
@@ -176,31 +236,52 @@
                                         <xsl:for-each select="werkplaats/openingstijden">
                                             <tr class="maandag">
                                                 <td>Maandag</td>
-                                                <td class="tijd"><xsl:value-of select='maandag/@open'/> - <xsl:value-of select='maandag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='maandag/@open'/> -
+                                                    <xsl:value-of select='maandag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="dinsdag">
                                                 <td>Dinsdag</td>
-                                                <td class="tijd"><xsl:value-of select='dinsdag/@open'/> - <xsl:value-of select='dinsdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='dinsdag/@open'/> -
+                                                    <xsl:value-of select='dinsdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="woensdag">
                                                 <td>Woensdag</td>
-                                                <td class="tijd"><xsl:value-of select='woensdag/@open'/> - <xsl:value-of select='woensdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='woensdag/@open'/> -
+                                                    <xsl:value-of select='woensdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="donderdag">
                                                 <td>Donderdag</td>
-                                                <td class="tijd"><xsl:value-of select='donderdag/@open'/> - <xsl:value-of select='donderdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='donderdag/@open'/> -
+                                                    <xsl:value-of select='donderdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="vrijdag">
                                                 <td>Vrijdag</td>
-                                                <td class="tijd"><xsl:value-of select='vrijdag/@open'/> - <xsl:value-of select='vrijdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='vrijdag/@open'/> -
+                                                    <xsl:value-of select='vrijdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="zaterdag">
                                                 <td>Zaterdag</td>
-                                                <td class="tijd"><xsl:value-of select='zaterdag/@open'/> - <xsl:value-of select='zaterdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='zaterdag/@open'/> -
+                                                    <xsl:value-of select='zaterdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="zondag">
                                                 <td>Zondag</td>
-                                                <td class="tijd"><xsl:value-of select='zondag/@open'/> - <xsl:value-of select='zondag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='zondag/@open'/> -
+                                                    <xsl:value-of select='zondag/@sluiting'/>
+                                                </td>
                                             </tr>
                                         </xsl:for-each>
                                     </table>
@@ -220,31 +301,52 @@
                                         <xsl:for-each select="showroom/openingstijden">
                                             <tr class="maandag">
                                                 <td>Maandag</td>
-                                                <td class="tijd"><xsl:value-of select='maandag/@open'/> - <xsl:value-of select='maandag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='maandag/@open'/> -
+                                                    <xsl:value-of select='maandag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="dinsdag">
                                                 <td>Dinsdag</td>
-                                                <td class="tijd"><xsl:value-of select='dinsdag/@open'/> - <xsl:value-of select='dinsdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='dinsdag/@open'/> -
+                                                    <xsl:value-of select='dinsdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="woensdag">
                                                 <td>Woensdag</td>
-                                                <td class="tijd"><xsl:value-of select='woensdag/@open'/> - <xsl:value-of select='woensdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='woensdag/@open'/> -
+                                                    <xsl:value-of select='woensdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="donderdag">
                                                 <td>Donderdag</td>
-                                                <td class="tijd"><xsl:value-of select='donderdag/@open'/> - <xsl:value-of select='donderdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='donderdag/@open'/> -
+                                                    <xsl:value-of select='donderdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="vrijdag">
                                                 <td>Vrijdag</td>
-                                                <td class="tijd"><xsl:value-of select='vrijdag/@open'/> - <xsl:value-of select='vrijdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='vrijdag/@open'/> -
+                                                    <xsl:value-of select='vrijdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="zaterdag">
                                                 <td>Zaterdag</td>
-                                                <td class="tijd"><xsl:value-of select='zaterdag/@open'/> - <xsl:value-of select='zaterdag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='zaterdag/@open'/> -
+                                                    <xsl:value-of select='zaterdag/@sluiting'/>
+                                                </td>
                                             </tr>
                                             <tr class="zondag">
                                                 <td>Zondag</td>
-                                                <td class="tijd"><xsl:value-of select='zondag/@open'/> - <xsl:value-of select='zondag/@sluiting'/></td>
+                                                <td class="tijd">
+                                                    <xsl:value-of select='zondag/@open'/> -
+                                                    <xsl:value-of select='zondag/@sluiting'/>
+                                                </td>
                                             </tr>
                                         </xsl:for-each>
                                     </table>
@@ -257,20 +359,34 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
+                                                    <xsl:value-of
+                                                            select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
                                             </img>
                                         </xsl:for-each>
-                                        <li><xsl:value-of select='kenteken'/></li>
-                                        <li><xsl:value-of select='type'/></li>
-                                        <li><xsl:value-of select='merk'/></li>
-                                        <li><xsl:value-of select='bouwjaar'/></li>
-                                        <li><xsl:value-of select='brandstof'/></li>
-                                        <li><xsl:value-of select='datumEindAPK'/></li>
-                                        <li>&#8364;<xsl:value-of select='prijs'/></li>
+                                        <li>
+                                            <xsl:value-of select='kenteken'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='type'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='merk'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='bouwjaar'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='brandstof'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='datumEindAPK'/>
+                                        </li>
+                                        <li>&#8364;<xsl:value-of select='prijs'/>
+                                        </li>
                                     </div>
                                 </xsl:for-each>
                                 <xsl:for-each select="showroom/autos/occasions">
@@ -278,20 +394,34 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
+                                                    <xsl:value-of
+                                                            select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
                                             </img>
                                         </xsl:for-each>
-                                        <li><xsl:value-of select='kenteken'/></li>
-                                        <li><xsl:value-of select='type'/></li>
-                                        <li><xsl:value-of select='merk'/></li>
-                                        <li><xsl:value-of select='bouwjaar'/></li>
-                                        <li><xsl:value-of select='brandstof'/></li>
-                                        <li><xsl:value-of select='datumEindAPK'/></li>
-                                        <li>&#8364;<xsl:value-of select='prijs'/></li>
+                                        <li>
+                                            <xsl:value-of select='kenteken'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='type'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='merk'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='bouwjaar'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='brandstof'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='datumEindAPK'/>
+                                        </li>
+                                        <li>&#8364;<xsl:value-of select='prijs'/>
+                                        </li>
                                     </div>
                                 </xsl:for-each>
                                 <xsl:for-each select="showroom/autos/huur">
@@ -299,20 +429,34 @@
                                         <xsl:for-each select="fotos">
                                             <img>
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
+                                                    <xsl:value-of
+                                                            select="concat('../',foto/bestandsLocatie, 'auto', (floor(math:random()*29) mod 10), '.jpg')"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
                                                     <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
                                             </img>
                                         </xsl:for-each>
-                                        <li><xsl:value-of select='kenteken'/></li>
-                                        <li><xsl:value-of select='type'/></li>
-                                        <li><xsl:value-of select='merk'/></li>
-                                        <li><xsl:value-of select='bouwjaar'/></li>
-                                        <li><xsl:value-of select='brandstof'/></li>
-                                        <li><xsl:value-of select='datumEindAPK'/></li>
-                                        <li>&#8364;<xsl:value-of select='prijs'/></li>
+                                        <li>
+                                            <xsl:value-of select='kenteken'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='type'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='merk'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='bouwjaar'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='brandstof'/>
+                                        </li>
+                                        <li>
+                                            <xsl:value-of select='datumEindAPK'/>
+                                        </li>
+                                        <li>&#8364;<xsl:value-of select='prijs'/>
+                                        </li>
                                     </div>
                                 </xsl:for-each>
                             </div>
