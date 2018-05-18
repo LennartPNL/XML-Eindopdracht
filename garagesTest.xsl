@@ -295,16 +295,16 @@
                             </center>
                             <table class='table'>
                                 <tr>
-                                    <td></td><td>Straat</td><td></td><td>x</td>
+                                    <td></td><td>Straat</td><td></td><td><xsl:value-of select="adres/straat"/></td>
                                 </tr>
                                 <tr>
-                                    <td></td><td>Nummer</td><td></td><td>x</td>
+                                    <td></td><td>Nummer</td><td></td><td><xsl:value-of select="adres/nummer"/></td>
                                 </tr>
                                 <tr>
-                                    <td></td><td>Plaats</td><td></td><td>x</td>
+                                    <td></td><td>Plaats</td><td></td><td><xsl:value-of select="adres/plaats"/></td>
                                 </tr>
                                 <tr>
-                                    <td></td><td>Postcode</td><td></td><td>x</td>
+                                    <td></td><td>Postcode</td><td></td><td><xsl:value-of select="adres/postcode"/></td>
                                 </tr>
                             </table>
                         </div>
