@@ -54,27 +54,20 @@
                         <div class="feturedimage">
                             <div class="row firstrow">
                                 <div class="col-lg-6 costumcol colborder2">
-                                    <xsl:for-each select="keurmerken/keurmerk">
-                                        <div class="row costumrow">
-                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                                <xsl:variable name="keurmerk" select="@type"/>
-                                                <xsl:choose>
-                                                    <xsl:when test="$keurmerk = 'RDW'">
-                                                        <img src="frontend2/image/RDW.png" alt="RDW"/>
-                                                    </xsl:when>
-                                                    <xsl:when test="$keurmerk = 'BOVAG'">
-                                                        <img src="frontend2/image/BOVAG.jpg" alt="shop"/>
-                                                    </xsl:when>
-                                                </xsl:choose>
+                                    <div class="row costumrow">
+                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
+                                            <img src="frontend2/image/RDW.png" alt="RDW"/>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
+                                            <div class="featurecontant">
+                                                <h1>RDW</h1><br/>
+                                                <p>RDW Gecertificeerd</p>
 
                                             </div>
-                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
-                                                <div class="featurecontant">
-                                                    <h1><xsl:value-of select='@type'/></h1><br/>
-                                                </div>
-                                            </div>
                                         </div>
-                                    </xsl:for-each>
+                                    </div>
+
+
                                 </div>
                             </div>
                             <br/>
@@ -285,6 +278,7 @@
                         </div>
 
                         <!--Voor elke auto: PATTERN VAN MAKEN VOOR IEDER TYPE Medewerker-->
+                        <xsl:for-each select="medewerkers/medewerker">
                         <div class="feturedimage">
                             <div class="row firstrow">
                                 <div class="col-lg-6 costumcol colborder2">
@@ -293,17 +287,17 @@
                                             <img>
 
                                                 <xsl:attribute name="src">
-                                                    <xsl:value-of select="medewerkers/medewerker/foto/bestandsLocatie"/>
+                                                    <xsl:value-of select="foto/bestandsLocatie"/>
                                                 </xsl:attribute>
                                                 <xsl:attribute name="alt">
-                                                    <xsl:value-of select="medewerkers/medewerker/foto/alt"/>
+                                                    <xsl:value-of select="foto/alt"/>
                                                 </xsl:attribute>
                                             </img>
                                         </div>
                                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                             <div class="featurecontant">
-                                                <h1><xsl:value-of select="medewerkers/medewerker/naam"/></h1><br/>
-                                                <p>Dit is <xsl:value-of select="medewerkers/medewerker/naam"/></p>
+                                                <h1><xsl:value-of select="naam"/></h1><br/>
+                                                <p>Dit is <xsl:value-of select="naam"/></p>
 
                                             </div>
                                         </div>
@@ -320,6 +314,7 @@
 
 
                         </div>
+                        </xsl:for-each>
                     </div>
 
                 </xsl:for-each>
