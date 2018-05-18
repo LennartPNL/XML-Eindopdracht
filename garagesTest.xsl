@@ -135,7 +135,6 @@
                         <!--Voor elke auto: PATTERN VAN MAKEN VOOR IEDER TYPE AUTO-->
                         <xsl:for-each select="showroom/autos">
                             <xsl:apply-templates select="huur"/>
-                        </xsl:for-each>
 
                         <!-- ____________________Occasions ______________________________-->
 
@@ -143,37 +142,9 @@
                             <h1 class="text-center"><span class="bdots"></span>O C C A S I O N S<span class="carstxt"></span></h1>
                         </div>
                         <!--Voor elke auto-->
-                        <div class="feturedimage">
-                            <div class="row firstrow">
-                                <div class="col-lg-6 costumcol colborder2">
-                                    <div class="row costumrow">
-                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                            <img src="frontend2/image/featurporch1.jpg" alt="porsche1"/>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
-                                            <div class="featurecontant">
-                                                <h1>Auto Naam</h1>
-                                                <p>"Lorem ipsum dolor sit amet, consectetur ,<br/>
-                                                    sed do eiusmod tempor incididunt </p>
-                                                <h2>Price</h2>
-                                                <button id="btnRM2">READ MORE</button>
-                                                <div id="readmore2">
-                                                    <h1>Car Name</h1>
-                                                    <p>"Lorem ipsum dolor sit amet, consectetur ,<br/>
-                                                        sed do eiusmod tempor incididunt <br/>"Lorem ipsum dolor sit amet, consectetur ,<br/>
-                                                        sed do eiusmod tempor incididunt"Lorem ipsum dolor sit amet, consectetur1 ,
-                                                        sed do eiusmod tempor incididunt"Lorem ipsum dolor sit amet, consectetur1
-                                                        sed do eiusmod tempor incididunt"Lorem ipsum dolor sit amet, consectetur1<br/></p>
-                                                    <button id="btnRL2">READ LESS</button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
+                        </xsl:for-each><xsl:for-each select="showroom/autos">
+                            <xsl:apply-templates select="occasions"/>
+                        </xsl:for-each>
 
 
 
@@ -341,6 +312,44 @@
         </tr>
     </xsl:template>
     <xsl:template match="huur">
+        <!-- autos hier -->
+        <div class="feturedimage">
+            <div class="row firstrow">
+                <div class="col-lg-6 costumcol colborder2">
+                    <div class="row costumrow">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
+                            <img src="frontend2/image/featurporch1.jpg" alt="porsche1"/>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
+                            <div class="featurecontant">
+                                <h1><xsl:value-of select="merk"/>, <xsl:value-of select="model"/></h1>
+                                <p>Kenteken: <xsl:value-of select="kenteken"/></p>
+                                <p>Type: <xsl:value-of select="type"/></p>
+                                <p>Bouwjaar: <xsl:value-of select="bouwjaar"/></p>
+                                <p>Brandstof: <xsl:value-of select="brandstof"/></p>
+                                <p>Datum eind APK: <xsl:value-of select="datumEindAPK"/></p>
+
+                                <h2>Prijs: <xsl:value-of select="prijs"/> euro per week.</h2>
+                                <button id="btnRM2">READ MORE</button>
+                                <div id="readmore2">
+                                    <h1>Car Name</h1>
+                                    <p>"Lorem ipsum dolor sit amet, consectetur ,<br/>
+                                        sed do eiusmod tempor incididunt <br/>"Lorem ipsum dolor sit amet, consectetur ,<br/>
+                                        sed do eiusmod tempor incididunt"Lorem ipsum dolor sit amet, consectetur1 ,
+                                        sed do eiusmod tempor incididunt"Lorem ipsum dolor sit amet, consectetur1
+                                        sed do eiusmod tempor incididunt"Lorem ipsum dolor sit amet, consectetur1<br/></p>
+                                    <button id="btnRL2">READ LESS</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </xsl:template>
+    <xsl:template match="occasions">
         <!-- autos hier -->
         <div class="feturedimage">
             <div class="row firstrow">
