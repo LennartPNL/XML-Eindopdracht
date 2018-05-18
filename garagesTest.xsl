@@ -79,7 +79,7 @@
                     <div class="row">
                         <div class="col-sm">
                             <center>
-                                <img src="frontend2/image/garage.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/garage.png" alt="garage" width="50%"/>
                                 <h3>Openingstijden Werkplaats</h3>
                             </center>
                             <div class="table-responsive">
@@ -109,7 +109,7 @@
                         </div>
                         <div class="col-sm">
                             <center>
-                                <img src="frontend2/image/shop.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/shop.png" alt="garage" width="50%"/>
                                 <h3>Openingstijden Winkel</h3>
                             </center>
                             <div class="table-responsive">
