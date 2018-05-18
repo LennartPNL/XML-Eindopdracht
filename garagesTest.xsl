@@ -296,12 +296,20 @@
                                 <div class="col-lg-6 costumcol colborder2">
                                     <div class="row costumrow">
                                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                            <img src="frontend2/image/person.jpg" alt="porsche1"/>
+                                            <img>
+
+                                                <xsl:attribute name="src">
+                                                    <xsl:value-of select="medewerkers/medewerker/foto/bestandsLocatie"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="alt">
+                                                    <xsl:value-of select="medewerkers/medewerker/foto/alt"/>
+                                                </xsl:attribute>
+                                            </img>
                                         </div>
                                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                             <div class="featurecontant">
                                                 <h1><xsl:value-of select="medewerkers/medewerker/naam"/></h1><br/>
-                                                <p>Dit is Janjaap</p>
+                                                <p>Dit is <xsl:value-of select="medewerkers/medewerker/naam"/></p>
 
                                             </div>
                                         </div>
