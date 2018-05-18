@@ -195,25 +195,28 @@
                                         <img src="frontend2/image/fac.png" alt="garage" width="50%"/>
                                         <h3>Faciliteiten</h3>
                                     </center>
-                                    <table class='table'>
-                                        <tr>
-                                            <td></td>
-                                            <td></td>
-                                            <th>Pomp</th>
-                                            <td></td>
-                                            <th>Was</th>
-                                            <td></td>
-                                            <th>Winkel</th>
-                                        </tr>
-                                        <tr>
-                                            <td></td>                                             <td></td>
-                                            <td>X</td>
-                                            <td></td>
-                                            <td>V</td>
-                                            <td></td>
-                                            <td>V</td>
-                                        </tr>
-                                    </table>
+                                    <div class="table-responsive">
+                                        <table class='table'>
+                                            <tr class="text-center">
+                                                <xsl:for-each select="faciliteiten/*">
+                                                        <td><xsl:value-of select="local-name()"/></td>
+                                                </xsl:for-each>
+                                            </tr>
+                                            <tr class="text-center">
+                                                <xsl:for-each select="faciliteiten">
+                                                    <xsl:for-each select="pompen/pomp">
+                                                        <td><xsl:value-of select='@brandstofType'/></td>
+                                                    </xsl:for-each>
+                                                    <xsl:for-each select="wassen/wasbox">
+                                                        <td>aantal wasboxen=<xsl:value-of select='@aantal'/></td>
+                                                    </xsl:for-each>
+                                                    <xsl:for-each select="faciliteiten/wassen/wasstraat">
+                                                        <td>aantal wasstraten=<xsl:value-of select='@aantal'/></td>
+                                                    </xsl:for-each>
+                                                </xsl:for-each>
+                                            </tr>
+                                        </table>
+                                    </div>
                                 </div>
                                 <div class="col-sm">
                                     <center>
