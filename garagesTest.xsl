@@ -24,7 +24,7 @@
                 <link rel="shortcut icon" type="image/png" href="frontend2/image/favi.png"/>
             </head>
 
-            <body>
+            <body background="frontend2/image/bg.jpg">
 
 
                 <!-- Header -->
