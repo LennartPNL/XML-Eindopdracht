@@ -79,7 +79,7 @@
                             <br/>
                             <br/>
 
-                            <!--Openingstijden-->
+                            <!--Openingstijden.-->
 
 
                             <div class="row">
