@@ -881,6 +881,13 @@ font-weight: bold;
 	background-size: cover;
 	height: 400px;
 }
+
+.customMedewerkerImage {
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 200px;
+}
 #readmore{
 	overflow-y: auto;
 	position: absolute;

@@ -273,15 +273,9 @@
                         <div class="feturedimage col-md-6">
                             <div class="col-lg-12 costumcol colborder2">
                                 <div class="row costumrow">
-                                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                        <img>
-                                            <xsl:attribute name="src">
-                                                <xsl:value-of select="foto/bestandsLocatie"/>
-                                            </xsl:attribute>
-                                            <xsl:attribute name="alt">
-                                                <xsl:value-of select="foto/alt"/>
-                                            </xsl:attribute>
-                                        </img>
+                                    <div>
+                                        <xsl:attribute name="class">col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon customMedewerkerImage</xsl:attribute>
+                                        <xsl:attribute name="style">background-image:url('<xsl:value-of select="foto/bestandsLocatie"/>');</xsl:attribute>
                                     </div>
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                         <div class="featurecontant">
