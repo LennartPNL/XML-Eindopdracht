@@ -315,19 +315,19 @@
                             </center>
                             <table class='table'>
                                 <tr>
-                                    <td></td><td>Tel.</td><td></td><td>x</td>
+                                    <td></td><td>Tel.</td><td></td><td><xsl:value-of select="contactGegevens/telefoonnummer"/></td>
                                 </tr>
                                 <tr>
-                                    <td></td><td>Mail</td><td></td><td>x</td>
+                                    <td></td><td>Mail</td><td></td><td><xsl:value-of select="contactGegevens/email"/></td>
                                 </tr>
                                 <tr>
-                                    <td></td><td>Site</td><td></td><td>x</td>
+                                    <td></td><td>Site</td><td></td><td><xsl:value-of select="contactGegevens/website"/></td>
                                 </tr>
                                 <tr>
-                                    <td></td><td>Omschrijving</td><td></td><td>x</td>
+                                    <td></td><td>Omschrijving</td><td></td><td><xsl:value-of select="contactGegevens/omschrijving"/></td>
                                 </tr>
                                 <tr>
-                                    <td></td><td>Route</td><td></td><td>x</td>
+                                    <td></td><td>Route</td><td></td><td><xsl:value-of select="contactGegevens/routebeschrijving"/></td>
                                 </tr>
                             </table>
                         </div>
