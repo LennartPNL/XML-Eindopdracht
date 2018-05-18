@@ -42,7 +42,7 @@
                     </ul>
                 </div>
 
-                <div class="container"/>
+                <div class="container">
 
                 <!-- ____________________Keurmerken ______________________________-->
                 <div class="feturedsection">
@@ -55,7 +55,7 @@
                         <div class="col-lg-6 costumcol colborder2">
                             <div class="row costumrow">
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                    <img src="frontend2/image/RDW.jpg" alt="porsche1"/>
+                                    <img src="frontend2/image/RDW.JPG" alt="RDW"/>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                     <div class="featurecontant">
@@ -366,6 +366,7 @@
 
 
 
+                </div>
                 </div>
 
                 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.js"></script>
