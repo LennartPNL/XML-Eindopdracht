@@ -38,7 +38,7 @@
                         <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                     </ul>
                     <ul class="givusacall">
-                        <li><xsl:value-of select="@naam"/></li>
+                        <h1><xsl:value-of select="@naam"/></h1>
                     </ul>
                 </div>
 
@@ -55,7 +55,7 @@
                         <div class="col-lg-6 costumcol colborder2">
                             <div class="row costumrow">
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                    <img src="frontend2/image/RDW.JPG" alt="RDW"/>
+                                    <img src="frontend2/image/RDW.png" alt="RDW"/>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                     <div class="featurecontant">
