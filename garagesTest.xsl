@@ -80,62 +80,47 @@
                         <div class="col-sm">
                             <center>
                                 <img src="frontend2/image/garage.jpg" alt="garage" width="50%"/>
-                                <h3>Openingstijden Garage</h3>
+                                <h3>Openingstijden Werkplaats</h3>
                             </center>
+                            <div class="table-responsive">
                             <table class='table'>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
+                                <xsl:for-each select="werkplaats/openingstijden/*">
+                                <tr class="text-center">
+                                    <td><xsl:value-of select="local-name()"/></td><td><xsl:value-of select="@open"/> - <xsl:value-of select="@sluiting"/></td>
                                 </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
+                                </xsl:for-each>
                             </table>
+                            </div>
                         </div>
                         <div class="col-sm">
                             <center>
                                 <img src="frontend2/image/showroom.jpg" alt="garage" width="50%"/>
                                 <h3>Openingstijden Showroom</h3>
                             </center>
-                            <table class='table'>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                            </table>
+                            <div class="table-responsive">
+                                <table class='table'>
+                                    <xsl:for-each select="showroom/openingstijden/*">
+                                        <tr class="text-center">
+                                            <td><xsl:value-of select="local-name()"/></td><td><xsl:value-of select="@open"/> - <xsl:value-of select="@sluiting"/></td>
+                                        </tr>
+                                    </xsl:for-each>
+                                </table>
+                            </div>
                         </div>
                         <div class="col-sm">
                             <center>
                                 <img src="frontend2/image/shop.jpg" alt="garage" width="50%"/>
                                 <h3>Openingstijden Winkel</h3>
                             </center>
-                            <table class='table'>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                                <tr>
-                                    <td></td><td>Dag</td><td></td><td>Tijd</td>
-                                </tr>
-                            </table>
+                            <div class="table-responsive">
+                                <table class='table'>
+                                    <xsl:for-each select="faciliteiten/winkel/openingstijden/*">
+                                        <tr class="text-center">
+                                            <td><xsl:value-of select="local-name()"/></td><td><xsl:value-of select="@open"/> - <xsl:value-of select="@sluiting"/></td>
+                                        </tr>
+                                    </xsl:for-each>
+                                </table>
+                            </div>
                         </div>
                     </div>
                 </div>
