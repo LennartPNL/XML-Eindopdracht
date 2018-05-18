@@ -55,7 +55,7 @@
                         <div class="col-lg-6 costumcol colborder2">
                             <div class="row costumrow">
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                    <img src="image/RDW.jpg" alt="porsche1"/>
+                                    <img src="frontend2/image/RDW.jpg" alt="porsche1"/>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                     <div class="featurecontant">
@@ -79,7 +79,7 @@
                     <div class="row">
                         <div class="col-sm">
                             <center>
-                                <img src="image/garage.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/garage.jpg" alt="garage" width="50%"/>
                                 <h3>Openingstijden Garage</h3>
                             </center>
                             <table class='table'>
@@ -99,7 +99,7 @@
                         </div>
                         <div class="col-sm">
                             <center>
-                                <img src="image/showroom.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/showroom.jpg" alt="garage" width="50%"/>
                                 <h3>Openingstijden Showroom</h3>
                             </center>
                             <table class='table'>
@@ -119,7 +119,7 @@
                         </div>
                         <div class="col-sm">
                             <center>
-                                <img src="image/shop.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/shop.jpg" alt="garage" width="50%"/>
                                 <h3>Openingstijden Winkel</h3>
                             </center>
                             <table class='table'>
@@ -153,7 +153,7 @@
                         <div class="col-lg-6 costumcol colborder2">
                             <div class="row costumrow">
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                    <img src="image/featurporch1.jpg" alt="porsche1"/>
+                                    <img src="frontend2/image/featurporch1.jpg" alt="porsche1"/>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                     <div class="featurecontant">
@@ -191,7 +191,7 @@
                         <div class="col-lg-6 costumcol colborder2">
                             <div class="row costumrow">
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                    <img src="image/featurporch1.jpg" alt="porsche1"/>
+                                    <img src="frontend2/image/featurporch1.jpg" alt="porsche1"/>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                     <div class="featurecontant">
@@ -231,7 +231,7 @@
                         <div class="col-lg-6 costumcol colborder2">
                             <div class="row costumrow">
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                    <img src="image/featurporch1.jpg" alt="porsche1"/>
+                                    <img src="frontend2/image/featurporch1.jpg" alt="porsche1"/>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                     <div class="featurecontant">
@@ -264,7 +264,7 @@
                     <div class="row">
                         <div class="col-sm">
                             <center>
-                                <img src="image/fac.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/fac.jpg" alt="garage" width="50%"/>
                                 <h3>Faciliteiten</h3>
                             </center>
                             <table class='table'>
@@ -290,7 +290,7 @@
                         </div>
                         <div class="col-sm">
                             <center>
-                                <img src="image/loc.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/loc.jpg" alt="garage" width="50%"/>
                                 <h3>Adres</h3>
                             </center>
                             <table class='table'>
@@ -310,7 +310,7 @@
                         </div>
                         <div class="col-sm">
                             <center>
-                                <img src="image/contact.jpg" alt="garage" width="50%"/>
+                                <img src="frontend2/image/contact.jpg" alt="garage" width="50%"/>
                                 <h3>Contact</h3>
                             </center>
                             <table class='table'>
@@ -345,7 +345,7 @@
                         <div class="col-lg-6 costumcol colborder2">
                             <div class="row costumrow">
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 img2colon">
-                                    <img src="image/person.jpg" alt="porsche1"/>
+                                    <img src="frontend2/image/person.jpg" alt="porsche1"/>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 txt1colon ">
                                     <div class="featurecontant">
