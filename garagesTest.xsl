@@ -21,6 +21,7 @@
                 <link rel="stylesheet" type="text/css" href="frontend2/source/font-awesome-4.5.0/css/font-awesome.css"/>
                 <link rel="stylesheet" type="text/css" href="frontend2/style/slider.css"/>
                 <link rel="stylesheet" type="text/css" href="frontend2/style/mystyle.css"/>
+                <link rel="icon" href="frontend2/image/favi.png" type="image/png"/>
             </head>
 
             <body>
